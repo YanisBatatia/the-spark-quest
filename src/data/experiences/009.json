@@ -1,0 +1,21 @@
+{
+  "id": "009",
+  "title": "Experience Anchorage's Fur Rondy",
+  "location": {
+    "label": "Anchorage, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "Discover snow sculptures, sled-dog racing and eccentric local traditions at an established winter festival.",
+  "source": {
+    "pdfId": "009",
+    "pdfPage": 7
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Discover snow sculptures, sled-dog racing and eccentric local traditions at an established winter festival.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "Earlier research listed February 25 to March 7, 2027. Confirm the program, and choose a seated or shorter event if that suits you.",
+  "whyItMightDelightYou": "Discover snow sculptures, sled-dog racing and eccentric local traditions at an established winter festival."
+}

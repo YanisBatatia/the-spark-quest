@@ -1,0 +1,24 @@
+{
+  "id": "068",
+  "title": "Make a Hawaiian flower lei",
+  "location": {
+    "label": "Makoa Quest, Maui, Hawaii",
+    "placeGroup": "Hawaii"
+  },
+  "description": "Join a cultural practitioner for lei-making, storytelling and optional gentle hula.",
+  "source": {
+    "pdfId": "068",
+    "pdfPage": 25
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Join a cultural practitioner for lei-making, storytelling and optional gentle hula.",
+  "moods": [
+    "make"
+  ],
+  "goodToKnow": "The earlier research described a two-hour experience. Dancing can be enjoyed or skipped.",
+  "whyItMightDelightYou": "Join a cultural practitioner for lei-making, storytelling and optional gentle hula.",
+  "provider": {
+    "name": "Makoa Quest",
+    "url": "https://www.makoaquest.org/quest-details/hawaiian-hula-lei-making"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "011",
+  "title": "Search for wild wolves with an expert",
+  "location": {
+    "label": "Lamar Valley, Yellowstone, Wyoming",
+    "placeGroup": "Wyoming"
+  },
+  "description": "Spend a morning with a private wildlife naturalist and powerful spotting scopes. Real suspense, discovery and a wild winter landscape distinguish this from a zoo visit.",
+  "source": {
+    "pdfId": "011",
+    "pdfPage": 8
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Spend a morning with a private wildlife naturalist and powerful spotting scopes.",
+  "moods": [
+    "nature"
+  ],
+  "goodToKnow": "Viewing happens mainly from a vehicle, with optional cold outdoor stops. Wildlife sightings are always unpredictable.",
+  "whyItMightDelightYou": "Spend a morning with a private wildlife naturalist and powerful spotting scopes."
+}

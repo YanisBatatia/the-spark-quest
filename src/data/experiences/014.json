@@ -1,0 +1,22 @@
+{
+  "id": "014",
+  "title": "Take a sleigh to a candlelit cowboy dinner",
+  "location": {
+    "label": "Lone Mountain Ranch, Montana",
+    "placeGroup": "Montana"
+  },
+  "description": "Travel through snow to a historic cabin for a traditional Montana dinner with cowboy singers and storytellers.",
+  "source": {
+    "pdfId": "014",
+    "pdfPage": 8
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Travel through snow to a historic cabin for a traditional Montana dinner with cowboy singers and storytellers.",
+  "moods": [
+    "taste",
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "Ask about the winter schedule, sleigh boarding, bumps and cabin access before reserving.",
+  "whyItMightDelightYou": "Travel through snow to a historic cabin for a traditional Montana dinner with cowboy singers and storytellers."
+}

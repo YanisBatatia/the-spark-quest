@@ -1,0 +1,24 @@
+{
+  "id": "040",
+  "title": "Enjoy dinner as an immersive performance",
+  "location": {
+    "label": "Alinea, Chicago, Illinois",
+    "placeGroup": "Illinois"
+  },
+  "description": "Choose The Gallery for a roughly 3.5-hour tasting experience built around modernist gastronomy, theatrical presentation, unexpected textures and surprise.",
+  "source": {
+    "pdfId": "040",
+    "pdfPage": 16
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Turn dinner into an evening of theatrical surprises.",
+  "moods": [
+    "taste"
+  ],
+  "goodToKnow": "Reservations may open about two months ahead; confirm the current booking window, format and any dietary needs.",
+  "whyItMightDelightYou": "Choose The Gallery for a roughly 3.5-hour tasting experience built around modernist gastronomy, theatrical presentation, unexpected textures and surprise.",
+  "provider": {
+    "name": "Alinea",
+    "url": "https://alinearestaurant.com/"
+  }
+}

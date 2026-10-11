@@ -1,0 +1,21 @@
+{
+  "id": "006",
+  "title": "Watch the World Ice Art Championships",
+  "location": {
+    "label": "Fairbanks, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "See enormous ice blocks transformed into intricate sculptures, illuminated after dark.",
+  "source": {
+    "pdfId": "006",
+    "pdfPage": 6
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "See enormous ice blocks transformed into intricate sculptures, illuminated after dark.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "Earlier research listed the 2027 competition beginning February 15, with judging into March. Confirm the current program and prepare for cold outdoor walking.",
+  "whyItMightDelightYou": "See enormous ice blocks transformed into intricate sculptures, illuminated after dark."
+}

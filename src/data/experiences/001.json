@@ -1,0 +1,22 @@
+{
+  "id": "001",
+  "title": "Sleep beneath the Northern Lights",
+  "location": {
+    "label": "Fairbanks, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "Spend several nights at a remote aurora-viewing lodge, preferably with heated indoor viewing or an aurora-facing room. Waiting for the sky to come alive is the experience; several nights improve the chances.",
+  "source": {
+    "pdfId": "001",
+    "pdfPage": 5
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Spend several nights at a remote aurora-viewing lodge, preferably with heated indoor viewing or an aurora-facing room.",
+  "moods": [
+    "wonder",
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "Aurora season extends through April. Weather and sightings are never guaranteed.",
+  "whyItMightDelightYou": "Spend several nights at a remote aurora-viewing lodge, preferably with heated indoor viewing or an aurora-facing room."
+}

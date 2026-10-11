@@ -1,0 +1,21 @@
+{
+  "id": "039",
+  "title": "Stand beside an asteroid impact crater",
+  "location": {
+    "label": "Meteor Crater, Arizona",
+    "placeGroup": "Arizona"
+  },
+  "description": "Appreciate the scale of a spectacular geological site from the visitor-center observation experience.",
+  "source": {
+    "pdfId": "039",
+    "pdfPage": 16
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Appreciate the scale of a spectacular geological site from the visitor-center observation experience.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "Choose observation rather than a longer rim tour; check stairs and accessible viewpoints.",
+  "whyItMightDelightYou": "Appreciate the scale of a spectacular geological site from the visitor-center observation experience."
+}

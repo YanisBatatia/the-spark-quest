@@ -1,0 +1,20 @@
+{
+  "id": "008",
+  "title": "Encounter rescued Alaskan wildlife",
+  "location": {
+    "label": "Portage, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "Drive through the Alaska Wildlife Conservation Center to observe rescued wildlife, including bison, moose and other Alaskan species, in spacious habitats.",
+  "source": {
+    "pdfId": "008",
+    "pdfPage": 7
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Meet rescued Alaskan animals in spacious habitats.",
+  "moods": [
+    "nature"
+  ],
+  "goodToKnow": "Reduced winter schedule; species visibility varies, including winter bear activity.",
+  "whyItMightDelightYou": "Drive through the Alaska Wildlife Conservation Center to observe rescued wildlife, including bison, moose and other Alaskan species, in spacious habitats."
+}

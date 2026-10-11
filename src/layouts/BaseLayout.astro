@@ -1,0 +1,42 @@
+---
+import '../styles/global.css';
+
+const { title, description = 'A gentle collection of 101 experiences to explore at your own pace.' } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const explore = Astro.url.pathname.includes('/explore/') || Astro.url.pathname.includes('/experiences/');
+const myList = Astro.url.pathname.includes('/my-list/');
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f7f3ea" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <title>{title} | The Spark Quest</title>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header page-frame">
+        <a class="brand" href={base} aria-label="The Spark Quest home">
+          <svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true">
+            <circle cx="32" cy="32" r="9" fill="currentColor" />
+            <g stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+              <path d="M32 2v17M32 45v17M2 32h17M45 32h17M10.8 10.8l12 12M41.2 41.2l12 12M53.2 10.8l-12 12M22.8 41.2l-12 12" />
+              <path d="M20.5 3.9l5.4 15.7M38.1 44.4l5.4 15.7M3.9 20.5l15.7 5.4M44.4 38.1l15.7 5.4M43.5 3.9l-5.4 15.7M25.9 44.4l-5.4 15.7M60.1 20.5l-15.7 5.4M19.6 38.1l-15.7 5.4" />
+            </g>
+          </svg>
+          <span>The Spark Quest</span>
+        </a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href={`${base}explore/`} aria-current={explore ? 'page' : undefined}>Explore</a>
+          <a href={`${base}my-list/`} aria-current={myList ? 'page' : undefined}>My list</a>
+        </nav>
+      </header>
+      <main id="main-content"><slot /></main>
+      <footer class="site-footer page-frame"><span>A collection, not a checklist.</span><a href={`${base}image-credits/`}>Image credits</a></footer>
+    </div>
+    <script>import '../scripts/saved-list.ts';</script>
+  </body>
+</html>

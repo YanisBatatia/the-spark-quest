@@ -1,0 +1,20 @@
+{
+  "id": "058",
+  "title": "Experience a great opera at the Met",
+  "location": {
+    "label": "Metropolitan Opera, New York City",
+    "placeGroup": "New York City"
+  },
+  "description": "Choose a visually impressive production, reserve excellent seats and make the entire evening special.",
+  "source": {
+    "pdfId": "058",
+    "pdfPage": 22
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Choose a visually impressive production, reserve excellent seats and make the entire evening special.",
+  "moods": [
+    "listen"
+  ],
+  "goodToKnow": "Seated; choose a suitable running time and current January-February production.",
+  "whyItMightDelightYou": "Choose a visually impressive production, reserve excellent seats and make the entire evening special."
+}

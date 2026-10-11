@@ -1,0 +1,21 @@
+{
+  "id": "037",
+  "title": "Enter a vast underground cathedral",
+  "location": {
+    "label": "Carlsbad Caverns, New Mexico",
+    "placeGroup": "New Mexico"
+  },
+  "description": "Descend by elevator to the Big Room and enjoy a manageable portion of its immense illuminated formations.",
+  "source": {
+    "pdfId": "037",
+    "pdfPage": 15
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Descend by elevator to the Big Room and enjoy a manageable portion of its immense illuminated formations.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "Full loop is long. Verify elevator operation and the suitability of the chosen route.",
+  "whyItMightDelightYou": "Descend by elevator to the Big Room and enjoy a manageable portion of its immense illuminated formations."
+}

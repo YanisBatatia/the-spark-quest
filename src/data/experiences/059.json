@@ -1,0 +1,20 @@
+{
+  "id": "059",
+  "title": "Discover ballet at Lincoln Center",
+  "location": {
+    "label": "New York City Ballet, New York",
+    "placeGroup": "New York"
+  },
+  "description": "Live orchestra, athletic artistry and storytelling offer a chance to discover an unfamiliar artistic interest.",
+  "source": {
+    "pdfId": "059",
+    "pdfPage": 22
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Live orchestra, athletic artistry and storytelling offer a chance to discover an unfamiliar artistic interest.",
+  "moods": [
+    "listen"
+  ],
+  "goodToKnow": "Earlier research listed a January 19 to February 28, 2027 winter season. Choose a current program and seats that suit you.",
+  "whyItMightDelightYou": "Live orchestra, athletic artistry and storytelling offer a chance to discover an unfamiliar artistic interest."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "069",
+  "title": "Help care for sea otters behind the scenes",
+  "location": {
+    "label": "Georgia Aquarium, Atlanta, Georgia",
+    "placeGroup": "Georgia"
+  },
+  "description": "Join animal-care specialists to prepare food, observe feeding and participate in supervised training or enrichment.",
+  "source": {
+    "pdfId": "069",
+    "pdfPage": 25
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Join animal-care specialists to prepare food, observe feeding and participate in supervised training or enrichment.",
+  "moods": [
+    "nature"
+  ],
+  "goodToKnow": "The earlier research described a small-group encounter of about 30 minutes. There is no swimming; touching an animal is never guaranteed. Confirm current access and participation rules.",
+  "whyItMightDelightYou": "Join animal-care specialists to prepare food, observe feeding and participate in supervised training or enrichment.",
+  "provider": {
+    "name": "Georgia Aquarium",
+    "url": "https://www.georgiaaquarium.org/experience/sea-otter-encounter/"
+  }
+}

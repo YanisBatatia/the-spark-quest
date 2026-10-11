@@ -1,0 +1,32 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import train from '../assets/experiences/003.jpg';
+import pottery from '../assets/experiences/067.png';
+import jazz from '../assets/experiences/051.png';
+import Decorations from '../components/Decorations.astro';
+
+const base = import.meta.env.BASE_URL;
+const ids = (await getCollection('experiences')).map((idea) => idea.id);
+---
+<BaseLayout title="Welcome">
+  <section class="welcome page-frame">
+    <Decorations variant="welcome" />
+    <div class="welcome-copy">
+      <h1>A little room for wonder.</h1>
+      <p class="lead">101 experiences to explore at your own pace.<br />Follow your curiosity; there is nothing to finish.</p>
+      <div class="welcome-actions">
+        <a class="button button-primary" href={`${base}explore/`}>Explore ideas <span aria-hidden="true">→</span></a>
+        <button class="button button-outline" type="button" data-random-destination={JSON.stringify(ids)} data-base={base}><span aria-hidden="true">✧</span> Take me somewhere</button>
+      </div>
+    </div>
+    <div class="collage" aria-label="Scenes of a winter train, pottery, and live jazz">
+      <figure class="collage-photo collage-train"><Image src={train} alt="Alaska train traveling through a snowy forest" width={900} format="webp" loading="eager" fetchpriority="high" /></figure>
+      <figure class="collage-photo collage-pottery"><Image src={pottery} alt="Illustration of hands shaping pottery" width={660} format="webp" loading="eager" /></figure>
+      <figure class="collage-photo collage-jazz"><Image src={jazz} alt="Illustration of an intimate jazz performance" width={760} format="webp" loading="eager" /></figure>
+    </div>
+    <p class="welcome-note">A collection, not a checklist.</p>
+  </section>
+  <script>import '../scripts/random.ts';</script>
+</BaseLayout>

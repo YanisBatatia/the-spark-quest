@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL;
+---
+<BaseLayout title="Page not found" description="This page is not part of The Spark Quest.">
+  <section class="missing-page page-frame">
+    <p class="missing-code">404</p>
+    <h1>A small detour.</h1>
+    <p class="lead">That page is not here, but there are still plenty of ideas to explore.</p>
+    <a class="button button-primary" href={`${base}explore/`}>Explore ideas <span aria-hidden="true">→</span></a>
+  </section>
+</BaseLayout>

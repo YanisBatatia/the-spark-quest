@@ -1,0 +1,25 @@
+{
+  "id": "010",
+  "title": "Fish from a warm cabin on a frozen lake",
+  "location": {
+    "label": "Fairbanks, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "Rod's Alaskan Guide Service offers heated-cabin ice fishing, hot snacks and the possibility of preparing a freshly caught fish. A nighttime format adds opportunities to watch for auroras.",
+  "source": {
+    "pdfId": "010",
+    "pdfPage": 7
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Rod's Alaskan Guide Service offers heated-cabin ice fishing, hot snacks and the possibility of preparing a freshly caught fish.",
+  "moods": [
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "Winter outings are commonly offered from November into early April. The catch and any aurora sighting will depend on conditions.",
+  "whyItMightDelightYou": "Rod's Alaskan Guide Service offers heated-cabin ice fishing, hot snacks and the possibility of preparing a freshly caught fish.",
+  "provider": {
+    "name": "Rod's Alaskan Guide Service",
+    "url": "https://rodsalaskanguideservice.com/ice-fishing/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "002",
+  "title": "Fly around Denali in winter",
+  "location": {
+    "label": "Talkeetna, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "Talkeetna Air Taxi's Winter Explorer reveals North America's highest mountain, immense glaciers and snow-covered peaks from a small aircraft.",
+  "source": {
+    "pdfId": "002",
+    "pdfPage": 5
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "See snowy Denali and its glaciers from a small aircraft.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "Winter flightseeing is weather dependent. The earlier research listed flights around one hour and fares from $325; confirm current prices, boarding and weight policies with the operator.",
+  "whyItMightDelightYou": "Talkeetna Air Taxi's Winter Explorer reveals North America's highest mountain, immense glaciers and snow-covered peaks from a small aircraft.",
+  "provider": {
+    "name": "Talkeetna Air Taxi",
+    "url": "https://www.talkeetnaair.com/flightseeing/"
+  }
+}

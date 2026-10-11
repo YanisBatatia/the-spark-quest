@@ -1,0 +1,20 @@
+{
+  "id": "027",
+  "title": "Explore the Everglades by seated tram",
+  "location": {
+    "label": "Shark Valley, Florida",
+    "placeGroup": "Florida"
+  },
+  "description": "Join a naturalist-led tram tour to see alligators, wading birds and the ecology of this extraordinary wetland.",
+  "source": {
+    "pdfId": "027",
+    "pdfPage": 12
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Join a naturalist-led tram tour to see alligators, wading birds and the ecology of this extraordinary wetland.",
+  "moods": [
+    "nature"
+  ],
+  "goodToKnow": "January-February dry season is often favorable. Confirm tram accessibility and departure times.",
+  "whyItMightDelightYou": "Join a naturalist-led tram tour to see alligators, wading birds and the ecology of this extraordinary wetland."
+}

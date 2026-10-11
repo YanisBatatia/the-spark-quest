@@ -1,0 +1,21 @@
+{
+  "id": "091",
+  "title": "Enter an indoor world of orchids",
+  "location": {
+    "label": "New York Botanical Garden, New York",
+    "placeGroup": "New York"
+  },
+  "description": "Explore a conservatory filled with orchids, color and imaginative displays during the seasonal flower show.",
+  "source": {
+    "pdfId": "091",
+    "pdfPage": 32
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Step into a warm indoor world of orchids and color.",
+  "moods": [
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "Earlier research listed February 6 to April 25, 2027 for the Orchid Show. Confirm the exhibition, tickets and conservatory route.",
+  "whyItMightDelightYou": "A garden in bloom can feel like a different season for an afternoon."
+}

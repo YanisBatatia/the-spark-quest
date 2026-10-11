@@ -1,0 +1,16 @@
+---
+const { id, title, large = false } = Astro.props;
+---
+<button
+  type="button"
+  class:list={['save-button', { 'save-button-large': large }]}
+  data-save-id={id}
+  data-save-title={title}
+  aria-label={`Save ${title} to my list`}
+  aria-pressed="false"
+>
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+    <path d="M6 3.5h12v17L12 16.6 6 20.5z" stroke-linejoin="round" />
+  </svg>
+  {large && <span class="save-label">Save to my list</span>}
+</button>

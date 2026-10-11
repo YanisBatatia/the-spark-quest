@@ -1,0 +1,25 @@
+{
+  "id": "044",
+  "title": "Attend Sundance's first Boulder edition",
+  "location": {
+    "label": "Boulder, Colorado",
+    "placeGroup": "Colorado"
+  },
+  "description": "See independent film premieres and join filmmaker discussions, discovering unfamiliar stories and perspectives.",
+  "source": {
+    "pdfId": "044",
+    "pdfPage": 17
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "See independent film premieres and join filmmaker discussions, discovering unfamiliar stories and perspectives.",
+  "moods": [
+    "wonder",
+    "listen"
+  ],
+  "goodToKnow": "Earlier research listed January 21 to 31, 2027 for the Boulder edition. Confirm the current program, reserve specific screenings and plan for winter weather.",
+  "whyItMightDelightYou": "See independent film premieres and join filmmaker discussions, discovering unfamiliar stories and perspectives.",
+  "provider": {
+    "name": "Sundance Film Festival",
+    "url": "https://www.sundance.org/festivals/sundance-film-festival/about/"
+  }
+}

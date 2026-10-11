@@ -1,0 +1,24 @@
+{
+  "id": "047",
+  "title": "Ride in a professional racing car",
+  "location": {
+    "label": "Daytona International Speedway, Florida",
+    "placeGroup": "Florida"
+  },
+  "description": "Take a three-lap high-speed passenger ride with a professional driver through NASCAR Racing Experience. A brief, intense burst of speed and exhilaration.",
+  "source": {
+    "pdfId": "047",
+    "pdfPage": 18
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Take a three-lap high-speed passenger ride with a professional driver through NASCAR Racing Experience.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "The ride involves window entry, acceleration, vibration and strong G-forces. Ask the operator about participation requirements; confirm current dates and prices.",
+  "whyItMightDelightYou": "Take a three-lap high-speed passenger ride with a professional driver through NASCAR Racing Experience.",
+  "provider": {
+    "name": "NASCAR Racing Experience",
+    "url": "https://nascarracingexperience.com/speedways/daytona-international-speedway/"
+  }
+}

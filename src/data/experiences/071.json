@@ -1,0 +1,21 @@
+{
+  "id": "071",
+  "title": "Cook and share a complete Creole meal",
+  "location": {
+    "label": "New Orleans School of Cooking, Louisiana",
+    "placeGroup": "Louisiana"
+  },
+  "description": "Prepare traditional Louisiana dishes with a chef in a small hands-on class, then eat the meal together.",
+  "source": {
+    "pdfId": "071",
+    "pdfPage": 26
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Prepare traditional Louisiana dishes with a chef in a small hands-on class, then eat the meal together.",
+  "moods": [
+    "make",
+    "taste"
+  ],
+  "goodToKnow": "The earlier research listed a three-hour class around $149 per person. Confirm current cost, standing time and dietary options.",
+  "whyItMightDelightYou": "Prepare traditional Louisiana dishes with a chef in a small hands-on class, then eat the meal together."
+}

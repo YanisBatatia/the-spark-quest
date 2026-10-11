@@ -1,0 +1,24 @@
+{
+  "id": "070",
+  "title": "Join an authentic Cajun crawfish boil",
+  "location": {
+    "label": "Crawfish Haven, near Kaplan, Louisiana",
+    "placeGroup": "Louisiana"
+  },
+  "description": "Ask host Barry Toups about a private participatory boil: spices, technique, preparation and a shared feast of crawfish, corn and potatoes.",
+  "source": {
+    "pdfId": "070",
+    "pdfPage": 25
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Ask host Barry Toups about a private participatory boil: spices, technique, preparation and a shared feast of crawfish, corn and potatoes.",
+  "moods": [
+    "taste"
+  ],
+  "goodToKnow": "Winter crawfish supply varies with the weather. Confirm the current season, private format and availability well ahead.",
+  "whyItMightDelightYou": "Ask host Barry Toups about a private participatory boil: spices, technique, preparation and a shared feast of crawfish, corn and potatoes.",
+  "provider": {
+    "name": "Crawfish Haven",
+    "url": "https://www.crawfishhaven.net/"
+  }
+}

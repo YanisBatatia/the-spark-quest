@@ -1,0 +1,21 @@
+{
+  "id": "033",
+  "title": "See Kauai's Napali Coast from the air",
+  "location": {
+    "label": "Kauai, Hawaii",
+    "placeGroup": "Hawaii"
+  },
+  "description": "A scenic flight or helicopter excursion reveals fluted cliffs, deep green valleys and remote coastline inaccessible by road.",
+  "source": {
+    "pdfId": "033",
+    "pdfPage": 14
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "A scenic flight or helicopter excursion reveals fluted cliffs, deep green valleys and remote coastline inaccessible by road.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "Weather, turbulence, aircraft boarding and weight policies require consideration.",
+  "whyItMightDelightYou": "A scenic flight or helicopter excursion reveals fluted cliffs, deep green valleys and remote coastline inaccessible by road."
+}

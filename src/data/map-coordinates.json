@@ -1,0 +1,709 @@
+{
+  "001": {
+    "lat": 64.83785,
+    "lon": -147.71668,
+    "query": "Fairbanks, Alaska",
+    "matched": "Fairbanks, Fairbanks North Star Borough, Alaska, United States",
+    "approximate": true
+  },
+  "002": {
+    "lat": 62.26764,
+    "lon": -150.02953,
+    "query": "Talkeetna, Alaska",
+    "matched": "Talkeetna, Matanuska-Susitna Borough, Alaska, 99676, United States",
+    "approximate": true
+  },
+  "003": {
+    "lat": 61.21631,
+    "lon": -149.89485,
+    "query": "Anchorage, Alaska",
+    "matched": "Anchorage, Alaska, United States",
+    "approximate": true
+  },
+  "004": {
+    "lat": 64.83785,
+    "lon": -147.71668,
+    "query": "Fairbanks, Alaska",
+    "matched": "Fairbanks, Fairbanks North Star Borough, Alaska, United States",
+    "approximate": true
+  },
+  "005": {
+    "lat": 65.05306,
+    "lon": -146.05555,
+    "query": "Chena Hot Springs, Alaska",
+    "matched": "Chena Hot Springs, Angel Rocks - Chena Hot Springs Trail, Fairbanks North Star Borough, Alaska, United States",
+    "approximate": true
+  },
+  "006": {
+    "lat": 64.83785,
+    "lon": -147.71668,
+    "query": "Fairbanks, Alaska",
+    "matched": "Fairbanks, Fairbanks North Star Borough, Alaska, United States",
+    "approximate": true
+  },
+  "007": {
+    "lat": 61.59957,
+    "lon": -149.11109,
+    "query": "Palmer, Alaska",
+    "matched": "Palmer, Matanuska-Susitna Borough, Alaska, United States",
+    "approximate": true
+  },
+  "008": {
+    "lat": 61.66963,
+    "lon": -150.08714,
+    "query": "Portage, Alaska",
+    "matched": "Portage, Matanuska-Susitna Borough, Alaska, United States",
+    "approximate": true
+  },
+  "009": {
+    "lat": 61.21631,
+    "lon": -149.89485,
+    "query": "Anchorage, Alaska",
+    "matched": "Anchorage, Alaska, United States",
+    "approximate": true
+  },
+  "010": {
+    "lat": 64.83785,
+    "lon": -147.71668,
+    "query": "Fairbanks, Alaska",
+    "matched": "Fairbanks, Fairbanks North Star Borough, Alaska, United States",
+    "approximate": true
+  },
+  "011": {
+    "lat": 44.62009,
+    "lon": -110.56069,
+    "query": "Yellowstone National Park, Wyoming",
+    "matched": "Yellowstone National Park, Wyoming, United States",
+    "approximate": true
+  },
+  "012": {
+    "lat": 44.45686,
+    "lon": -110.82978,
+    "query": "Old Faithful Snow Lodge, Wyoming",
+    "matched": "Snow Lodge, Old Faithful Road, Upper Geyser Basin, Teton County, Wyoming, 82180, United States",
+    "approximate": true
+  },
+  "013": {
+    "lat": 43.56159,
+    "lon": -110.6782,
+    "query": "National Elk Refuge, Jackson, Wyoming",
+    "matched": "National Elk Refuge, Jackson, Teton County, Wyoming, United States",
+    "approximate": true
+  },
+  "014": {
+    "lat": 45.27526,
+    "lon": -111.3226,
+    "query": "Lone Mountain Ranch, Montana",
+    "matched": "Lone Mountain Ranch Road, Big Sky, Gallatin County, Montana, 59716, United States",
+    "approximate": true
+  },
+  "015": {
+    "lat": 39.48291,
+    "lon": -106.04655,
+    "query": "Breckenridge, Colorado",
+    "matched": "Breckenridge, Summit County, Colorado, United States",
+    "approximate": true
+  },
+  "016": {
+    "lat": 40.4848,
+    "lon": -106.83173,
+    "query": "Steamboat Springs, Colorado",
+    "matched": "Steamboat Springs, Routt County, Colorado, United States",
+    "approximate": true
+  },
+  "017": {
+    "lat": 37.27695,
+    "lon": -107.8766,
+    "query": "Durango, Colorado",
+    "matched": "Durango, La Plata County, Colorado, United States",
+    "approximate": true
+  },
+  "018": {
+    "lat": 39.73924,
+    "lon": -104.98486,
+    "query": "Denver, Colorado",
+    "matched": "Denver, Colorado, United States",
+    "approximate": true
+  },
+  "019": {
+    "lat": 30.54627,
+    "lon": -90.76817,
+    "query": "LIGO Livingston, Louisiana",
+    "matched": "LIGO Livingston, Cane Market Road, Livingston Parish, Louisiana, 70785, United States",
+    "approximate": true
+  },
+  "020": {
+    "lat": 36.11232,
+    "lon": -115.17872,
+    "query": "Bellagio, Las Vegas, Nevada",
+    "matched": "Bellagio, 3600, South Las Vegas Boulevard, Las Vegas, Clark County, Nevada, 89109, United States",
+    "approximate": true
+  },
+  "021": {
+    "lat": 28.88999,
+    "lon": -82.58943,
+    "query": "Three Sisters Springs, Florida",
+    "matched": "Three Sisters Springs, 601, Crystal River, Citrus County, Florida, 34429, United States",
+    "approximate": true
+  },
+  "022": {
+    "lat": 33.77779,
+    "lon": -106.88304,
+    "query": "Bosque del Apache, New Mexico",
+    "matched": "Bosque del Apache National Wildlife Refuge, Socorro County, New Mexico, 87832, United States",
+    "approximate": true
+  },
+  "023": {
+    "lat": 28.2211,
+    "lon": -96.87436,
+    "query": "Aransas National Wildlife Refuge, Texas",
+    "matched": "Aransas National Wildlife Refuge, Aransas County, Texas, United States",
+    "approximate": true
+  },
+  "024": {
+    "lat": 20.87388,
+    "lon": -156.67768,
+    "query": "Lahaina, Maui, Hawaii",
+    "matched": "Lahaina, Maui County, Hawaii, United States",
+    "approximate": true
+  },
+  "025": {
+    "lat": 21.27936,
+    "lon": -157.82857,
+    "query": "Waikiki, Honolulu, Hawaii",
+    "matched": "Waik\u012bk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96830, United States",
+    "approximate": true
+  },
+  "026": {
+    "lat": 30.2752,
+    "lon": -98.87198,
+    "query": "Fredericksburg, Texas",
+    "matched": "Fredericksburg, Gillespie County, Texas, 78624, United States",
+    "approximate": true
+  },
+  "027": {
+    "lat": 25.74014,
+    "lon": -80.76348,
+    "query": "Shark Valley, Florida",
+    "matched": "Shark Valley, Miami-Dade County, Florida, United States",
+    "approximate": true
+  },
+  "028": {
+    "lat": 30.66689,
+    "lon": -82.33318,
+    "query": "Okefenokee Swamp, Georgia",
+    "matched": "Okefenokee Swamp, Ware County, Georgia, United States",
+    "approximate": true
+  },
+  "029": {
+    "lat": 24.71375,
+    "lon": -81.09035,
+    "query": "Marathon, Florida",
+    "matched": "Marathon, Monroe County, Florida, United States",
+    "approximate": true
+  },
+  "030": {
+    "lat": 30.83521,
+    "lon": -81.44998,
+    "query": "Cumberland Island, Georgia",
+    "matched": "Cumberland Island, Camden County, Georgia, United States",
+    "approximate": true
+  },
+  "031": {
+    "lat": 18.12167,
+    "lon": -65.45712,
+    "query": "Vieques, Puerto Rico",
+    "matched": "Vieques, Puerto Rico, 00765, United States",
+    "approximate": true
+  },
+  "032": {
+    "lat": 19.26083,
+    "lon": -155.35787,
+    "query": "Hawaii Volcanoes National Park, Hawaii",
+    "matched": "Hawai\u02bbi Volcanoes National Park, Hawai\u02bbi County, Hawaii, 96718, United States",
+    "approximate": true
+  },
+  "033": {
+    "lat": 22.16777,
+    "lon": -159.64409,
+    "query": "Na Pali Coast, Kauai, Hawaii",
+    "matched": "N\u0101 Pali Coast State Wilderness Park, Hanalei, Kaua\u02bbi County, Hawaii, 96714, United States",
+    "approximate": true
+  },
+  "034": {
+    "lat": 35.98471,
+    "lon": -111.96794,
+    "query": "South Rim, Arizona",
+    "matched": "South Rim, Coconino County, Arizona, United States",
+    "approximate": true
+  },
+  "035": {
+    "lat": 37.61841,
+    "lon": -112.14218,
+    "query": "Bryce Canyon, Utah",
+    "matched": "Bryce Canyon, Tropic, Garfield County, Utah, United States",
+    "approximate": true
+  },
+  "036": {
+    "lat": 32.76418,
+    "lon": -106.33119,
+    "query": "White Sands National Park, New Mexico",
+    "matched": "White Sands National Park, Otero County, New Mexico, United States",
+    "approximate": true
+  },
+  "037": {
+    "lat": 32.17708,
+    "lon": -104.44103,
+    "query": "Carlsbad Caverns, New Mexico",
+    "matched": "Carlsbad Cavern, Natural Entrance Path, Eddy County, New Mexico, United States",
+    "approximate": true
+  },
+  "038": {
+    "lat": 36.98239,
+    "lon": -110.11111,
+    "query": "Monument Valley, Arizona",
+    "matched": "Monument Valley Navajo Tribal Park, Navajo County, Arizona, United States",
+    "approximate": true
+  },
+  "039": {
+    "lat": 35.02713,
+    "lon": -111.01838,
+    "query": "Meteor Crater, Arizona",
+    "matched": "Barringer Crater, Meteor Crater Road, Coconino County, Arizona, United States",
+    "approximate": true
+  },
+  "040": {
+    "lat": 41.91344,
+    "lon": -87.6482,
+    "query": "Alinea, Chicago, Illinois",
+    "matched": "Alinea, 1723, North Halsted Street, Ranch Triangle, Lincoln Park, Chicago, North Chicago Township, Cook County, Illinois, 60614, United States",
+    "approximate": true
+  },
+  "041": {
+    "lat": 29.95747,
+    "lon": -90.06295,
+    "query": "New Orleans, Louisiana",
+    "matched": "New Orleans, Orleans Parish, Louisiana, United States",
+    "approximate": true
+  },
+  "042": {
+    "lat": 30.49437,
+    "lon": -92.41763,
+    "query": "Eunice, Louisiana",
+    "matched": "Eunice, Saint Landry Parish, Louisiana, 70535, United States",
+    "approximate": true
+  },
+  "043": {
+    "lat": 33.4716,
+    "lon": -112.0722,
+    "query": "Heard Museum, Phoenix, Arizona",
+    "matched": "Heard Museum, 2301, North Central Avenue, Encanto, Phoenix, Maricopa County, Arizona, 85004, United States",
+    "approximate": true
+  },
+  "044": {
+    "lat": 40.01499,
+    "lon": -105.27054,
+    "query": "Boulder, Colorado",
+    "matched": "Boulder, Boulder County, Colorado, United States",
+    "approximate": true
+  },
+  "045": {
+    "lat": 32.22288,
+    "lon": -110.97485,
+    "query": "Tucson, Arizona",
+    "matched": "Tucson, Pima County, Arizona, United States",
+    "approximate": true
+  },
+  "046": {
+    "lat": 44.32966,
+    "lon": -74.13112,
+    "query": "Saranac Lake, New York",
+    "matched": "Village of Saranac Lake, Town of Harrietstown, Franklin County, New York, United States",
+    "approximate": true
+  },
+  "047": {
+    "lat": 29.21081,
+    "lon": -81.02283,
+    "query": "Daytona Beach, Florida",
+    "matched": "Daytona Beach, Volusia County, Florida, United States",
+    "approximate": true
+  },
+  "048": {
+    "lat": 32.75318,
+    "lon": -97.33275,
+    "query": "Fort Worth, Texas",
+    "matched": "Fort Worth, Tarrant County, Texas, United States",
+    "approximate": true
+  },
+  "049": {
+    "lat": 27.94499,
+    "lon": -82.45831,
+    "query": "Tampa, Florida",
+    "matched": "Tampa, Hillsborough County, Florida, United States",
+    "approximate": true
+  },
+  "050": {
+    "lat": 18.38424,
+    "lon": -66.05344,
+    "query": "San Juan, Puerto Rico",
+    "matched": "San Juan, Puerto Rico, United States",
+    "approximate": true
+  },
+  "051": {
+    "lat": 29.95747,
+    "lon": -90.06295,
+    "query": "New Orleans, Louisiana",
+    "matched": "New Orleans, Orleans Parish, Louisiana, United States",
+    "approximate": true
+  },
+  "052": {
+    "lat": 29.95747,
+    "lon": -90.06295,
+    "query": "New Orleans, Louisiana",
+    "matched": "New Orleans, Orleans Parish, Louisiana, United States",
+    "approximate": true
+  },
+  "053": {
+    "lat": 40.75664,
+    "lon": -73.9838,
+    "query": "Belasco Theatre, New York City",
+    "matched": "Belasco Theatre, 111, West 44th Street, Times Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",
+    "approximate": true
+  },
+  "054": {
+    "lat": 36.16228,
+    "lon": -86.7743,
+    "query": "Nashville, Tennessee",
+    "matched": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States",
+    "approximate": true
+  },
+  "055": {
+    "lat": 35.13927,
+    "lon": -90.03775,
+    "query": "Sun Studio, Memphis, Tennessee",
+    "matched": "Sun Studio, 706, Union Avenue, The Edge District, Foote Homes, Memphis, Shelby County, West Tennessee, Tennessee, 38163, United States",
+    "approximate": true
+  },
+  "056": {
+    "lat": 34.19999,
+    "lon": -90.57455,
+    "query": "Ground Zero Blues Club, Clarksdale, Mississippi",
+    "matched": "Ground Zero Blues Club, 387, Delta Avenue, Riverton, Clarksdale, Coahoma County, Mississippi, 38614, United States",
+    "approximate": true
+  },
+  "057": {
+    "lat": 34.76087,
+    "lon": -87.69759,
+    "query": "Sheffield, Alabama",
+    "matched": "Sheffield, Colbert County, Alabama, 35660, United States",
+    "approximate": true
+  },
+  "058": {
+    "lat": 40.77274,
+    "lon": -73.98436,
+    "query": "Metropolitan Opera, New York City",
+    "matched": "Metropolitan Opera, 30, Hearst Plaza, Lincoln Square, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+    "approximate": true
+  },
+  "059": {
+    "lat": 40.77294,
+    "lon": -73.9825,
+    "query": "Lincoln Center, New York City",
+    "matched": "Lincoln Center, Jaffe Drive, Lincoln Square, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+    "approximate": true
+  },
+  "060": {
+    "lat": 30.63371,
+    "lon": -92.41978,
+    "query": "Mamou, Louisiana",
+    "matched": "Mamou, Evangeline Parish, Louisiana, United States",
+    "approximate": true
+  },
+  "061": {
+    "lat": 35.03907,
+    "lon": -83.96284,
+    "query": "John C. Campbell Folk School, Brasstown, North Carolina",
+    "matched": "John C. Campbell Folk School, 1, Folk School Road, Cherokee County, North Carolina, 28902, United States",
+    "approximate": true
+  },
+  "062": {
+    "lat": 42.14975,
+    "lon": -77.05416,
+    "query": "Corning Museum of Glass, New York",
+    "matched": "Corning Museum of Glass, 1, Museum Way, City of Corning, Steuben County, New York, 14830, United States",
+    "approximate": true
+  },
+  "063": {
+    "lat": 29.95747,
+    "lon": -90.06295,
+    "query": "New Orleans, Louisiana",
+    "matched": "New Orleans, Orleans Parish, Louisiana, United States",
+    "approximate": true
+  },
+  "064": {
+    "lat": 36.16228,
+    "lon": -86.7743,
+    "query": "Nashville, Tennessee",
+    "matched": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States",
+    "approximate": true
+  },
+  "065": {
+    "lat": 29.93466,
+    "lon": -90.06158,
+    "query": "Mardi Gras World, New Orleans, Louisiana",
+    "matched": "Mardi Gras World, 1380, Port of New Orleans Place, Lower Garden District, New Orleans, Orleans Parish, Louisiana, 70130, United States",
+    "approximate": true
+  },
+  "066": {
+    "lat": 32.78844,
+    "lon": -79.93993,
+    "query": "Charleston, South Carolina",
+    "matched": "Charleston, Charleston County, South Carolina, United States",
+    "approximate": true
+  },
+  "067": {
+    "lat": 35.65967,
+    "lon": -105.9889,
+    "query": "Paseo Pottery, Santa Fe, New Mexico",
+    "matched": "Paseo Pottery, 1273, Calle de Comercio, Santa Fe, Santa Fe County, New Mexico, 87505, United States",
+    "approximate": true
+  },
+  "068": {
+    "lat": 20.80296,
+    "lon": -156.31068,
+    "query": "Maui, Hawaii",
+    "matched": "Maui, Maui County, Hawaii, United States",
+    "approximate": true
+  },
+  "069": {
+    "lat": 33.76327,
+    "lon": -84.39512,
+    "query": "Georgia Aquarium, Atlanta, Georgia",
+    "matched": "Georgia Aquarium, 225, Baker Street Northwest, Atlanta, Fulton County, Georgia, 30313, United States",
+    "approximate": true
+  },
+  "070": {
+    "lat": 30.00319,
+    "lon": -92.28601,
+    "query": "Kaplan, Louisiana",
+    "matched": "Kaplan, Vermilion Parish, Louisiana, United States",
+    "approximate": true
+  },
+  "071": {
+    "lat": 29.95546,
+    "lon": -90.06484,
+    "query": "New Orleans School of Cooking, Louisiana",
+    "matched": "New Orleans School of Cooking, 524, Saint Louis Street, French Quarter, New Orleans, Orleans Parish, Louisiana, 70130, United States",
+    "approximate": true
+  },
+  "073": {
+    "lat": 32.78844,
+    "lon": -79.93993,
+    "query": "Charleston, South Carolina",
+    "matched": "Charleston, Charleston County, South Carolina, United States",
+    "approximate": true
+  },
+  "074": {
+    "lat": 37.81146,
+    "lon": -85.40997,
+    "query": "Bardstown Bourbon Company, Kentucky",
+    "matched": "Bardstown Bourbon Company, 1500, Parkway Drive, Bardstown, Nelson County, Kentucky, 40004, United States",
+    "approximate": true
+  },
+  "075": {
+    "lat": 34.51242,
+    "lon": -93.05358,
+    "query": "Buckstaff Bathhouse, Hot Springs, Arkansas",
+    "matched": "Buckstaff Bathhouse, 509, Central Avenue, Hot Springs, Garland County, Arkansas, 71901, United States",
+    "approximate": true
+  },
+  "076": {
+    "lat": 35.71724,
+    "lon": -105.89037,
+    "query": "Ten Thousand Waves, Santa Fe, New Mexico",
+    "matched": "Ten Thousand Waves, 21, Ten Thousand Waves Way, Santa Fe County, New Mexico, 87501, United States",
+    "approximate": true
+  },
+  "077": {
+    "lat": 19.64194,
+    "lon": -155.99693,
+    "query": "Kailua-Kona, Hawaii",
+    "matched": "Kailua, Hawai\u02bbi County, Hawaii, United States",
+    "approximate": true
+  },
+  "078": {
+    "lat": 29.95493,
+    "lon": -90.06239,
+    "query": "Steamboat NATCHEZ, New Orleans, Louisiana",
+    "matched": "Steamboat Natchez, Moonwalk, French Market, French Quarter, New Orleans, Orleans Parish, Louisiana, 70170, United States",
+    "approximate": true
+  },
+  "079": {
+    "lat": 38.71363,
+    "lon": -78.15963,
+    "query": "verified OpenStreetMap feature",
+    "matched": "The Inn at Little Washington, Rappahannock, Virginia, United States",
+    "approximate": true
+  },
+  "080": {
+    "lat": 25.79292,
+    "lon": -80.1353,
+    "query": "Miami Beach, Florida",
+    "matched": "Miami Beach, Miami-Dade County, Florida, United States",
+    "approximate": true
+  },
+  "081": {
+    "lat": 28.52428,
+    "lon": -80.68186,
+    "query": "Kennedy Space Center, Florida",
+    "matched": "Kennedy Space Center Visitor Complex, 9500, Space Commerce Way, Merritt Island, Brevard County, Florida, 32953, United States",
+    "approximate": true
+  },
+  "082": {
+    "lat": 28.45136,
+    "lon": -80.52831,
+    "query": "Cape Canaveral, Florida",
+    "matched": "Cape Canaveral, Brevard County, Florida, United States",
+    "approximate": true
+  },
+  "083": {
+    "lat": 30.67121,
+    "lon": -104.02363,
+    "query": "McDonald Observatory, Fort Davis, Texas",
+    "matched": "McDonald Observatory of the University of Texas, Spur 78, Fort Davis, Jeff Davis County, Texas, 79734, United States",
+    "approximate": true
+  },
+  "084": {
+    "lat": 34.07787,
+    "lon": -107.61781,
+    "query": "Very Large Array, New Mexico",
+    "matched": "Karl G. Jansky Very Large Array, Old Highway 60, Socorro County, New Mexico, United States",
+    "approximate": true
+  },
+  "085": {
+    "lat": 40.75796,
+    "lon": -73.98553,
+    "query": "Manhattan, New York City, New York",
+    "matched": "Manhattan, New York County, New York, United States",
+    "approximate": true
+  },
+  "086": {
+    "lat": 35.68761,
+    "lon": -105.93846,
+    "query": "Meow Wolf: House of Eternal Return, Santa Fe",
+    "matched": "Santa Fe, Santa Fe County, New Mexico, United States",
+    "approximate": true
+  },
+  "087": {
+    "lat": 40.49369,
+    "lon": -109.00079,
+    "query": "Dinosaur National Monument, Utah",
+    "matched": "Dinosaur National Monument, Moffat County, Colorado, 81640, United States",
+    "approximate": true
+  },
+  "088": {
+    "lat": 32.60997,
+    "lon": -110.76518,
+    "query": "Oracle, Arizona",
+    "matched": "Oracle, Pinal County, Arizona, 82623, United States",
+    "approximate": true
+  },
+  "089": {
+    "lat": 36.12121,
+    "lon": -115.16207,
+    "query": "Sphere, Las Vegas, Nevada",
+    "matched": "Sphere, 255, Sands Avenue, Las Vegas, Clark County, Nevada, 89109, United States",
+    "approximate": true
+  },
+  "090": {
+    "lat": 33.66751,
+    "lon": -111.97834,
+    "query": "Musical Instrument Museum, Phoenix, Arizona",
+    "matched": "Musical Instrument Museum, 4725, East Mayo Boulevard, Desert View, Phoenix, Maricopa County, Arizona, 85050, United States",
+    "approximate": true
+  },
+  "091": {
+    "lat": 40.86224,
+    "lon": -73.87715,
+    "query": "New York Botanical Garden, New York",
+    "matched": "New York Botanical Garden, 2900, Southern Boulevard, The Bronx, Bronx County, New York, 10458, United States",
+    "approximate": true
+  },
+  "092": {
+    "lat": 39.87204,
+    "lon": -75.67496,
+    "query": "Longwood Gardens, Pennsylvania",
+    "matched": "Longwood Gardens, East Marlborough Township, Chester County, Pennsylvania, United States",
+    "approximate": true
+  },
+  "093": {
+    "lat": 28.51727,
+    "lon": -82.57323,
+    "query": "Weeki Wachee Springs, Florida",
+    "matched": "Weeki Wachee Spring, Commercial Way, Weeki Wachee, Hernando County, Florida, 34608, United States",
+    "approximate": true
+  },
+  "094": {
+    "lat": 40.45341,
+    "lon": -80.00995,
+    "query": "National Aviary, Pittsburgh, Pennsylvania",
+    "matched": "National Aviary, 700, Arch Street, Allegheny Center, Pittsburgh, Allegheny County, Pennsylvania, 15212, United States",
+    "approximate": true
+  },
+  "095": {
+    "lat": 27.94499,
+    "lon": -82.45831,
+    "query": "Tampa, Florida",
+    "matched": "Tampa, Hillsborough County, Florida, United States",
+    "approximate": true
+  },
+  "096": {
+    "lat": 33.60658,
+    "lon": -111.84499,
+    "query": "Taliesin West, Scottsdale, Arizona",
+    "matched": "Taliesin West, 12345, North Taliesin Drive, Taliesin West, Scottsdale, Maricopa County, Arizona, 85060, United States",
+    "approximate": true
+  },
+  "097": {
+    "lat": 38.8951,
+    "lon": -77.03638,
+    "query": "Washington, DC",
+    "matched": "Washington, District of Columbia, United States",
+    "approximate": true
+  },
+  "098": {
+    "lat": 42.09652,
+    "lon": -79.23803,
+    "query": "Jamestown, New York",
+    "matched": "Jamestown, Chautauqua County, New York, United States",
+    "approximate": true
+  },
+  "099": {
+    "lat": 38.88396,
+    "lon": -77.02554,
+    "query": "International Spy Museum, Washington, DC",
+    "matched": "International Spy Museum, 700, L'Enfant Plaza Southwest, Southwest Employment Area, Ward 6, Washington, District of Columbia, 20024, United States",
+    "approximate": true
+  },
+  "100": {
+    "lat": 32.37771,
+    "lon": -86.30908,
+    "query": "Montgomery, Alabama",
+    "matched": "Montgomery, Montgomery County, Alabama, United States",
+    "approximate": true
+  },
+  "102": {
+    "lat": 43.08095,
+    "lon": -79.0683,
+    "query": "Niagara Falls State Park, New York",
+    "matched": "Niagara Falls State Park, 332, City of Niagara Falls, Niagara County, New York, United States",
+    "approximate": true
+  },
+  "110": {
+    "lat": 24.55483,
+    "lon": -81.80207,
+    "query": "Key West, Florida",
+    "matched": "Key West, Monroe County, Florida, United States",
+    "approximate": true
+  }
+}

@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ExperienceImage from '../../components/ExperienceImage.astro';
+import SaveButton from '../../components/SaveButton.astro';
+import { imageCredits } from '../../lib/featured-images';
+import coordinates from '../../data/map-coordinates.json';
+import Decorations from '../../components/Decorations.astro';
+
+export async function getStaticPaths() {
+  const ideas = await getCollection('experiences');
+  return ideas.map((idea) => ({ params: { id: idea.id }, props: { idea } }));
+}
+
+const { idea } = Astro.props;
+const { id, data } = idea;
+const base = import.meta.env.BASE_URL;
+const goodToKnow = data.goodToKnow;
+const point = coordinates[id as keyof typeof coordinates];
+const lat = Number(point.lat);
+const lon = Number(point.lon);
+const latSpan = 0.055;
+const lonSpan = Math.min(0.38, 0.09 / Math.max(Math.cos(lat * Math.PI / 180), 0.25));
+const bbox = [lon - lonSpan, lat - latSpan, lon + lonSpan, lat + latSpan].map((n) => n.toFixed(5)).join(',');
+const mapEmbed = `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lon}`;
+const mapLink = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/${lat}/${lon}`;
+---
+<BaseLayout title={data.title} description={data.teaser}>
+  <article class="detail page-frame">
+    <Decorations variant="detail" />
+    <a class="back-link" href={`${base}explore/`}><span aria-hidden="true">←</span> All ideas</a>
+    <div class="detail-layout">
+      <div class="detail-main">
+        <figure class="detail-photo">
+          <ExperienceImage id={id} title={data.title} priority detail />
+          {imageCredits[id] && <figcaption class="image-caption">{imageCredits[id].note} <a href={`${base}image-credits/#image-${id}`}>Image details</a></figcaption>}
+        </figure>
+        <h1>{data.title}</h1>
+        <p class="detail-location"><span aria-hidden="true">●</span> {data.location.label}</p>
+        <p class="detail-description">{data.description}</p>
+      </div>
+      <aside class="detail-aside" aria-label="Experience details">
+        <SaveButton id={id} title={data.title} large />
+        <section class="detail-panel">
+          <h2>Where it takes place</h2>
+          <div class="map-illustration" data-map data-map-src={mapEmbed}>
+            <img class="map-preview" src={`${base}maps/${id}.svg`} alt={`Approximate map centered near ${data.location.label}`} width="520" height="245" loading="lazy" />
+            <span class="map-label" data-map-label>{data.location.label}</span>
+            <div class="map-live" data-map-live id={`map-${id}`} hidden></div>
+          </div>
+          <div class="map-actions">
+            <button class="map-toggle" type="button" data-map-toggle aria-expanded="false" aria-controls={`map-${id}`}>Explore interactive map <span aria-hidden="true">↗</span></button>
+            <a href={mapLink} target="_blank" rel="noopener noreferrer">Open full map ↗</a>
+          </div>
+          <p class="map-caption">Approximate location · Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap contributors</a> and Natural Earth</p>
+        </section>
+        <section class="detail-panel">
+          <h2>Why it might delight you</h2>
+          <p>{data.whyItMightDelightYou ?? data.teaser}</p>
+        </section>
+        <div class="detail-panel">
+          <details class="good-to-know">
+            <summary>Good to know</summary>
+            <p>{goodToKnow}</p>
+          </details>
+          {data.provider && <a class="provider-link" href={data.provider.url} target="_blank" rel="noopener noreferrer">Visit {data.provider.name} ↗</a>}
+        </div>
+      </aside>
+    </div>
+  </article>
+  <script>import '../../scripts/detail-map.ts';</script>
+</BaseLayout>

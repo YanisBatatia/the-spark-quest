@@ -1,0 +1,24 @@
+{
+  "id": "094",
+  "title": "Meet a sloth with its keeper",
+  "location": {
+    "label": "National Aviary, Pittsburgh, Pennsylvania",
+    "placeGroup": "Pennsylvania"
+  },
+  "description": "Arrange a small-group morning encounter with Vivien, a two-toed sloth, offering treats and possibly feeling her fur if she participates.",
+  "source": {
+    "pdfId": "094",
+    "pdfPage": 32
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Arrange a small-group morning encounter with Vivien, a two-toed sloth, offering treats and possibly feeling her fur if she participates.",
+  "moods": [
+    "nature"
+  ],
+  "goodToKnow": "Animal encounters depend on the animals and staff. Earlier research listed $99 and daily sessions except Tuesdays; confirm current availability and price.",
+  "whyItMightDelightYou": "Arrange a small-group morning encounter with Vivien, a two-toed sloth, offering treats and possibly feeling her fur if she participates.",
+  "provider": {
+    "name": "National Aviary",
+    "url": "https://www.aviary.org/programs-encounters/animal-encounters/sloth-encounter/"
+  }
+}

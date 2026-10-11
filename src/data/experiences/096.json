@@ -1,0 +1,20 @@
+{
+  "id": "096",
+  "title": "Explore Frank Lloyd Wright's desert architecture",
+  "location": {
+    "label": "Taliesin West, Scottsdale, Arizona",
+    "placeGroup": "Arizona"
+  },
+  "description": "Tour the architect's winter home and desert laboratory, discovering the relationship between buildings, landscape, color and design philosophy.",
+  "source": {
+    "pdfId": "096",
+    "pdfPage": 33
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "See Frank Lloyd Wright’s desert home and design laboratory.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "Before you go, confirm a manageable guided route, walking and accessibility.",
+  "whyItMightDelightYou": "Tour the architect's winter home and desert laboratory, discovering the relationship between buildings, landscape, color and design philosophy."
+}

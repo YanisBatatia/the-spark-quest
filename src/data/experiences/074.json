@@ -1,0 +1,20 @@
+{
+  "id": "074",
+  "title": "Learn how an expert blends bourbon",
+  "location": {
+    "label": "Bardstown Bourbon Company, Kentucky",
+    "placeGroup": "Kentucky"
+  },
+  "description": "Choose an educational tasting, ideally a Behind the Blend session with the master blender when dates align.",
+  "source": {
+    "pdfId": "074",
+    "pdfPage": 26
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Choose an educational tasting, ideally a Behind the Blend session with the master blender when dates align.",
+  "moods": [
+    "taste"
+  ],
+  "goodToKnow": "Special sessions happen periodically. Check the winter calendar; tasting alcohol is optional.",
+  "whyItMightDelightYou": "Choose an educational tasting, ideally a Behind the Blend session with the master blender when dates align."
+}

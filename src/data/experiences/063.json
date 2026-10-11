@@ -1,0 +1,20 @@
+{
+  "id": "063",
+  "title": "Design a personal perfume",
+  "location": {
+    "label": "Tijon, New Orleans, Louisiana",
+    "placeGroup": "Louisiana"
+  },
+  "description": "Spend time experimenting with perfume oils and guided blending to create a personal fragrance.",
+  "source": {
+    "pdfId": "063",
+    "pdfPage": 23
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Blend perfume oils into a fragrance of your own.",
+  "moods": [
+    "make"
+  ],
+  "goodToKnow": "A gentle sensory workshop. Check reservations and any fragrance sensitivities before attending.",
+  "whyItMightDelightYou": "A small sensory adventure that leaves you with something personal."
+}

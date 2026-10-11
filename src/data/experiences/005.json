@@ -1,0 +1,21 @@
+{
+  "id": "005",
+  "title": "Bathe in an Alaskan geothermal spring",
+  "location": {
+    "label": "Chena Hot Springs, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "Watch steam rise into freezing air while snow surrounds the outdoor pool. The contrast between warm water and the winter landscape is the main pleasure.",
+  "source": {
+    "pdfId": "005",
+    "pdfPage": 6
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Watch steam rise into freezing air while snow surrounds the outdoor pool.",
+  "moods": [
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "Before you go, check hot-water suitability, pool access and slippery footing.",
+  "whyItMightDelightYou": "Watch steam rise into freezing air while snow surrounds the outdoor pool."
+}

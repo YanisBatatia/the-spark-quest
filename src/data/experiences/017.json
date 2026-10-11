@@ -1,0 +1,21 @@
+{
+  "id": "017",
+  "title": "Ride a steam train into Cascade Canyon",
+  "location": {
+    "label": "Durango, Colorado",
+    "placeGroup": "Colorado"
+  },
+  "description": "Take the Durango & Silverton winter excursion in a heated historic railcar. Snowy mountain scenery and a remote canyon provide adventure without a demanding hike.",
+  "source": {
+    "pdfId": "017",
+    "pdfPage": 9
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Take the Durango & Silverton winter excursion in a heated historic railcar.",
+  "moods": [
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "Before you go, confirm winter timetable, railcar access and excursion duration.",
+  "whyItMightDelightYou": "Take the Durango & Silverton winter excursion in a heated historic railcar."
+}

@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { imageCredits } from '../../lib/featured-images';
+
+const ideas = (await getCollection('experiences')).sort((a, b) => a.id.localeCompare(b.id));
+const base = import.meta.env.BASE_URL;
+---
+<BaseLayout title="Image credits" description="Sources and licenses for The Spark Quest images.">
+  <section class="credits page-frame">
+    <h1 class="section-heading">Image credits</h1>
+    <p class="lead">Photographs are used to evoke each idea. A picture may show a related place or activity rather than the exact experience.</p>
+    <ul class="credit-list">
+      {ideas.map((idea) => {
+        const credit = imageCredits[idea.id];
+        return credit && <li id={`image-${idea.id}`}>
+          <a class="credit-idea" href={`${base}experiences/${idea.id}/`}>{idea.id} · {idea.data.title}</a>
+          <span>{credit.title} · {credit.author} · </span>
+          {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer">{credit.license}</a> : <span>{credit.license}</span>}
+          {credit.sourceUrl && <> · <a href={credit.sourceUrl} target="_blank" rel="noopener noreferrer">Source image</a></>}
+          <span> · Cropped and compressed for this site.</span>
+        </li>;
+      })}
+    </ul>
+  </section>
+</BaseLayout>

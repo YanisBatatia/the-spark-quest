@@ -1,0 +1,16 @@
+{
+  "name": "the-spark-quest",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "validate": "node scripts/validate-catalogue.mjs",
+    "build": "npm run validate && astro build",
+    "preview": "astro preview",
+    "preview:pages": "node scripts/preview-pages.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.3.8",
+    "sharp": "^0.35.5"
+  }
+}

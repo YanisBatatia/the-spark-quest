@@ -1,0 +1,25 @@
+{
+  "id": "025",
+  "title": "Explore the ocean in a real submarine",
+  "location": {
+    "label": "Waikiki, Oahu, Hawaii",
+    "placeGroup": "Hawaii"
+  },
+  "description": "Atlantis Submarines takes passengers beneath the ocean past reef habitats, marine wildlife and underwater wrecks, without swimming.",
+  "source": {
+    "pdfId": "025",
+    "pdfPage": 12
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Atlantis Submarines takes passengers beneath the ocean past reef habitats, marine wildlife and underwater wrecks, without swimming.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "The earlier research described about 45 minutes underwater within a 1 hour 45 minute outing, and a fare around $168 per adult. Confirm current details and whether boat transfers and ladders are manageable.",
+  "whyItMightDelightYou": "Atlantis Submarines takes passengers beneath the ocean past reef habitats, marine wildlife and underwater wrecks, without swimming.",
+  "provider": {
+    "name": "Atlantis Adventures",
+    "url": "https://www.atlantisadventures.com/waikiki/"
+  }
+}

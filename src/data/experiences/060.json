@@ -1,0 +1,20 @@
+{
+  "id": "060",
+  "title": "Have a Saturday-morning Cajun music adventure",
+  "location": {
+    "label": "Fred's Lounge, Mamou, Louisiana",
+    "placeGroup": "Louisiana"
+  },
+  "description": "Join an unconventional local morning music tradition with Cajun musicians and patrons. A gathering in nearby Eunice is an alternative within this entry.",
+  "source": {
+    "pdfId": "060",
+    "pdfPage": 22
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Join an unconventional local morning music tradition with Cajun musicians and patrons.",
+  "moods": [
+    "listen"
+  ],
+  "goodToKnow": "Before you go, verify the actual live performance, opening and seating before making the drive.",
+  "whyItMightDelightYou": "Join an unconventional local morning music tradition with Cajun musicians and patrons."
+}

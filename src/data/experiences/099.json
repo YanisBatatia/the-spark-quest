@@ -1,0 +1,20 @@
+{
+  "id": "099",
+  "title": "Become an undercover agent for an afternoon",
+  "location": {
+    "label": "International Spy Museum, Washington, DC",
+    "placeGroup": "DC"
+  },
+  "description": "Assume a fictional cover identity and complete an interactive mission through the museum.",
+  "source": {
+    "pdfId": "099",
+    "pdfPage": 34
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Assume a fictional cover identity and complete an interactive mission through the museum.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "Playful indoor experience; allow breaks through the extensive galleries.",
+  "whyItMightDelightYou": "Assume a fictional cover identity and complete an interactive mission through the museum."
+}

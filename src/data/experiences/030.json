@@ -1,0 +1,25 @@
+{
+  "id": "030",
+  "title": "Stay on an almost untouched island among wild horses",
+  "location": {
+    "label": "Greyfield Inn, Cumberland Island, Georgia",
+    "placeGroup": "Georgia"
+  },
+  "description": "Spend two or three nights in a historic Carnegie mansion reached by private ferry. Explore ancient moss-draped oaks, island landscapes and freely roaming horses with naturalists.",
+  "source": {
+    "pdfId": "030",
+    "pdfPage": 13
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Spend two or three nights in a historic Carnegie mansion reached by private ferry.",
+  "moods": [
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "The earlier research listed a premium nightly rate that included meals, ferry and guided outings, plus a January 18 to 22, 2027 photo trip. Confirm current prices and availability; roads can be bumpy and the inn has stairs.",
+  "whyItMightDelightYou": "Spend two or three nights in a historic Carnegie mansion reached by private ferry.",
+  "provider": {
+    "name": "Greyfield Inn",
+    "url": "https://greyfieldinn.com/"
+  }
+}

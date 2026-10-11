@@ -1,0 +1,24 @@
+{
+  "id": "085",
+  "title": "Enter the Phantom's masked world",
+  "location": {
+    "label": "Masquerade, New York City",
+    "placeGroup": "New York City"
+  },
+  "description": "Wear a mask and move through an elaborate theatrical environment inspired by The Phantom of the Opera, encountering performers at close range.",
+  "source": {
+    "pdfId": "085",
+    "pdfPage": 30
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Step into a masked world inspired by The Phantom of the Opera.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "The earlier research listed tickets from $199 and performances through March 28, 2027. The experience involves moving between floors and standing; ask about elevator access and current details.",
+  "whyItMightDelightYou": "Wear a mask and move through an elaborate theatrical environment inspired by The Phantom of the Opera, encountering performers at close range.",
+  "provider": {
+    "name": "Masquerade",
+    "url": "https://masqueradenyc.com/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "020",
+  "title": "Experience an aquatic circus",
+  "location": {
+    "label": "Bellagio, Las Vegas, Nevada",
+    "placeGroup": "Nevada"
+  },
+  "description": "O by Cirque du Soleil combines acrobatics, synchronized swimming, dives, aerial performance and dreamlike scenery above a massive pool.",
+  "source": {
+    "pdfId": "020",
+    "pdfPage": 10
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "O by Cirque du Soleil combines acrobatics, synchronized swimming, dives, aerial performance and dreamlike scenery above a massive pool.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "This is a seated theater performance and needs no swimming. Confirm the current schedule; the earlier research listed Wednesday to Sunday shows and February 14, 2027 as a dark date.",
+  "whyItMightDelightYou": "O by Cirque du Soleil combines acrobatics, synchronized swimming, dives, aerial performance and dreamlike scenery above a massive pool.",
+  "provider": {
+    "name": "Bellagio",
+    "url": "https://bellagio.mgmresorts.com/en/entertainment/o-by-cirque-du-soleil.html"
+  }
+}

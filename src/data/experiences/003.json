@@ -1,0 +1,25 @@
+{
+  "id": "003",
+  "title": "Cross Alaska by winter train",
+  "location": {
+    "label": "Anchorage to Fairbanks, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "The Aurora Winter Train offers roughly 12 hours of snowy valleys and remote wilderness through enormous windows, from a warm carriage.",
+  "source": {
+    "pdfId": "003",
+    "pdfPage": 5
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Watch snowy wilderness pass from a warm carriage.",
+  "moods": [
+    "nature",
+    "rest"
+  ],
+  "whyItMightDelightYou": "A whole day to watch the landscape change.",
+  "goodToKnow": "The Aurora Winter Train runs on selected winter days. Choose a comfortable seat, then settle in for the scenery.",
+  "provider": {
+    "name": "Alaska Railroad",
+    "url": "https://www.alaskarailroad.com/ride-a-train/our-trains/aurora-winter"
+  }
+}

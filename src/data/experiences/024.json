@@ -1,0 +1,20 @@
+{
+  "id": "024",
+  "title": "Hear humpback whales beneath your boat",
+  "location": {
+    "label": "Maui, Hawaii",
+    "placeGroup": "Hawaii"
+  },
+  "description": "Choose a whale-watching cruise with a marine naturalist and hydrophone, adding underwater song to the sight of whales in their winter habitat.",
+  "source": {
+    "pdfId": "024",
+    "pdfPage": 11
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Watch humpback whales and listen for their underwater song.",
+  "moods": [
+    "nature"
+  ],
+  "goodToKnow": "January and February are often good months for whale watching. Confirm boat access and sea conditions; whale behavior varies, and no swimming is needed.",
+  "whyItMightDelightYou": "Choose a whale-watching cruise with a marine naturalist and hydrophone, adding underwater song to the sight of whales in their winter habitat."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "026",
+  "title": "Sleep beside giraffes at a conservation sanctuary",
+  "location": {
+    "label": "Longneck Manor, Fredericksburg, Texas",
+    "placeGroup": "Texas"
+  },
+  "description": "Stay in a suite inside a giraffe barn with enormous windows facing the animals' indoor habitat. Private keeper encounters can include giraffe and rhino feeding, sloth time and enrichment activities.",
+  "source": {
+    "pdfId": "026",
+    "pdfPage": 12
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Stay in a suite inside a giraffe barn with enormous windows facing the animals' indoor habitat.",
+  "moods": [
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "The earlier research listed a two-night minimum and a Giraffe Suite rate around $1,600 per night. The suite requires stairs; ask about villa access and which encounters are included.",
+  "whyItMightDelightYou": "Stay in a suite inside a giraffe barn with enormous windows facing the animals' indoor habitat.",
+  "provider": {
+    "name": "Longneck Manor",
+    "url": "https://www.longneckmanor.com/giraffe-suite"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "073",
+  "title": "Discover Gullah Geechee food traditions",
+  "location": {
+    "label": "Charleston, South Carolina",
+    "placeGroup": "South Carolina"
+  },
+  "description": "Eat at a culturally rooted establishment such as Hannibal's Kitchen, ideally with a local culinary guide explaining ingredients, dishes and history.",
+  "source": {
+    "pdfId": "073",
+    "pdfPage": 26
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Discover the flavors and stories of Gullah Geechee cooking.",
+  "moods": [
+    "taste"
+  ],
+  "goodToKnow": "Reserve any guided component; confirm current opening and dietary suitability.",
+  "whyItMightDelightYou": "Eat at a culturally rooted establishment such as Hannibal's Kitchen, ideally with a local culinary guide explaining ingredients, dishes and history."
+}

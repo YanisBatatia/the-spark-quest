@@ -1,0 +1,20 @@
+{
+  "id": "100",
+  "title": "Encounter American history at the EJI Legacy Sites",
+  "location": {
+    "label": "Montgomery, Alabama",
+    "placeGroup": "Alabama"
+  },
+  "description": "Visit the National Memorial for Peace and Justice and related historical sites for reflection, perspective and a profound encounter with human history.",
+  "source": {
+    "pdfId": "100",
+    "pdfPage": 34
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Make space for reflection at Montgomery’s Legacy Sites.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "These sites address painful history. Give yourself time and choose a manageable visit with room to reflect afterward.",
+  "whyItMightDelightYou": "Visit the National Memorial for Peace and Justice and related historical sites for reflection, perspective and a profound encounter with human history."
+}

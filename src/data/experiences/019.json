@@ -1,0 +1,24 @@
+{
+  "id": "019",
+  "title": "Visit the machine that listens for colliding black holes",
+  "location": {
+    "label": "LIGO Livingston, Louisiana",
+    "placeGroup": "Louisiana"
+  },
+  "description": "Visit a working gravitational-wave observatory with two four-kilometer detector arms, exhibits and opportunities to meet people exploring the universe.",
+  "source": {
+    "pdfId": "019",
+    "pdfPage": 10
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Visit the observatory that detects ripples in space-time.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "Earlier research listed Science Saturdays on January 2 and February 6, 2027. The tour was free and about 90 minutes, with accessible facilities; confirm dates, route and tour areas.",
+  "whyItMightDelightYou": "Visit a working gravitational-wave observatory with two four-kilometer detector arms, exhibits and opportunities to meet people exploring the universe.",
+  "provider": {
+    "name": "LIGO Livingston",
+    "url": "https://www.ligo.caltech.edu/page/Science-Saturdays"
+  }
+}

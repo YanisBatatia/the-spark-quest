@@ -1,0 +1,21 @@
+{
+  "id": "016",
+  "title": "Experience the Steamboat Winter Carnival",
+  "location": {
+    "label": "Steamboat Springs, Colorado",
+    "placeGroup": "Colorado"
+  },
+  "description": "Watch Western skijoring, unusual ski performances, fireworks and the illuminated night show.",
+  "source": {
+    "pdfId": "016",
+    "pdfPage": 9
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Watch Western skijoring, unusual ski performances, fireworks and the illuminated night show.",
+  "moods": [
+    "wonder",
+    "nature"
+  ],
+  "goodToKnow": "Earlier research listed February 2 to 7, 2027. Check the current program and choose a comfortable viewing spot.",
+  "whyItMightDelightYou": "Watch Western skijoring, unusual ski performances, fireworks and the illuminated night show."
+}

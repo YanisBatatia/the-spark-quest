@@ -1,0 +1,24 @@
+{
+  "id": "061",
+  "title": "Spend several days at a folk school",
+  "location": {
+    "label": "John C. Campbell Folk School, Brasstown, North Carolina",
+    "placeGroup": "North Carolina"
+  },
+  "description": "Choose weaving, pottery, jewelry, cooking or another unfamiliar craft. Live among people who love making things, without competition or grades.",
+  "source": {
+    "pdfId": "061",
+    "pdfPage": 23
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Choose weaving, pottery, jewelry, cooking or another unfamiliar craft.",
+  "moods": [
+    "make"
+  ],
+  "goodToKnow": "Earlier research indicated January to June 2027 classes were open. Confirm the class schedule, level of exertion and accommodation access.",
+  "whyItMightDelightYou": "Choose weaving, pottery, jewelry, cooking or another unfamiliar craft.",
+  "provider": {
+    "name": "John C. Campbell Folk School",
+    "url": "https://www.folkschool.org/"
+  }
+}

@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ExperienceCard from '../../components/ExperienceCard.astro';
+import Decorations from '../../components/Decorations.astro';
+
+const all = await getCollection('experiences');
+const featured = ['003', '067', '021'];
+const ideas = all.sort((a, b) => {
+  const aFeatured = featured.indexOf(a.id);
+  const bFeatured = featured.indexOf(b.id);
+  if (aFeatured >= 0 || bFeatured >= 0) return (aFeatured < 0 ? 999 : aFeatured) - (bFeatured < 0 ? 999 : bFeatured);
+  return a.id.localeCompare(b.id);
+});
+const places = [...new Set(ideas.map((idea) => idea.data.location.placeGroup))].sort();
+const moods = ['wonder', 'make', 'listen', 'taste', 'nature', 'rest'];
+---
+<BaseLayout title="Explore">
+  <section class="explore page-frame">
+    <Decorations variant="explore" />
+    <h1 class="section-heading explore-title">Explore what sparks your curiosity</h1>
+    <p class="lead explore-subtitle">Browse 101 ideas. Save whatever catches your eye.</p>
+    <label class="search-field">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="7" /><path d="m16 16 5 5" /></svg>
+      <input type="search" placeholder="Search experiences or places" aria-label="Search experiences or places" data-explore-search autocomplete="off" />
+    </label>
+    <div class="filter-row" aria-label="Explore filters">
+      <span class="filter-label">I feel like...</span>
+      {moods.map((mood) => <button class="mood-chip" type="button" data-mood={mood} aria-pressed="false">{mood[0].toUpperCase() + mood.slice(1)}</button>)}
+      <label class="place-field">
+        <span class="sr-only">Place</span>
+        <select data-explore-place aria-label="Place">
+          <option value="">Place</option>
+          {places.map((place) => <option value={place}>{place}</option>)}
+        </select>
+      </label>
+    </div>
+    <p class="result-status" role="status" aria-live="polite" data-result-status>101 ideas to explore</p>
+    <div class="card-grid">
+      {ideas.map((idea, index) => <ExperienceCard idea={idea} index={index} />)}
+    </div>
+    <div class="no-results" data-no-results hidden>
+      <h2>No ideas found</h2>
+      <p>Try a different word or choose another feeling.</p>
+    </div>
+  </section>
+  <script>import '../../scripts/explore.ts';</script>
+</BaseLayout>

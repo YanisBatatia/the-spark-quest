@@ -1,0 +1,20 @@
+{
+  "id": "004",
+  "title": "Ride through snowy forest with huskies",
+  "location": {
+    "label": "Fairbanks, Alaska",
+    "placeGroup": "Alaska"
+  },
+  "description": "Choose a musher-led passenger sled ride, meet the dogs and learn their personalities. Some operators pair the ride with dinner in a heated yurt.",
+  "source": {
+    "pdfId": "004",
+    "pdfPage": 5
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Choose a musher-led passenger sled ride, meet the dogs and learn their personalities.",
+  "moods": [
+    "nature"
+  ],
+  "goodToKnow": "The sled ride can be bumpy. Ask the operator about boarding, weight limits and how the ride feels before reserving.",
+  "whyItMightDelightYou": "Choose a musher-led passenger sled ride, meet the dogs and learn their personalities."
+}

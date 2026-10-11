@@ -1,0 +1,30 @@
+---
+import { Image } from 'astro:assets';
+import { featuredImages, imageCredits } from '../lib/featured-images';
+
+const { id, title, priority = false, detail = false } = Astro.props;
+const image = featuredImages[id];
+---
+{
+  image ? (
+    <Image
+      src={image}
+      alt={imageCredits[id]?.alt ?? `Image for ${title}`}
+      class="experience-image"
+      width={detail ? 960 : 760}
+      height={detail ? 620 : 500}
+      widths={detail ? [480, 760, 960] : [320, 500, 760]}
+      sizes={detail ? '(max-width: 720px) 100vw, (max-width: 1050px) 60vw, 900px' : '(max-width: 720px) 100vw, (max-width: 1050px) 48vw, 32vw'}
+      format="webp"
+      loading={priority ? 'eager' : 'lazy'}
+      fetchpriority={priority ? 'high' : 'auto'}
+    />
+  ) : (
+    <div class="experience-image image-placeholder" role="img" aria-label={`Decorative illustration for ${title}`}>
+      <span class="placeholder-sun" aria-hidden="true"></span>
+      <span class="placeholder-hill placeholder-hill-back" aria-hidden="true"></span>
+      <span class="placeholder-hill placeholder-hill-front" aria-hidden="true"></span>
+      <span class="placeholder-note" aria-hidden="true">A little room for wonder</span>
+    </div>
+  )
+}

@@ -1,0 +1,22 @@
+{
+  "id": "035",
+  "title": "See Bryce Canyon's hoodoos surrounded by snow",
+  "location": {
+    "label": "Bryce Canyon, Utah",
+    "placeGroup": "Utah"
+  },
+  "description": "Visit scenic overlooks above red rock spires. Snow can transform an already unusual landscape into something extraordinary.",
+  "source": {
+    "pdfId": "035",
+    "pdfPage": 15
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Visit scenic overlooks above red rock spires.",
+  "moods": [
+    "wonder",
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "Before you go, confirm winter road and overlook access. High altitude, cold and icy footing.",
+  "whyItMightDelightYou": "Visit scenic overlooks above red rock spires."
+}

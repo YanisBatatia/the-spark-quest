@@ -1,0 +1,26 @@
+{
+  "id": "102",
+  "title": "See Niagara Falls framed by winter ice",
+  "location": {
+    "label": "Niagara Falls State Park, New York",
+    "placeGroup": "New York"
+  },
+  "description": "Watch the immense falls amid ice, snow and winter mist, using selected overlooks and the heated Scenic Trolley to make the visit manageable.",
+  "source": {
+    "pdfId": "102",
+    "pdfPage": 35
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Watch the immense falls amid ice, snow and winter mist, using selected overlooks and the heated Scenic Trolley to make the visit manageable.",
+  "moods": [
+    "wonder",
+    "nature",
+    "rest"
+  ],
+  "goodToKnow": "The falls do not freeze solid. Check the trolley schedule, weather and icy footing on the day you visit.",
+  "whyItMightDelightYou": "Watch the immense falls amid ice, snow and winter mist, using selected overlooks and the heated Scenic Trolley to make the visit manageable.",
+  "provider": {
+    "name": "Niagara Falls State Park",
+    "url": "https://www.niagarafallsstatepark.com/park-information/itineraries/winter-itinerary/"
+  }
+}

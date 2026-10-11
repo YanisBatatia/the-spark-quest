@@ -1,0 +1,20 @@
+{
+  "id": "062",
+  "title": "Create an object from molten glass",
+  "location": {
+    "label": "Corning Museum of Glass, New York",
+    "placeGroup": "New York"
+  },
+  "description": "Work with expert glassmakers on a flower, ornament or other beginner object, and discover the pleasure of creating with glass.",
+  "source": {
+    "pdfId": "062",
+    "pdfPage": 23
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Work with expert glassmakers on a flower, ornament or other beginner object, and discover the pleasure of creating with glass.",
+  "moods": [
+    "make"
+  ],
+  "goodToKnow": "Short sessions may be available. Confirm the current studio schedule, class format and access before reserving.",
+  "whyItMightDelightYou": "Work with expert glassmakers on a flower, ornament or other beginner object, and discover the pleasure of creating with glass."
+}

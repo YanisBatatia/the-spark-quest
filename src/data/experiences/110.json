@@ -1,0 +1,25 @@
+{
+  "id": "110",
+  "title": "Spend four days among poets and readers",
+  "location": {
+    "label": "Key West Literary Seminar, Florida",
+    "placeGroup": "Florida"
+  },
+  "description": "Attend the 2027 Poetry seminar for readings, conversations and the pleasure of hearing writers discuss their work in an intimate island setting.",
+  "source": {
+    "pdfId": "110",
+    "pdfPage": 35
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Share four days of poetry, conversation and island air.",
+  "moods": [
+    "listen",
+    "rest"
+  ],
+  "goodToKnow": "Earlier research listed January 7 to 10, 2027. Confirm the final program and reserve admission and lodging early.",
+  "whyItMightDelightYou": "Attend the 2027 Poetry seminar for readings, conversations and the pleasure of hearing writers discuss their work in an intimate island setting.",
+  "provider": {
+    "name": "Key West Literary Seminar",
+    "url": "https://www.kwls.org/seminar/"
+  }
+}

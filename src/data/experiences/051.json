@@ -1,0 +1,21 @@
+{
+  "id": "051",
+  "title": "Enjoy traditional jazz at Preservation Hall",
+  "location": {
+    "label": "New Orleans, Louisiana",
+    "placeGroup": "Louisiana"
+  },
+  "description": "Experience musicians playing with joy and spontaneity in one of America's most atmospheric small venues.",
+  "source": {
+    "pdfId": "051",
+    "pdfPage": 20
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Spend an intimate evening listening to live New Orleans jazz.",
+  "moods": [
+    "listen",
+    "rest"
+  ],
+  "whyItMightDelightYou": "An intimate evening with music that feels alive in the room.",
+  "goodToKnow": "Choose a performance with reserved seating if that would make the evening more comfortable."
+}

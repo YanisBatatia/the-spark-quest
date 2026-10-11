@@ -1,0 +1,20 @@
+{
+  "id": "083",
+  "title": "Explore the universe with astronomers",
+  "location": {
+    "label": "McDonald Observatory, Fort Davis, Texas",
+    "placeGroup": "Texas"
+  },
+  "description": "Attend a Star Party and observe celestial objects through telescopes beneath dark skies.",
+  "source": {
+    "pdfId": "083",
+    "pdfPage": 29
+  },
+  "editorialStatus": "needs-review",
+  "teaser": "Attend a Star Party and observe celestial objects through telescopes beneath dark skies.",
+  "moods": [
+    "wonder"
+  ],
+  "goodToKnow": "Altitude, cold, weather and some walking. Confirm program and telescope access.",
+  "whyItMightDelightYou": "Attend a Star Party and observe celestial objects through telescopes beneath dark skies."
+}
