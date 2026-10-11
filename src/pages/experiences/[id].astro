@@ -8,12 +8,14 @@ import Decorations from '../../components/Decorations.astro';
 
 export async function getStaticPaths() {
   const ideas = await getCollection('experiences');
-  return ideas.map((idea) => ({ params: { id: idea.id }, props: { idea } }));
+  const ids = ideas.map((idea) => idea.id);
+  return ideas.map((idea) => ({ params: { id: idea.id }, props: { idea, otherIds: ids.filter((id) => id !== idea.id) } }));
 }
 
-const { idea } = Astro.props;
+const { idea, otherIds } = Astro.props;
 const { id, data } = idea;
 const base = import.meta.env.BASE_URL;
+const nextId = otherIds[0];
 const goodToKnow = data.goodToKnow;
 const point = coordinates[id as keyof typeof coordinates];
 const lat = Number(point.lat);
@@ -27,7 +29,10 @@ const mapLink = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/$
 <BaseLayout title={data.title} description={data.teaser}>
   <article class="detail page-frame">
     <Decorations variant="detail" />
-    <a class="back-link" href={`${base}explore/`}><span aria-hidden="true">←</span> All ideas</a>
+    <nav class="detail-navigation" aria-label="Experience navigation">
+      <a class="back-link" href={`${base}explore/`}><span aria-hidden="true">←</span> All ideas</a>
+      <a class="button button-outline random-next" href={`${base}experiences/${nextId}/`} data-random-destination={JSON.stringify(otherIds)} data-base={base} aria-label="Open another random experience"><span aria-hidden="true">✧</span> Surprise me</a>
+    </nav>
     <div class="detail-layout">
       <div class="detail-main">
         <figure class="detail-photo">
@@ -68,4 +73,5 @@ const mapLink = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/$
     </div>
   </article>
   <script>import '../../scripts/detail-map.ts';</script>
+  <script>import '../../scripts/random.ts';</script>
 </BaseLayout>
