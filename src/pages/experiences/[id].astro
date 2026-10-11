@@ -46,6 +46,7 @@ const mapLink = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/$
           <div class="map-illustration" data-map data-map-src={mapEmbed}>
             <img class="map-preview" src={`${base}maps/${id}.svg`} alt={`Approximate map centered near ${data.location.label}`} width="520" height="245" loading="lazy" />
             <span class="map-label" data-map-label>{data.location.label}</span>
+            <img class="map-compass" src={`${base}decor/compass.svg`} alt="" width="56" height="63" aria-hidden="true" loading="lazy" data-map-compass />
             <div class="map-live" data-map-live id={`map-${id}`} hidden></div>
           </div>
           <div class="map-actions">

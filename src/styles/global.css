@@ -38,7 +38,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.045em}
 .button-outline{background:transparent;color:var(--ink)}
 .welcome{min-height:calc(100vh - 104px);display:grid;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr);align-items:center;gap:clamp(2rem,5vw,6rem);position:relative;padding-bottom:5.5rem}
 .welcome-copy{position:relative;z-index:1;padding-bottom:2rem}
-.welcome h1{font-size:clamp(4.2rem,7.2vw,8rem);line-height:.96;margin-bottom:2rem;max-width:9ch}
+.welcome h1{font-size:clamp(4.2rem,7.2vw,8rem);line-height:.96;margin-bottom:2rem;max-width:12ch}
 .welcome .lead{max-width:34rem}
 .welcome-actions{display:flex;flex-wrap:wrap;gap:1rem;margin-top:2.6rem}
 .welcome-actions .button{min-width:235px}
@@ -191,14 +191,18 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.045em}
 .welcome,.explore,.detail,.my-list{position:relative;isolation:isolate}
 .page-art{position:absolute;inset:0;z-index:-1;pointer-events:none;overflow:hidden}
 .page-art img{position:absolute;opacity:.55}
+.page-art .art-paper-landscape{display:none}
 .page-art-welcome .art-botanical{width:175px;right:-2%;top:6%;transform:rotate(17deg)}
 .page-art-welcome .art-landscape{width:430px;left:-3%;bottom:5%;opacity:.45}
+.page-art-welcome .art-paper-landscape{display:block;width:235px;right:0;bottom:1%;opacity:.78;transform:rotate(8deg)}
 .page-art-explore .art-botanical{width:160px;right:-1%;top:3%;transform:rotate(14deg)}
-.page-art-explore .art-landscape{width:450px;right:1%;top:1%;opacity:.3}
+.page-art-explore .art-landscape{display:none}
+.page-art-explore .art-paper-landscape{display:block;width:470px;right:-2%;top:0;opacity:.9}
 .page-art-detail .art-botanical{width:220px;left:-4%;top:12%;transform:rotate(-24deg);opacity:.7}
 .page-art-detail .art-landscape{width:400px;right:2%;bottom:3%;opacity:.3}
 .page-art-list .art-botanical{width:170px;right:0;top:0;transform:rotate(12deg)}
 .page-art-list .art-landscape{width:430px;left:-2%;bottom:0;opacity:.36}
+.page-art-list .art-paper-landscape{display:block;width:400px;right:-1%;bottom:0;opacity:.72}
 .collage{isolation:isolate}
 .collage::before,.collage::after{content:"";position:absolute;z-index:0;background:#cbd4c4;box-shadow:0 8px 20px rgba(59,69,56,.07);clip-path:polygon(0 2%,12% 0,30% 2%,51% 0,69% 2%,89% 0,100% 2%,98% 21%,100% 46%,98% 70%,100% 98%,76% 100%,55% 98%,29% 100%,1% 98%,2% 72%,0 48%)}
 .collage::before{width:69%;height:45%;left:-3%;top:-2%;transform:rotate(-7deg)}
@@ -213,7 +217,11 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.045em}
 }
 .collage-pottery::before{left:32%;transform:rotate(5deg)}
 .collage-jazz::before{left:39%;transform:rotate(-6deg)}
-.card-image-link{background:#eee8db;border:8px solid #f4eee2;box-shadow:0 4px 0 rgba(165,151,126,.07),0 8px 19px rgba(56,55,48,.06)}
+.card-image-link{background:#eee8db;border:8px solid #f4eee2;box-shadow:0 4px 0 rgba(165,151,126,.07),0 8px 19px rgba(56,55,48,.06);clip-path:polygon(.4% 0,24% .35%,48% 0,73% .4%,99.6% 0,100% 26%,99.7% 51%,100% 78%,99.6% 100%,70% 99.65%,42% 100%,16% 99.6%,0 100%,.3% 70%,0 39%)}
+.saved-card{position:relative;isolation:isolate;background:transparent;border:0;box-shadow:none;border-radius:0}
+.saved-card::before,.saved-card::after{content:"";position:absolute;pointer-events:none;clip-path:polygon(0 2%,18% 0,43% 1.5%,72% 0,99% 1%,100% 24%,99% 55%,100% 98%,80% 100%,55% 98%,23% 100%,1% 98%,2% 69%,0 40%)}
+.saved-card::before{z-index:-2;left:-1.2rem;top:-.6rem;width:32%;height:calc(100% + 1rem);background:#c6d1c3;transform:rotate(-2deg)}
+.saved-card::after{z-index:-1;inset:0;background:#fcfaf4;filter:drop-shadow(0 6px 14px rgba(65,58,45,.12))}
 .detail-main{position:relative;isolation:isolate}
 .detail-main::before,.detail-main::after{content:"";position:absolute;z-index:-1;pointer-events:none;clip-path:polygon(0 1%,21% 0,47% 2%,73% 0,100% 2%,98% 31%,100% 74%,99% 99%,73% 98%,46% 100%,17% 98%,0 100%,1% 53%)}
 .detail-main::before{width:42%;height:45%;background:#c9d4c4;top:-1.2rem;left:-1.8rem;transform:rotate(-5deg)}
@@ -221,7 +229,10 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.045em}
 .detail-photo{position:relative;background:#fcf9f1}
 .detail-photo::before{left:36%;top:-14px;width:25%;height:33px}
 .map-illustration{background:#e8e8dc;border:7px solid #f4eee2;box-shadow:0 3px 12px rgba(42,50,52,.08)}
+.map-illustration::before{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;background:radial-gradient(circle at 12% 24%,rgba(118,100,76,.08) 0 .7px,transparent 1px);background-size:21px 24px;opacity:.45}
+.map-illustration:has(.map-live:not([hidden]))::before{display:none}
 .map-live,.map-live iframe{width:100%;height:100%;border:0}
+.map-illustration .map-compass{position:absolute;right:.65rem;top:.3rem;width:56px;height:63px;object-fit:contain;z-index:2;opacity:.85}
 .map-actions{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.45rem .75rem;margin-top:.5rem}
 .map-actions a,.map-toggle{font-size:.88rem;color:var(--terra-dark);text-decoration:underline;text-underline-offset:.17em}
 .map-toggle{border:0;background:none;padding:.35rem 0;font-weight:600;text-align:left}
@@ -230,12 +241,16 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.045em}
 @media (max-width:720px){
   .page-art-welcome .art-botanical{width:125px;top:38%;right:-5%}
   .page-art-welcome .art-landscape{width:250px;bottom:1%;left:-6%}
+  .page-art-welcome .art-paper-landscape{width:145px;right:-3%;bottom:1%}
   .page-art-explore .art-landscape{width:240px;right:-6%;top:1%}
   .page-art-explore .art-botanical{width:95px;right:-6%;top:0}
+  .page-art-explore .art-paper-landscape{width:200px;right:-9%;top:1%}
   .page-art-detail .art-botanical{width:125px;top:3%;left:-8%}
   .page-art-detail .art-landscape{display:none}
   .page-art-list .art-botanical{width:110px;right:-7%}
+  .page-art-list .art-paper-landscape{width:220px;right:-8%;bottom:0}
   .detail-main::before{left:-.5rem;top:-.4rem}
   .detail-main::after{right:1.5rem}
+  .saved-card::before{left:-.35rem;width:58%}
 }
 @media print{.page-art,.detail-main::before,.detail-main::after{display:none}}

@@ -3,6 +3,7 @@ const toggle = document.querySelector<HTMLButtonElement>('[data-map-toggle]');
 const live = map?.querySelector<HTMLElement>('[data-map-live]');
 const preview = map?.querySelector<HTMLElement>('.map-preview');
 const label = map?.querySelector<HTMLElement>('[data-map-label]');
+const compass = map?.querySelector<HTMLElement>('[data-map-compass]');
 
 if (map && toggle && live && preview && label) {
   toggle.addEventListener('click', () => {
@@ -19,6 +20,7 @@ if (map && toggle && live && preview && label) {
     live.hidden = !opening;
     preview.hidden = opening;
     label.hidden = opening;
+    if (compass) compass.hidden = opening;
     toggle.setAttribute('aria-expanded', String(opening));
     toggle.innerHTML = opening ? 'Back to illustrated map <span aria-hidden="true">↶</span>' : 'Explore interactive map <span aria-hidden="true">↗</span>';
   });
