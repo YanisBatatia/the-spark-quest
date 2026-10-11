@@ -54,7 +54,7 @@ const mapLink = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/$
           <p class="map-caption">Approximate location · Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap contributors</a> and Natural Earth</p>
         </section>
         <section class="detail-panel">
-          <h2>Why it might delight you</h2>
+          <h2>{id === '100' ? 'Why it stays with you' : 'Why it might delight you'}</h2>
           <p>{data.whyItMightDelightYou}</p>
         </section>
         <div class="detail-panel">
