@@ -171,7 +171,7 @@
     "lat": 21.27936,
     "lon": -157.82857,
     "query": "Waikiki, Honolulu, Hawaii",
-    "matched": "Waik\u012bk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96830, United States",
+    "matched": "Waikīkī, East Honolulu, Honolulu, Honolulu County, Hawaii, 96830, United States",
     "approximate": true
   },
   "026": {
@@ -220,14 +220,14 @@
     "lat": 19.26083,
     "lon": -155.35787,
     "query": "Hawaii Volcanoes National Park, Hawaii",
-    "matched": "Hawai\u02bbi Volcanoes National Park, Hawai\u02bbi County, Hawaii, 96718, United States",
+    "matched": "Hawaiʻi Volcanoes National Park, Hawaiʻi County, Hawaii, 96718, United States",
     "approximate": true
   },
   "033": {
     "lat": 22.16777,
     "lon": -159.64409,
     "query": "Na Pali Coast, Kauai, Hawaii",
-    "matched": "N\u0101 Pali Coast State Wilderness Park, Hanalei, Kaua\u02bbi County, Hawaii, 96714, United States",
+    "matched": "Nā Pali Coast State Wilderness Park, Hanalei, Kauaʻi County, Hawaii, 96714, United States",
     "approximate": true
   },
   "034": {
@@ -315,10 +315,10 @@
     "approximate": true
   },
   "046": {
-    "lat": 44.32966,
-    "lon": -74.13112,
-    "query": "Saranac Lake, New York",
-    "matched": "Village of Saranac Lake, Town of Harrietstown, Franklin County, New York, United States",
+    "lat": 37.7291,
+    "lon": -119.6285,
+    "query": "Horsetail Fall, Yosemite National Park, California",
+    "matched": "Horsetail Fall, El Capitan, Yosemite National Park, California",
     "approximate": true
   },
   "047": {
@@ -364,10 +364,10 @@
     "approximate": true
   },
   "053": {
-    "lat": 40.75664,
-    "lon": -73.9838,
-    "query": "Belasco Theatre, New York City",
-    "matched": "Belasco Theatre, 111, West 44th Street, Times Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",
+    "lat": 40.7567,
+    "lon": -73.9864,
+    "query": "Broadway Theatre District, Manhattan, New York City",
+    "matched": "Broadway Theatre District, Manhattan, New York City, New York",
     "approximate": true
   },
   "054": {
@@ -528,7 +528,7 @@
     "lat": 19.64194,
     "lon": -155.99693,
     "query": "Kailua-Kona, Hawaii",
-    "matched": "Kailua, Hawai\u02bbi County, Hawaii, United States",
+    "matched": "Kailua, Hawaiʻi County, Hawaii, United States",
     "approximate": true
   },
   "078": {

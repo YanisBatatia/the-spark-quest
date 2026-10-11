@@ -3,9 +3,11 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ExperienceCard from '../../components/ExperienceCard.astro';
 import Decorations from '../../components/Decorations.astro';
+import recommendations from '../../data/recommendations.json';
 
 const all = await getCollection('experiences');
 const featured = ['003', '067', '021'];
+const recommendationById = new Map(recommendations.map((item, index) => [item.id, { ...item, rank: index + 1 }]));
 const ideas = all.sort((a, b) => {
   const aFeatured = featured.indexOf(a.id);
   const bFeatured = featured.indexOf(b.id);
@@ -27,6 +29,7 @@ const moods = ['wonder', 'make', 'listen', 'taste', 'nature', 'rest'];
     <div class="filter-row" aria-label="Explore filters">
       <span class="filter-label">I feel like...</span>
       {moods.map((mood) => <button class="mood-chip" type="button" data-mood={mood} aria-pressed="false">{mood[0].toUpperCase() + mood.slice(1)}</button>)}
+      <button class="mood-chip recommendation-chip" type="button" data-recommendations aria-pressed="false">My recommendations</button>
       <label class="place-field">
         <span class="sr-only">Place</span>
         <select data-explore-place aria-label="Place">
@@ -37,7 +40,7 @@ const moods = ['wonder', 'make', 'listen', 'taste', 'nature', 'rest'];
     </div>
     <p class="result-status" role="status" aria-live="polite" data-result-status>101 ideas to explore</p>
     <div class="card-grid">
-      {ideas.map((idea, index) => <ExperienceCard idea={idea} index={index} />)}
+      {ideas.map((idea, index) => <ExperienceCard idea={idea} index={index} recommendation={recommendationById.get(idea.id)} />)}
     </div>
     <div class="no-results" data-no-results hidden>
       <h2>No ideas found</h2>

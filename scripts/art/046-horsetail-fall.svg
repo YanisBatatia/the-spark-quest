@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Illustration of Horsetail Fall glowing at sunset on El Capitan">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#536880"/><stop offset=".55" stop-color="#ad958c"/><stop offset="1" stop-color="#e8c8a0"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#ffe6ab" stop-opacity=".82"/><stop offset=".45" stop-color="#efbb8d" stop-opacity=".32"/><stop offset="1" stop-color="#efbb8d" stop-opacity="0"/></radialGradient>
+    <linearGradient id="stone" x2="1" y2=".2"><stop stop-color="#3d4b58"/><stop offset=".48" stop-color="#788080"/><stop offset=".8" stop-color="#a38e83"/><stop offset="1" stop-color="#5c6870"/></linearGradient>
+    <linearGradient id="fall" x2="1" y2="0"><stop stop-color="#ffd97e" stop-opacity="0"/><stop offset=".48" stop-color="#ffe091"/><stop offset=".7" stop-color="#e98252"/><stop offset="1" stop-color="#b45944" stop-opacity="0"/></linearGradient>
+    <linearGradient id="forest" x2="0" y2="1"><stop stop-color="#425958"/><stop offset="1" stop-color="#253f46"/></linearGradient>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".55" numOctaves="3" seed="6" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".09"/></feComponentTransfer></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <ellipse cx="748" cy="302" rx="430" ry="375" fill="url(#light)"/>
+  <path d="M0 466 Q145 343 244 361 L350 316 389 354 498 333 570 388 640 353 716 392 804 356 890 423 1038 346 1200 419 V800 H0Z" fill="#798785" opacity=".65"/>
+  <path d="M0 402 L81 396 123 342 265 303 358 285 447 258 541 249 611 236 688 219 741 190 753 161 778 147 807 164 845 160 901 184 934 222 943 288 922 344 909 430 903 545 878 669 813 800 H0Z" fill="url(#stone)"/>
+  <path d="M0 402 L81 396 123 342 265 303 358 285 447 258 541 249 611 236 688 219 741 190 753 161 778 147 807 164 845 160 901 184" fill="none" stroke="#dbc6ad" stroke-width="6" opacity=".4"/>
+  <path d="M121 402 Q200 490 181 640 M260 321 Q340 400 303 589 M449 271 Q491 349 473 479 M589 239 Q639 373 586 655 M873 223 Q828 362 847 570" fill="none" stroke="#283f4b" stroke-width="7" opacity=".32"/>
+  <path d="M199 350 Q295 396 354 494 M368 321 Q408 380 446 441 M662 231 Q687 292 716 360 M797 194 Q832 256 828 330" fill="none" stroke="#e1c3a6" stroke-width="5" opacity=".29"/>
+  <path d="M806 198 C812 265 806 333 814 390 S810 508 817 564 S814 651 821 722" fill="none" stroke="#ffb95d" stroke-width="40" opacity=".6" filter="url(#glow)"/>
+  <path d="M803 200 C812 277 805 327 811 390 S807 503 815 565 S814 657 821 719" fill="none" stroke="url(#fall)" stroke-width="17" stroke-linecap="round"/>
+  <path d="M809 244 C818 301 808 359 819 402 S813 496 820 542" fill="none" stroke="#ffe3a2" stroke-width="5" opacity=".75"/>
+  <path d="M0 589 Q126 566 226 607 T431 637 Q550 596 653 662 T903 619 Q1040 558 1200 629 V800 H0Z" fill="#6f8177"/>
+  <path d="M0 674 Q154 623 285 688 T571 677 Q704 642 867 713 T1200 661 V800 H0Z" fill="url(#forest)"/>
+  <g fill="#273f43"><path d="m44 662 21-96 22 96z m8-43 13-91 14 91z m92 77 21-133 22 133z m12-66 9-90 14 90z m113 71 18-109 19 109z m581 22 22-129 27 129z m156-12 23-135 26 135z m91 5 16-106 20 106z m67-3 19-130 24 130z"/></g>
+  <path d="M0 764 Q264 724 508 765 T1200 757 V800 H0Z" fill="#213b41"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".7"/>
+</svg>

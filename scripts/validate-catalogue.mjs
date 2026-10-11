@@ -8,7 +8,8 @@ const assets = join(root, 'src/assets/experiences');
 const maps = join(root, 'public/maps');
 const credits = JSON.parse(readFileSync(join(root, 'src/data/image-credits.json'), 'utf8'));
 const coordinates = JSON.parse(readFileSync(join(root, 'src/data/map-coordinates.json'), 'utf8'));
-const originals = new Set(['021', '051', '067']);
+const recommendations = JSON.parse(readFileSync(join(root, 'src/data/recommendations.json'), 'utf8'));
+const originals = new Set(['021', '046', '051', '067']);
 const files = readdirSync(directory).filter((name) => name.endsWith('.json')).sort();
 const expected = new Set([
   ...Array.from({ length: 71 }, (_, i) => String(i + 1).padStart(3, '0')),
@@ -16,13 +17,20 @@ const expected = new Set([
   '102', '110',
 ]);
 const errors = [];
+const recommendedIds = recommendations.map((item) => item.id);
+if (recommendedIds.length !== 18 || new Set(recommendedIds).size !== 18) errors.push('Recommendations must contain 18 unique IDs');
+for (const item of recommendations) {
+  if (!expected.has(item.id) || !item.why?.trim()) errors.push(`Invalid recommendation: ${item.id}`);
+}
 
 if (files.length !== 101) errors.push(`Expected 101 JSON files; found ${files.length}`);
 for (const filename of files) {
   const entry = JSON.parse(readFileSync(join(directory, filename), 'utf8'));
   const id = filename.slice(0, -5);
   if (!expected.has(id)) errors.push(`Unexpected ID: ${id}`);
-  if (entry.id !== id || entry.source?.pdfId !== id) errors.push(`Mismatched ID in ${filename}`);
+  if (entry.id !== id || (id === '046'
+    ? entry.source?.pdfId !== undefined || entry.source?.pdfPage !== undefined
+    : entry.source?.pdfId !== id || !Number.isInteger(entry.source?.pdfPage))) errors.push(`Mismatched source ID or page in ${filename}`);
   for (const key of ['title', 'description', 'teaser', 'goodToKnow', 'whyItMightDelightYou']) {
     if (!entry[key]?.trim()) errors.push(`Missing ${key} in ${filename}`);
   }

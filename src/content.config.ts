@@ -18,8 +18,8 @@ const experiences = defineCollection({
     whyItMightDelightYou: z.string().min(40),
     provider: z.object({ name: z.string().min(1), url: z.string().url() }).optional(),
     source: z.object({
-      pdfId: z.string().regex(/^\d{3}$/),
-      pdfPage: z.number().int().min(5).max(35),
+      pdfId: z.string().regex(/^\d{3}$/).optional(),
+      pdfPage: z.number().int().min(5).max(35).optional(),
       webUrl: z.string().url(),
     }),
     editorialStatus: z.literal('researched'),

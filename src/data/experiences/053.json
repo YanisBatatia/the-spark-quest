@@ -1,21 +1,21 @@
 {
   "id": "053",
-  "title": "See Maybe Happy Ending on Broadway",
+  "title": "Watch a Broadway musical",
   "location": {
-    "label": "Belasco Theatre, New York City",
+    "label": "Broadway Theatre District, New York City",
     "placeGroup": "New York City"
   },
-  "description": "In a future Seoul, two obsolete helper robots meet in a quiet apartment building and begin an unlikely friendship. Maybe Happy Ending uses music, humor, and inventive stagecraft to make their small discoveries feel enormous. Take a seat at the Belasco Theatre and let the story build from everyday curiosity into something tender and surprising.",
+  "description": "Find a musical whose story catches your interest, then make an evening of it in New York’s Theatre District. The lights dim, the orchestra begins, and songs carry the characters’ feelings farther than conversation could. Broadway offers everything from intimate new stories to large ensemble productions; browsing the current lineup is part of the pleasure, and no single show has to define the experience.",
   "source": {
     "pdfId": "053",
     "pdfPage": 20,
-    "webUrl": "https://www.maybehappyending.com/"
+    "webUrl": "https://www.broadway.org/info/current-new-york-broadway-shows"
   },
   "editorialStatus": "researched",
-  "teaser": "Meet two retired robots in an intimate Broadway musical.",
+  "teaser": "Choose a show and let live music carry you into its world.",
   "moods": [
     "listen"
   ],
-  "goodToKnow": "Check the show’s current run and ticket availability before planning a trip around it.",
-  "whyItMightDelightYou": "Its small-scale story makes room for affection, loneliness, and the courage to connect."
+  "goodToKnow": "Check the current Broadway lineup, performance schedule, running time, and official ticket options before choosing a show.",
+  "whyItMightDelightYou": "The thrill is shared: performers, musicians, and an entire audience discover the same story together in real time."
 }

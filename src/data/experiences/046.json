@@ -1,21 +1,19 @@
 {
   "id": "046",
-  "title": "Walk through Saranac Lake’s ice palace",
+  "title": "Watch Horsetail Fall glow at sunset",
   "location": {
-    "label": "Saranac Lake, New York",
-    "placeGroup": "New York"
+    "label": "Yosemite National Park, California",
+    "placeGroup": "California"
   },
-  "description": "In the Adirondacks, volunteers cut blocks from a frozen lake and build the ice palace that anchors Saranac Lake’s Winter Carnival. Visit by day to see how the blocks fit together, then come back after dark when colored lights glow through the walls. The wider carnival adds parades, events, and the cheerful feeling of a town celebrating winter together.",
+  "description": "On a few evenings in late February, sunset can light the narrow ribbon of Horsetail Fall on El Capitan until it appears to glow orange against the granite. Walk into Yosemite Valley with other hopeful viewers, settle in before dusk, and watch the light shift across the cliff. The effect needs both flowing water and a clear sky, so the anticipation is part of the experience—and a sighting is never guaranteed.",
   "source": {
-    "pdfId": "046",
-    "pdfPage": 18,
-    "webUrl": "https://saranaclakewintercarnival.com/"
+    "webUrl": "https://www.nps.gov/yose/planyourvisit/horsetailfall.htm"
   },
   "editorialStatus": "researched",
-  "teaser": "See a community-made ice palace glow after sunset.",
+  "teaser": "Wait for a winter waterfall to catch the last light on El Capitan.",
   "moods": [
     "wonder"
   ],
-  "goodToKnow": "Confirm the carnival program and prepare for cold and slippery ground around the ice palace.",
-  "whyItMightDelightYou": "The palace is beautiful because its neighbors built it, and you can feel that shared effort throughout the carnival."
+  "goodToKnow": "Check the National Park Service’s current Horsetail Fall viewing guidance before traveling. Viewing often involves a walk after dark; bring warm layers and a headlamp. Flowing water, clear weather, and the right sunset angle all have to align.",
+  "whyItMightDelightYou": "The moment feels rare because nothing is staged: you wait with the valley, watching ordinary granite become briefly luminous."
 }
