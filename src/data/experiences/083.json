@@ -1,20 +1,21 @@
 {
   "id": "083",
-  "title": "Explore the universe with astronomers",
+  "title": "Spend a starry night at McDonald Observatory",
   "location": {
     "label": "McDonald Observatory, Fort Davis, Texas",
     "placeGroup": "Texas"
   },
-  "description": "Attend a Star Party and observe celestial objects through telescopes beneath dark skies.",
+  "description": "Drive into West Texas for a Star Party at McDonald Observatory, where staff help visitors find constellations and look through telescopes when skies allow. The dark setting is part of the experience: let your eyes adjust, follow the guide’s pointing hand, and look again at how many stars were there all along.",
   "source": {
     "pdfId": "083",
-    "pdfPage": 29
+    "pdfPage": 29,
+    "webUrl": "https://mcdonaldobservatory.org/visit/star-party/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Attend a Star Party and observe celestial objects through telescopes beneath dark skies.",
+  "editorialStatus": "researched",
+  "teaser": "Look through telescopes under West Texas skies.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Altitude, cold, weather and some walking. Confirm program and telescope access.",
-  "whyItMightDelightYou": "Attend a Star Party and observe celestial objects through telescopes beneath dark skies."
+  "whyItMightDelightYou": "Someone helping you read the sky can turn distant points of light into places and stories."
 }

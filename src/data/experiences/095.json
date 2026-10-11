@@ -1,22 +1,23 @@
 {
   "id": "095",
-  "title": "Meet an endangered African penguin",
+  "title": "Meet African penguins at the Florida Aquarium",
   "location": {
     "label": "The Florida Aquarium, Tampa, Florida",
     "placeGroup": "Florida"
   },
-  "description": "Join animal-care specialists for a close encounter, watching a penguin's curious behavior and learning about its care. Feather touching may be possible if the bird approaches voluntarily.",
+  "description": "The Florida Aquarium’s Penguin Encounter brings a small group near its African penguins with animal-care staff. Watch how the birds move and interact, ask about their care, and learn about conservation work for a species facing serious threats. The encounter adds a personal scale to what you see later in the wider aquarium.",
   "source": {
     "pdfId": "095",
-    "pdfPage": 33
+    "pdfPage": 33,
+    "webUrl": "https://www.flaquarium.org/visit/experiences/penguin-encounter/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Join animal-care specialists for a close encounter, watching a penguin's curious behavior and learning about its care.",
+  "editorialStatus": "researched",
+  "teaser": "Meet African penguins with the people who care for them.",
   "moods": [
     "nature"
   ],
-  "goodToKnow": "The earlier research described a 45-minute small-group encounter at $75 plus admission. Check the current schedule, price and participation rules. No swimming is required.",
-  "whyItMightDelightYou": "Join animal-care specialists for a close encounter, watching a penguin's curious behavior and learning about its care.",
+  "goodToKnow": "The encounter has its own participation rules and fee in addition to admission; confirm both before booking.",
+  "whyItMightDelightYou": "A close view reveals each bird’s own behavior beyond the familiar penguin silhouette.",
   "provider": {
     "name": "The Florida Aquarium",
     "url": "https://www.flaquarium.org/visit/experiences/penguin-encounter/"

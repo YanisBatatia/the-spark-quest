@@ -1,20 +1,21 @@
 {
   "id": "098",
-  "title": "Rediscover laughter at the National Comedy Center",
+  "title": "Find your sense of humor at the National Comedy Center",
   "location": {
     "label": "Jamestown, New York",
     "placeGroup": "New York"
   },
-  "description": "Explore your own sense of humor through interactive exhibits, comedians and performances.",
+  "description": "Jamestown’s National Comedy Center treats laughter as something to explore, not just consume. Its interactive galleries let you encounter performers, writing, timing, and the many forms comedy takes. Follow the exhibits that match your tastes, then try ones that do not; the visit may reveal why a joke that leaves one person cold makes another person roar.",
   "source": {
     "pdfId": "098",
-    "pdfPage": 34
+    "pdfPage": 34,
+    "webUrl": "https://comedycenter.org/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Explore your own sense of humor through interactive exhibits, comedians and performances.",
+  "editorialStatus": "researched",
+  "teaser": "Explore comedy through interactive exhibits in Jamestown.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Indoor visit; pace the galleries and take breaks. Confirm winter hours.",
-  "whyItMightDelightYou": "Explore your own sense of humor through interactive exhibits, comedians and performances."
+  "whyItMightDelightYou": "It invites you to notice your own sense of humor while discovering someone else’s."
 }

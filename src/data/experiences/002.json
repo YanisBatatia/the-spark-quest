@@ -1,23 +1,24 @@
 {
   "id": "002",
-  "title": "Fly around Denali in winter",
+  "title": "See Denali from a winter flight",
   "location": {
     "label": "Talkeetna, Alaska",
     "placeGroup": "Alaska"
   },
-  "description": "Talkeetna Air Taxi's Winter Explorer reveals North America's highest mountain, immense glaciers and snow-covered peaks from a small aircraft.",
+  "description": "From Talkeetna, a small plane climbs toward the Alaska Range, trading spruce forests for glaciers, sharp ridges, and a mountain that seems to keep rising. Talkeetna Air Taxi offers a winter flightseeing route; on a clear day you can follow the folds of snow and ice from your window, with an optional glacier landing on some departures.",
   "source": {
     "pdfId": "002",
-    "pdfPage": 5
+    "pdfPage": 5,
+    "webUrl": "https://www.talkeetnaair.com/flightseeing/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "See snowy Denali and its glaciers from a small aircraft.",
+  "editorialStatus": "researched",
+  "teaser": "Fly from Talkeetna toward Denali and its glaciers.",
   "moods": [
     "wonder",
     "nature"
   ],
-  "goodToKnow": "Winter flightseeing is weather dependent. The earlier research listed flights around one hour and fares from $325; confirm current prices, boarding and weight policies with the operator.",
-  "whyItMightDelightYou": "Talkeetna Air Taxi's Winter Explorer reveals North America's highest mountain, immense glaciers and snow-covered peaks from a small aircraft.",
+  "goodToKnow": "Flights depend on weather. Confirm the route, boarding and weight policies, and current fare with the operator.",
+  "whyItMightDelightYou": "Seeing the scale of the Alaska Range from above makes a familiar map feel startlingly real.",
   "provider": {
     "name": "Talkeetna Air Taxi",
     "url": "https://www.talkeetnaair.com/flightseeing/"

@@ -1,20 +1,21 @@
 {
   "id": "042",
-  "title": "Experience rural Cajun Mardi Gras",
+  "title": "Follow a Cajun Mardi Gras in Eunice",
   "location": {
     "label": "Eunice and Cajun Country, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Discover masked riders, musicians, costumes, food and community gatherings in a tradition very different from New Orleans.",
+  "description": "In Cajun country, Mardi Gras has a different rhythm. Costumed riders make a rural run through the countryside, gathering ingredients and carrying on a community tradition that ends with food, music, and dancing. Spend time in Eunice for its street celebrations and listen for fiddles and accordions as the town welcomes everyone into the party.",
   "source": {
     "pdfId": "042",
-    "pdfPage": 17
+    "pdfPage": 17,
+    "webUrl": "https://www.eunicemardigras.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Discover masked riders, musicians, costumes, food and community gatherings in a tradition very different from New Orleans.",
+  "editorialStatus": "researched",
+  "teaser": "Meet the music and mischief of Cajun Mardi Gras.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "Plan around February 9, 2027 and surrounding days. Local guide and comfortable stationary viewing recommended.",
-  "whyItMightDelightYou": "Discover masked riders, musicians, costumes, food and community gatherings in a tradition very different from New Orleans."
+  "whyItMightDelightYou": "The pleasure is seeing a local tradition made by its community, from the costumes to the shared meal."
 }

@@ -1,21 +1,22 @@
 {
   "id": "092",
-  "title": "Enjoy a tropical garden on a winter evening",
+  "title": "Warm up at Longwood Gardens’ Winter Wonder",
   "location": {
     "label": "Longwood Gardens, Pennsylvania",
     "placeGroup": "Pennsylvania"
   },
-  "description": "Discover warm conservatories, plants, fountains and selected Tropical Nights evenings during Winter Wonder.",
+  "description": "At Longwood Gardens, winter becomes a reason to linger indoors among lush conservatory plantings. Follow the paths through rooms with different colors, textures, and temperatures, and check whether Tropical Nights evening hours are offered during your visit. Outside may be cold, but the garden’s glasshouses make the season feel unexpectedly alive.",
   "source": {
     "pdfId": "092",
-    "pdfPage": 32
+    "pdfPage": 32,
+    "webUrl": "https://longwoodgardens.org/gardens/our-seasons/winter-wonder"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Discover warm conservatories, plants, fountains and selected Tropical Nights evenings during Winter Wonder.",
+  "editorialStatus": "researched",
+  "teaser": "Trade winter air for Longwood’s warm glasshouses.",
   "moods": [
     "nature",
     "rest"
   ],
-  "goodToKnow": "Earlier research listed a January 22 to March 21, 2027 season with selected February evenings. Confirm dates and indoor walking routes.",
-  "whyItMightDelightYou": "Discover warm conservatories, plants, fountains and selected Tropical Nights evenings during Winter Wonder."
+  "goodToKnow": "Check the current Winter Wonder dates and which evenings offer Tropical Nights; allow time to walk the conservatories.",
+  "whyItMightDelightYou": "The transition from bare trees to tropical foliage is a small, satisfying escape."
 }

@@ -1,20 +1,21 @@
 {
   "id": "074",
-  "title": "Learn how an expert blends bourbon",
+  "title": "Explore the art of bourbon blending",
   "location": {
     "label": "Bardstown Bourbon Company, Kentucky",
     "placeGroup": "Kentucky"
   },
-  "description": "Choose an educational tasting, ideally a Behind the Blend session with the master blender when dates align.",
+  "description": "At Bardstown Bourbon Company, compare how different barrels and whiskies contribute aroma and flavor to a final blend. Choose a tour or tasting that focuses on the distillery’s blending approach, and let your guide explain the choices behind each glass. Even a small sip can reveal how much craft is involved before a bottle reaches the shelf.",
   "source": {
     "pdfId": "074",
-    "pdfPage": 26
+    "pdfPage": 26,
+    "webUrl": "https://www.bardstownbourbon.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Choose an educational tasting, ideally a Behind the Blend session with the master blender when dates align.",
+  "editorialStatus": "researched",
+  "teaser": "Taste the decisions behind a Kentucky bourbon blend.",
   "moods": [
     "taste"
   ],
   "goodToKnow": "Special sessions happen periodically. Check the winter calendar; tasting alcohol is optional.",
-  "whyItMightDelightYou": "Choose an educational tasting, ideally a Behind the Blend session with the master blender when dates align."
+  "whyItMightDelightYou": "It offers a new way to notice flavor, beyond simply deciding whether you like a whiskey."
 }

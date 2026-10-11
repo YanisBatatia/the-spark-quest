@@ -1,20 +1,21 @@
 {
   "id": "054",
-  "title": "Go backstage at the Grand Ole Opry",
+  "title": "Go behind the scenes at the Grand Ole Opry",
   "location": {
     "label": "Nashville, Tennessee",
     "placeGroup": "Tennessee"
   },
-  "description": "Pair a live show with a backstage tour through rooms used by performers, adding a personal view of the institution.",
+  "description": "A backstage tour of the Grand Ole Opry takes you into the rooms and corridors performers use before stepping into country music’s best-known circle. Hear stories of the artists who have played here, see how the show comes together, and imagine the nerves just before the curtain rises. Pair it with a live performance if your schedule allows.",
   "source": {
     "pdfId": "054",
-    "pdfPage": 20
+    "pdfPage": 20,
+    "webUrl": "https://www.opry.com/tours"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Pair a live show with a backstage tour through rooms used by performers, adding a personal view of the institution.",
+  "editorialStatus": "researched",
+  "teaser": "Follow performers’ footsteps behind Nashville’s famous stage.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "Before you go, confirm compatible show/tour times and walking requirements.",
-  "whyItMightDelightYou": "Pair a live show with a backstage tour through rooms used by performers, adding a personal view of the institution."
+  "whyItMightDelightYou": "The tour gives a familiar music institution a human scale, from dressing room to spotlight."
 }

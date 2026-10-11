@@ -1,21 +1,22 @@
 {
   "id": "032",
-  "title": "Witness Kilauea from open viewpoints",
+  "title": "Look into Kīlauea’s caldera",
   "location": {
     "label": "Hawaii Volcanoes National Park, Hawaii",
     "placeGroup": "Hawaii"
   },
-  "description": "If activity is occurring and safely visible, observe the active volcano from officially open viewpoints. The caldera itself remains an extraordinary landscape.",
+  "description": "Stand at an officially open overlook in Hawaiʻi Volcanoes National Park and take in the scale of Kīlauea’s summit caldera. Steam, layered rock, and a changing volcanic landscape are compelling even when no lava is visible. When eruption activity is safely in view, the experience can become more dramatic; park alerts determine where visitors may stand.",
   "source": {
     "pdfId": "032",
-    "pdfPage": 14
+    "pdfPage": 14,
+    "webUrl": "https://www.nps.gov/havo/planyourvisit/eruption-viewing.htm"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "If activity is occurring and safely visible, observe the active volcano from officially open viewpoints.",
+  "editorialStatus": "researched",
+  "teaser": "See Kīlauea from an open park overlook.",
   "moods": [
     "wonder",
     "nature"
   ],
   "goodToKnow": "An eruption is never promised. Check current park alerts, air quality, viewpoint access and visibility before visiting.",
-  "whyItMightDelightYou": "If activity is occurring and safely visible, observe the active volcano from officially open viewpoints."
+  "whyItMightDelightYou": "The landscape makes Earth feel active under your feet, whether the volcano is quiet or visibly erupting."
 }

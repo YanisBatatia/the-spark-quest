@@ -1,21 +1,22 @@
 {
   "id": "043",
-  "title": "Watch Indigenous hoop-dance champions",
+  "title": "Watch the World Championship Hoop Dance Contest",
   "location": {
     "label": "Heard Museum, Phoenix, Arizona",
     "placeGroup": "Arizona"
   },
-  "description": "World-class dancers combine storytelling, coordination, music and cultural heritage at the championship competition.",
+  "description": "At Phoenix’s Heard Museum, Indigenous dancers turn a stack of hoops into moving patterns: wings, animals, and shapes that change in a breath. The annual contest brings performers from Native communities across North America. Watch the concentration in the dancers’ hands, hear the drum, and stay for the artistry beyond any single winning performance.",
   "source": {
     "pdfId": "043",
-    "pdfPage": 17
+    "pdfPage": 17,
+    "webUrl": "https://heard.org/circle-of-life/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "World-class dancers combine storytelling, coordination, music and cultural heritage at the championship competition.",
+  "editorialStatus": "researched",
+  "teaser": "See hoops become stories in motion at the Heard Museum.",
   "moods": [
     "wonder",
     "listen"
   ],
-  "goodToKnow": "Earlier research listed these dates: February 6-7, 2027. Confirm spectator seating and weather arrangements.",
-  "whyItMightDelightYou": "World-class dancers combine storytelling, coordination, music and cultural heritage at the championship competition."
+  "goodToKnow": "The Heard Museum lists February 6–7, 2027 for the next contest. Confirm spectator seating and outdoor conditions.",
+  "whyItMightDelightYou": "You can admire both athletic precision and the distinct creative choices each dancer brings to the circle."
 }

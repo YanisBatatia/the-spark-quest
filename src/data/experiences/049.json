@@ -1,20 +1,21 @@
 {
   "id": "049",
-  "title": "Watch a pirate invasion of Tampa Bay",
+  "title": "Join Tampa’s Gasparilla pirate celebration",
   "location": {
     "label": "Gasparilla Pirate Fest, Tampa, Florida",
     "placeGroup": "Florida"
   },
-  "description": "A theatrical pirate ship leads a flotilla toward the city before elaborate parades.",
+  "description": "Tampa Bay’s Gasparilla celebration turns a pirate legend into a waterfront spectacle. Watch the flotilla arrive, then follow the energy into a parade of floats, marching groups, and elaborate pirate costumes. Find a comfortable viewing spot and let the city’s shared joke carry you through an afternoon of music and make-believe.",
   "source": {
     "pdfId": "049",
-    "pdfPage": 19
+    "pdfPage": 19,
+    "webUrl": "https://gasparillapiratefest.com/pirate-fest/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "A theatrical pirate ship leads a flotilla toward the city before elaborate parades.",
+  "editorialStatus": "researched",
+  "teaser": "Watch pirate ships and a citywide parade take over Tampa.",
   "moods": [
     "wonder"
   ],
-  "goodToKnow": "Earlier research listed January 30, 2027. Confirm the parade date and consider a reserved waterfront or brunch viewpoint for a calmer visit.",
-  "whyItMightDelightYou": "A theatrical pirate ship leads a flotilla toward the city before elaborate parades."
+  "goodToKnow": "Confirm the current invasion and parade schedule; a reserved viewpoint can make a crowded day easier.",
+  "whyItMightDelightYou": "The fun lies in how completely a whole city commits to its playful pirate story."
 }

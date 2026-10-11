@@ -1,20 +1,21 @@
 {
   "id": "096",
-  "title": "Explore Frank Lloyd Wright's desert architecture",
+  "title": "Walk through Frank Lloyd Wright’s Taliesin West",
   "location": {
     "label": "Taliesin West, Scottsdale, Arizona",
     "placeGroup": "Arizona"
   },
-  "description": "Tour the architect's winter home and desert laboratory, discovering the relationship between buildings, landscape, color and design philosophy.",
+  "description": "At Taliesin West in Scottsdale, follow a tour through the desert home and studio Frank Lloyd Wright built with his apprentices. Low roofs, angled walls, and views toward the mountains show how the place responds to its surroundings. Look beyond the famous name to the rooms where a community lived, worked, and kept changing the site.",
   "source": {
     "pdfId": "096",
-    "pdfPage": 33
+    "pdfPage": 33,
+    "webUrl": "https://franklloydwright.org/taliesin-west-tours/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "See Frank Lloyd Wright’s desert home and design laboratory.",
+  "editorialStatus": "researched",
+  "teaser": "See architecture shaped by the Sonoran Desert.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Before you go, confirm a manageable guided route, walking and accessibility.",
-  "whyItMightDelightYou": "Tour the architect's winter home and desert laboratory, discovering the relationship between buildings, landscape, color and design philosophy."
+  "whyItMightDelightYou": "Walking the rooms makes Wright’s design ideas easier to feel than any photograph can."
 }

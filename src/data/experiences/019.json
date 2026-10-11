@@ -1,22 +1,23 @@
 {
   "id": "019",
-  "title": "Visit the machine that listens for colliding black holes",
+  "title": "Visit LIGO’s Livingston observatory",
   "location": {
     "label": "LIGO Livingston, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Visit a working gravitational-wave observatory with two four-kilometer detector arms, exhibits and opportunities to meet people exploring the universe.",
+  "description": "At LIGO Livingston, the science education center makes gravitational waves less abstract through hands-on exhibits and public tours. Learn why two long detector arms can register the tiny ripples from distant black-hole mergers, then see the working observatory’s Louisiana setting. Science Saturdays offer a way to visit a place where people are listening to the universe.",
   "source": {
     "pdfId": "019",
-    "pdfPage": 10
+    "pdfPage": 10,
+    "webUrl": "https://www.ligo.caltech.edu/LA/page/Science-Saturdays"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Visit the observatory that detects ripples in space-time.",
+  "editorialStatus": "researched",
+  "teaser": "Explore the observatory that detects gravitational waves.",
   "moods": [
     "wonder"
   ],
-  "goodToKnow": "Earlier research listed Science Saturdays on January 2 and February 6, 2027. The tour was free and about 90 minutes, with accessible facilities; confirm dates, route and tour areas.",
-  "whyItMightDelightYou": "Visit a working gravitational-wave observatory with two four-kilometer detector arms, exhibits and opportunities to meet people exploring the universe.",
+  "goodToKnow": "Science Saturday dates and available tour areas can change; check the LIGO calendar and access details.",
+  "whyItMightDelightYou": "Standing near a real instrument built for something so faint can change the scale of your imagination.",
   "provider": {
     "name": "LIGO Livingston",
     "url": "https://www.ligo.caltech.edu/page/Science-Saturdays"

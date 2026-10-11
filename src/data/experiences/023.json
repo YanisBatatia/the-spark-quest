@@ -1,20 +1,21 @@
 {
   "id": "023",
-  "title": "Search for rare wild whooping cranes",
+  "title": "Look for whooping cranes on the Texas coast",
   "location": {
     "label": "Aransas coast, Texas",
     "placeGroup": "Texas"
   },
-  "description": "Take a guided birdwatching boat from the Rockport area toward the cranes' coastal winter habitat. Their rarity and conservation story add meaning to the encounter.",
+  "description": "From the Rockport area, a birding boat can carry you along the bays and marshes bordering the Aransas winter range. Scan the shore for tall white whooping cranes and listen as a guide explains the long conservation effort behind their return. These are wild, endangered birds, so the trip is as much about careful watching as a guaranteed sighting.",
   "source": {
     "pdfId": "023",
-    "pdfPage": 11
+    "pdfPage": 11,
+    "webUrl": "https://www.fws.gov/refuge/aransas"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Take a guided birdwatching boat from the Rockport area toward the cranes' coastal winter habitat.",
+  "editorialStatus": "researched",
+  "teaser": "Search coastal marshes for wild whooping cranes.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "Ask about boat boarding and sea conditions. Wild whooping crane sightings cannot be promised.",
-  "whyItMightDelightYou": "Take a guided birdwatching boat from the Rockport area toward the cranes' coastal winter habitat."
+  "whyItMightDelightYou": "Knowing how close the species came to disappearing makes a distant white bird feel extraordinary."
 }

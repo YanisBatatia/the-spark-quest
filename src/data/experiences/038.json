@@ -1,20 +1,21 @@
 {
   "id": "038",
-  "title": "Explore Monument Valley with a Navajo guide",
+  "title": "See Monument Valley with a Navajo guide",
   "location": {
     "label": "Arizona/Utah border",
     "placeGroup": "Arizona/Utah border"
   },
-  "description": "Travel among giant sandstone formations with a local guide who brings cultural history and personal stories to the iconic landscape.",
+  "description": "Travel between Monument Valley’s sandstone buttes with a Navajo guide who knows the land as more than a famous image. From the vehicle, watch formations shift in relation to one another and hear stories, place names, and perspectives that a self-guided drive cannot provide. A guided visit also opens routes beyond the public loop where permitted.",
   "source": {
     "pdfId": "038",
-    "pdfPage": 16
+    "pdfPage": 16,
+    "webUrl": "https://navajonationparks.org/guided-tour-operators/monument-valley-tour-operators/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Travel among giant sandstone formations with a local guide who brings cultural history and personal stories to the iconic landscape.",
+  "editorialStatus": "researched",
+  "teaser": "Explore Monument Valley with a local Navajo guide.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "Dirt roads may be rough; request a comfortable vehicle and limited walking.",
-  "whyItMightDelightYou": "Travel among giant sandstone formations with a local guide who brings cultural history and personal stories to the iconic landscape."
+  "whyItMightDelightYou": "The guide’s knowledge gives depth to a landscape you may think you already know from photographs."
 }

@@ -1,21 +1,22 @@
 {
   "id": "071",
-  "title": "Cook and share a complete Creole meal",
+  "title": "Cook a Louisiana meal in the French Quarter",
   "location": {
     "label": "New Orleans School of Cooking, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Prepare traditional Louisiana dishes with a chef in a small hands-on class, then eat the meal together.",
+  "description": "In a hands-on class at the New Orleans School of Cooking, work with an instructor and fellow guests on Louisiana dishes, then sit down to eat what you made. The school’s French Quarter setting adds another layer to the experience, but the center of it is the stove: aromas rising, ingredients changing, and stories shared around the table.",
   "source": {
     "pdfId": "071",
-    "pdfPage": 26
+    "pdfPage": 26,
+    "webUrl": "https://neworleansschoolofcooking.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Prepare traditional Louisiana dishes with a chef in a small hands-on class, then eat the meal together.",
+  "editorialStatus": "researched",
+  "teaser": "Learn Louisiana cooking by making and sharing a meal.",
   "moods": [
     "make",
     "taste"
   ],
-  "goodToKnow": "The earlier research listed a three-hour class around $149 per person. Confirm current cost, standing time and dietary options.",
-  "whyItMightDelightYou": "Prepare traditional Louisiana dishes with a chef in a small hands-on class, then eat the meal together."
+  "goodToKnow": "Check the current class menu, duration, cost, standing time and dietary options before reserving.",
+  "whyItMightDelightYou": "A recipe is easier to remember when you have cooked it with other people in the city that shaped it."
 }

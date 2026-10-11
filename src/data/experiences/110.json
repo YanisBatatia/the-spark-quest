@@ -1,23 +1,24 @@
 {
   "id": "110",
-  "title": "Spend four days among poets and readers",
+  "title": "Join the Key West Literary Seminar",
   "location": {
     "label": "Key West Literary Seminar, Florida",
     "placeGroup": "Florida"
   },
-  "description": "Attend the 2027 Poetry seminar for readings, conversations and the pleasure of hearing writers discuss their work in an intimate island setting.",
+  "description": "Spend four days in Key West listening to writers and readers explore a shared literary theme. The 2027 seminar centers on poetry, with talks and readings that invite you to hear how a line or image works. Conversations continue between sessions, and the island setting gives you room to think about what you heard.",
   "source": {
     "pdfId": "110",
-    "pdfPage": 35
+    "pdfPage": 35,
+    "webUrl": "https://www.kwls.org/seminar/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Share four days of poetry, conversation and island air.",
+  "editorialStatus": "researched",
+  "teaser": "Share four days of poetry and conversation in Key West.",
   "moods": [
     "listen",
     "rest"
   ],
-  "goodToKnow": "Earlier research listed January 7 to 10, 2027. Confirm the final program and reserve admission and lodging early.",
-  "whyItMightDelightYou": "Attend the 2027 Poetry seminar for readings, conversations and the pleasure of hearing writers discuss their work in an intimate island setting.",
+  "goodToKnow": "The 2027 poetry seminar runs January 7–10. Reserve admission and lodging early, and check the final program.",
+  "whyItMightDelightYou": "Hearing writers think aloud can send you back to familiar books with new ears.",
   "provider": {
     "name": "Key West Literary Seminar",
     "url": "https://www.kwls.org/seminar/"

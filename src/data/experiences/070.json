@@ -1,22 +1,23 @@
 {
   "id": "070",
-  "title": "Join an authentic Cajun crawfish boil",
+  "title": "Follow crawfish from field to boil",
   "location": {
     "label": "Crawfish Haven, near Kaplan, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Ask host Barry Toups about a private participatory boil: spices, technique, preparation and a shared feast of crawfish, corn and potatoes.",
+  "description": "At Crawfish Haven in Louisiana, a crawfish excursion connects the meal to the ponds and work that produce it. Learn how crawfish are harvested, then help with a boil or have the hosts prepare one for you. Sit down to eat while the spices and conversation are still fresh; this is a meal with a story attached.",
   "source": {
     "pdfId": "070",
-    "pdfPage": 25
+    "pdfPage": 25,
+    "webUrl": "https://www.crawfishhaven.net/explore/crawfish-excursions"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Ask host Barry Toups about a private participatory boil: spices, technique, preparation and a shared feast of crawfish, corn and potatoes.",
+  "editorialStatus": "researched",
+  "teaser": "Learn the work behind a Louisiana crawfish boil.",
   "moods": [
     "taste"
   ],
   "goodToKnow": "Winter crawfish supply varies with the weather. Confirm the current season, private format and availability well ahead.",
-  "whyItMightDelightYou": "Ask host Barry Toups about a private participatory boil: spices, technique, preparation and a shared feast of crawfish, corn and potatoes.",
+  "whyItMightDelightYou": "The best part is how the farm visit turns a delicious meal into a shared local ritual.",
   "provider": {
     "name": "Crawfish Haven",
     "url": "https://www.crawfishhaven.net/"

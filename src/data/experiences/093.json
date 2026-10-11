@@ -1,20 +1,21 @@
 {
   "id": "093",
-  "title": "Watch mermaids in an underwater theater",
+  "title": "Watch the Weeki Wachee mermaids perform",
   "location": {
     "label": "Weeki Wachee Springs, Florida",
     "placeGroup": "Florida"
   },
-  "description": "Enjoy a wonderfully strange piece of classic Americana as professional performers swim and act beneath the spring's surface.",
+  "description": "Take a seat in Weeki Wachee Springs’ underwater theater and watch performers move through the clear spring beyond the glass. The mermaids tell stories, perform underwater feats, and carry on a Florida attraction with decades of history. Remember that the water is real and the swimmers are working in it; their skill is as striking as the fantasy.",
   "source": {
     "pdfId": "093",
-    "pdfPage": 32
+    "pdfPage": 32,
+    "webUrl": "https://www.floridastateparks.org/parks-and-trails/weeki-wachee-springs-state-park/mermaid-shows"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Enjoy a wonderfully strange piece of classic Americana as professional performers swim and act beneath the spring's surface.",
+  "editorialStatus": "researched",
+  "teaser": "See live mermaids through an underwater theater window.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Audience seated in an auditorium; no swimming. Confirm show times and seating access.",
-  "whyItMightDelightYou": "Enjoy a wonderfully strange piece of classic Americana as professional performers swim and act beneath the spring's surface."
+  "whyItMightDelightYou": "The show keeps a delightfully unusual piece of Florida roadside history alive."
 }

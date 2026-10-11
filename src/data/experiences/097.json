@@ -1,21 +1,22 @@
 {
   "id": "097",
-  "title": "Spend an evening in the Library of Congress",
+  "title": "Spend an evening at the Library of Congress",
   "location": {
     "label": "Washington, DC",
     "placeGroup": "DC"
   },
-  "description": "Attend Live! at the Library for author conversations, special displays, performances or evening access to magnificent interiors.",
+  "description": "On selected Thursday evenings, the Library of Congress opens the Thomas Jefferson Building for its Live! at the Library program. Wander through exhibitions and the grand halls, then choose a conversation, performance, or display from the current calendar. When access is offered, a quiet look into the Main Reading Room can be the evening’s most memorable pause.",
   "source": {
     "pdfId": "097",
-    "pdfPage": 33
+    "pdfPage": 33,
+    "webUrl": "https://www.loc.gov/live/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Spend an evening among books, performances and grand interiors.",
+  "editorialStatus": "researched",
+  "teaser": "See the Library of Congress after ordinary visiting hours.",
   "moods": [
     "wonder",
     "listen"
   ],
   "goodToKnow": "Choose a current Library of Congress evening program and confirm seating and access before visiting.",
-  "whyItMightDelightYou": "The Library becomes a place to linger, listen and discover."
+  "whyItMightDelightYou": "The building feels especially inviting when its collections become part of a live evening program."
 }

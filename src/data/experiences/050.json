@@ -1,21 +1,22 @@
 {
   "id": "050",
-  "title": "Experience San Sebastian Street Festival",
+  "title": "Celebrate the San Sebastián Street Festival",
   "location": {
     "label": "Old San Juan, Puerto Rico",
     "placeGroup": "Puerto Rico"
   },
-  "description": "Discover giant-headed traditional figures, artisan markets, dancing and a city celebrating its cultural identity.",
+  "description": "Old San Juan’s narrow streets fill with music, dance, art, and food for the Fiestas de la Calle San Sebastián. Walk between performances and artisan stalls, looking up at the colorful balconies as the neighborhood becomes one long gathering place. Come ready for crowds, late hours, and the warm momentum of a Puerto Rican street celebration.",
   "source": {
     "pdfId": "050",
-    "pdfPage": 19
+    "pdfPage": 19,
+    "webUrl": "https://fcss.sanjuan.pr/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Discover giant-headed traditional figures, artisan markets, dancing and a city celebrating its cultural identity.",
+  "editorialStatus": "researched",
+  "teaser": "Follow the music through Old San Juan’s festival streets.",
   "moods": [
     "wonder",
     "listen"
   ],
-  "goodToKnow": "Earlier research listed January 21 to 24, 2027. This festival can be crowded; choose a comfortable viewing base and confirm the final program.",
-  "whyItMightDelightYou": "Discover giant-headed traditional figures, artisan markets, dancing and a city celebrating its cultural identity."
+  "goodToKnow": "Confirm the current festival dates and program; Old San Juan’s streets can be crowded during performances.",
+  "whyItMightDelightYou": "The historic neighborhood becomes the stage, and you can experience the celebration simply by walking through it."
 }

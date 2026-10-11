@@ -1,20 +1,21 @@
 {
   "id": "062",
-  "title": "Create an object from molten glass",
+  "title": "Make glass at the Corning Museum",
   "location": {
     "label": "Corning Museum of Glass, New York",
     "placeGroup": "New York"
   },
-  "description": "Work with expert glassmakers on a flower, ornament or other beginner object, and discover the pleasure of creating with glass.",
+  "description": "Visit Corning’s galleries to see how artists have shaped glass across centuries, then step into the Studio for a Make Your Own Glass session. With staff guiding the process, you choose a project and take part in making an object from a material normally encountered only after it has cooled. Watch a live demonstration while you are there.",
   "source": {
     "pdfId": "062",
-    "pdfPage": 23
+    "pdfPage": 23,
+    "webUrl": "https://glassmaking.cmog.org/make-your-own-glass"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Work with expert glassmakers on a flower, ornament or other beginner object, and discover the pleasure of creating with glass.",
+  "editorialStatus": "researched",
+  "teaser": "Try glassmaking after exploring the museum’s collection.",
   "moods": [
     "make"
   ],
   "goodToKnow": "Short sessions may be available. Confirm the current studio schedule, class format and access before reserving.",
-  "whyItMightDelightYou": "Work with expert glassmakers on a flower, ornament or other beginner object, and discover the pleasure of creating with glass."
+  "whyItMightDelightYou": "Handling the process yourself changes how you see every delicate object in the galleries."
 }

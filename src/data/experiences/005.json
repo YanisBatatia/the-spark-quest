@@ -1,21 +1,22 @@
 {
   "id": "005",
-  "title": "Bathe in an Alaskan geothermal spring",
+  "title": "Soak at Chena Hot Springs in the snow",
   "location": {
     "label": "Chena Hot Springs, Alaska",
     "placeGroup": "Alaska"
   },
-  "description": "Watch steam rise into freezing air while snow surrounds the outdoor pool. The contrast between warm water and the winter landscape is the main pleasure.",
+  "description": "At Chena Hot Springs, you walk through cold air toward the outdoor rock lake and slip into naturally heated water. Steam rises while snow collects around the pool, making the contrast between your warm shoulders and the Alaskan night feel almost impossible. Stay for an unhurried soak, then head inside to warm up before the drive back.",
   "source": {
     "pdfId": "005",
-    "pdfPage": 6
+    "pdfPage": 6,
+    "webUrl": "https://www.chenahotsprings.com/hot-springs/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Watch steam rise into freezing air while snow surrounds the outdoor pool.",
+  "editorialStatus": "researched",
+  "teaser": "Step from winter air into Chena’s steaming outdoor pool.",
   "moods": [
     "nature",
     "rest"
   ],
   "goodToKnow": "Before you go, check hot-water suitability, pool access and slippery footing.",
-  "whyItMightDelightYou": "Watch steam rise into freezing air while snow surrounds the outdoor pool."
+  "whyItMightDelightYou": "Few experiences make cold and warmth feel so vivid at the same time."
 }

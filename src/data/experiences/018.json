@@ -1,21 +1,22 @@
 {
   "id": "018",
-  "title": "Cross the Rockies aboard the California Zephyr",
+  "title": "Ride the California Zephyr through the Rockies",
   "location": {
     "label": "Denver to Glenwood Springs, Colorado",
     "placeGroup": "Colorado"
   },
-  "description": "Settle into a comfortable train seat as mountain valleys and canyons unfold along one of America's great scenic rail segments.",
+  "description": "Board Amtrak’s California Zephyr in Denver and let the train climb toward the Continental Divide before following the Colorado River through canyon country. From a window seat, watch tunnels, peaks, and river bends replace the city; Glenwood Springs makes a natural stop. The changing view gives the trip its rhythm, without asking you to drive mountain roads.",
   "source": {
     "pdfId": "018",
-    "pdfPage": 10
+    "pdfPage": 10,
+    "webUrl": "https://www.amtrak.com/california-zephyr-train"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Settle into a comfortable train seat as mountain valleys and canyons unfold along one of America's great scenic rail segments.",
+  "editorialStatus": "researched",
+  "teaser": "Let the Rockies unfold between Denver and Glenwood Springs.",
   "moods": [
     "nature",
     "rest"
   ],
   "goodToKnow": "Reserve suitable seating; allow for railway delays.",
-  "whyItMightDelightYou": "Settle into a comfortable train seat as mountain valleys and canyons unfold along one of America's great scenic rail segments."
+  "whyItMightDelightYou": "It is one of those journeys where sitting still feels like the most rewarding way to travel."
 }

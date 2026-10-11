@@ -3,7 +3,6 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ExperienceImage from '../../components/ExperienceImage.astro';
 import SaveButton from '../../components/SaveButton.astro';
-import { imageCredits } from '../../lib/featured-images';
 import coordinates from '../../data/map-coordinates.json';
 import Decorations from '../../components/Decorations.astro';
 
@@ -33,7 +32,6 @@ const mapLink = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/$
       <div class="detail-main">
         <figure class="detail-photo">
           <ExperienceImage id={id} title={data.title} priority detail />
-          {imageCredits[id] && <figcaption class="image-caption">{imageCredits[id].note} <a href={`${base}image-credits/#image-${id}`}>Image details</a></figcaption>}
         </figure>
         <h1>{data.title}</h1>
         <p class="detail-location"><span aria-hidden="true">●</span> {data.location.label}</p>
@@ -57,7 +55,7 @@ const mapLink = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/$
         </section>
         <section class="detail-panel">
           <h2>Why it might delight you</h2>
-          <p>{data.whyItMightDelightYou ?? data.teaser}</p>
+          <p>{data.whyItMightDelightYou}</p>
         </section>
         <div class="detail-panel">
           <details class="good-to-know">

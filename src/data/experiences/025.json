@@ -1,23 +1,24 @@
 {
   "id": "025",
-  "title": "Explore the ocean in a real submarine",
+  "title": "Dive below Waikiki in an Atlantis submarine",
   "location": {
     "label": "Waikiki, Oahu, Hawaii",
     "placeGroup": "Hawaii"
   },
-  "description": "Atlantis Submarines takes passengers beneath the ocean past reef habitats, marine wildlife and underwater wrecks, without swimming.",
+  "description": "A boat brings you to a passenger submarine off Waikiki; once aboard, you descend into a cooler, blue world without getting wet. Look through large windows for reef life and the artificial habitats around sunken vessels while the crew explains what you are seeing. The slow movement leaves time to notice small fish as well as the larger shapes outside.",
   "source": {
     "pdfId": "025",
-    "pdfPage": 12
+    "pdfPage": 12,
+    "webUrl": "https://www.atlantisadventures.com/waikiki/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Atlantis Submarines takes passengers beneath the ocean past reef habitats, marine wildlife and underwater wrecks, without swimming.",
+  "editorialStatus": "researched",
+  "teaser": "See Waikiki’s underwater world from a submarine window.",
   "moods": [
     "wonder",
     "nature"
   ],
-  "goodToKnow": "The earlier research described about 45 minutes underwater within a 1 hour 45 minute outing, and a fare around $168 per adult. Confirm current details and whether boat transfers and ladders are manageable.",
-  "whyItMightDelightYou": "Atlantis Submarines takes passengers beneath the ocean past reef habitats, marine wildlife and underwater wrecks, without swimming.",
+  "goodToKnow": "The outing involves a boat and submarine transfer. Check current duration, fare and boarding requirements.",
+  "whyItMightDelightYou": "It gives non-divers a rare chance to feel surrounded by the ocean rather than watching it from shore.",
   "provider": {
     "name": "Atlantis Adventures",
     "url": "https://www.atlantisadventures.com/waikiki/"

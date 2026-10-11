@@ -1,20 +1,21 @@
 {
   "id": "065",
-  "title": "Meet the artists who build Mardi Gras floats",
+  "title": "See Mardi Gras floats taking shape",
   "location": {
     "label": "Mardi Gras World, New Orleans, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Visit a real float workshop filled with enormous colorful sculptures and learn how they are designed and made.",
+  "description": "Walk through Mardi Gras World’s working float den, where artists build the giant props and painted scenes that later roll through New Orleans. A guide explains the process as you pass pieces at different stages of completion. Seeing the figures up close gives you a new sense of scale when you meet them again on a parade route.",
   "source": {
     "pdfId": "065",
-    "pdfPage": 24
+    "pdfPage": 24,
+    "webUrl": "https://www.mardigrasworld.com/tours/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Visit a real float workshop filled with enormous colorful sculptures and learn how they are designed and made.",
+  "editorialStatus": "researched",
+  "teaser": "Go inside the workshop where parade floats are made.",
   "moods": [
     "make"
   ],
   "goodToKnow": "Indoor walking and standing; ask about a manageable tour and seating.",
-  "whyItMightDelightYou": "Visit a real float workshop filled with enormous colorful sculptures and learn how they are designed and made."
+  "whyItMightDelightYou": "It lets you meet the makers behind the spectacle and notice their work before the crowds arrive."
 }

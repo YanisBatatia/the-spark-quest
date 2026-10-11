@@ -1,21 +1,22 @@
 {
   "id": "041",
-  "title": "Experience Mardi Gras from a comfortable vantage point",
+  "title": "Watch Mardi Gras from the parade route",
   "location": {
     "label": "New Orleans, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Watch magnificent floats, brass bands and costumes from reserved seated parade viewing rather than crowded standing areas.",
+  "description": "Find a seat along a New Orleans parade route and let the celebration come to you: marching bands, elaborate floats, costumed riders, and neighbors calling for beads and throws. Grandstand seating gives you a fixed spot to return to as the procession rolls past, with room to take in the details of each krewe’s work.",
   "source": {
     "pdfId": "041",
-    "pdfPage": 17
+    "pdfPage": 17,
+    "webUrl": "https://www.neworleans.com/events/holidays-seasonal/mardi-gras/the-ultimate-mardi-gras-guide/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Watch magnificent floats, brass bands and costumes from reserved seated parade viewing rather than crowded standing areas.",
+  "editorialStatus": "researched",
+  "teaser": "Settle in for the color and music of a New Orleans parade.",
   "moods": [
     "wonder",
     "listen"
   ],
-  "goodToKnow": "Mardi Gras falls on February 9, 2027. Check individual parade schedules and make viewing arrangements in advance.",
-  "whyItMightDelightYou": "Watch magnificent floats, brass bands and costumes from reserved seated parade viewing rather than crowded standing areas."
+  "goodToKnow": "Mardi Gras Day is February 9, 2027. Check each krewe’s parade route and reserve grandstand seating early.",
+  "whyItMightDelightYou": "A reserved place makes it easier to linger, people-watch, and share the spectacle with your companions."
 }

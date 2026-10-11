@@ -1,21 +1,22 @@
 {
   "id": "017",
-  "title": "Ride a steam train into Cascade Canyon",
+  "title": "Ride the Cascade Canyon winter train",
   "location": {
     "label": "Durango, Colorado",
     "placeGroup": "Colorado"
   },
-  "description": "Take the Durango & Silverton winter excursion in a heated historic railcar. Snowy mountain scenery and a remote canyon provide adventure without a demanding hike.",
+  "description": "Leave Durango aboard a historic narrow-gauge train and follow the Animas River into the San Juan Mountains. In winter, the route toward Cascade Canyon passes snowy forest and steep canyon walls while the railcar keeps you sheltered. The engine, old track, and remote scenery make this feel like a journey, even when you return to the same depot.",
   "source": {
     "pdfId": "017",
-    "pdfPage": 9
+    "pdfPage": 9,
+    "webUrl": "https://durangotrain.com/excursions/cascade-canyon-winter-train/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Take the Durango & Silverton winter excursion in a heated historic railcar.",
+  "editorialStatus": "researched",
+  "teaser": "Follow the Animas River into a snowy canyon by rail.",
   "moods": [
     "nature",
     "rest"
   ],
   "goodToKnow": "Before you go, confirm winter timetable, railcar access and excursion duration.",
-  "whyItMightDelightYou": "Take the Durango & Silverton winter excursion in a heated historic railcar."
+  "whyItMightDelightYou": "You get the drama of a mountain expedition while still having a seat and a window."
 }

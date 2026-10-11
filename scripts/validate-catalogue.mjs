@@ -26,6 +26,10 @@ for (const filename of files) {
   for (const key of ['title', 'description', 'teaser', 'goodToKnow', 'whyItMightDelightYou']) {
     if (!entry[key]?.trim()) errors.push(`Missing ${key} in ${filename}`);
   }
+  if (entry.description?.length < 170) errors.push(`Description too short in ${filename}`);
+  if (entry.whyItMightDelightYou?.length < 40) errors.push(`Delight note too short in ${filename}`);
+  if (entry.description === entry.whyItMightDelightYou || entry.teaser === entry.whyItMightDelightYou) errors.push(`Repeated editorial copy in ${filename}`);
+  if (entry.editorialStatus !== 'researched' || !/^https:\/\//.test(entry.source?.webUrl ?? '')) errors.push(`Missing research source in ${filename}`);
   if (!entry.location?.label?.trim() || !entry.location?.placeGroup?.trim()) errors.push(`Missing location in ${filename}`);
   if (!Array.isArray(entry.moods) || entry.moods.length === 0) errors.push(`Missing moods in ${filename}`);
   if (entry.provider && (!entry.provider.name?.trim() || !/^https:\/\//.test(entry.provider.url))) errors.push(`Invalid provider in ${filename}`);
@@ -64,5 +68,5 @@ if (errors.length) {
   console.error(errors.join('\n'));
   process.exitCode = 1;
 } else {
-  console.log('Catalogue validated: 101 active IDs, images with credits, and location maps.');
+  console.log('Catalogue validated: 101 researched entries, images with credits, and location maps.');
 }

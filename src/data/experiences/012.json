@@ -1,21 +1,22 @@
 {
   "id": "012",
-  "title": "Stay in Yellowstone's snowy interior",
+  "title": "Spend a winter night at Old Faithful",
   "location": {
     "label": "Old Faithful Snow Lodge, Wyoming",
     "placeGroup": "Wyoming"
   },
-  "description": "Arrive by snowcoach, stay where ordinary cars cannot reach in winter and watch geysers erupt into freezing air.",
+  "description": "Ride a snowcoach into Yellowstone’s interior, where ordinary cars do not reach Old Faithful Snow Lodge in winter. From that warm base, step out into quiet snow and watch steam rise from geysers against the cold air. Staying overnight gives you time to experience the basin after day visitors have gone, then return to the lodge for dinner and a rest.",
   "source": {
     "pdfId": "012",
-    "pdfPage": 8
+    "pdfPage": 8,
+    "webUrl": "https://www.yellowstonenationalparklodges.com/lodgings/cabin/old-faithful-snow-lodge-cabins-winter/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Arrive by snowcoach, stay where ordinary cars cannot reach in winter and watch geysers erupt into freezing air.",
+  "editorialStatus": "researched",
+  "teaser": "Reach Yellowstone’s snowy interior by snowcoach.",
   "moods": [
     "nature",
     "rest"
   ],
-  "goodToKnow": "Earlier research listed a December 16, 2026 to March 7, 2027 lodge season. Confirm the current season, snowcoach transfers and conditions on paths.",
-  "whyItMightDelightYou": "Arrive by snowcoach, stay where ordinary cars cannot reach in winter and watch geysers erupt into freezing air."
+  "goodToKnow": "Confirm lodge dates, snowcoach transfers and conditions on paths before reserving.",
+  "whyItMightDelightYou": "The park feels different when the road ends and the geyser basin becomes your neighborhood for the night."
 }

@@ -1,20 +1,21 @@
 {
   "id": "011",
-  "title": "Search for wild wolves with an expert",
+  "title": "Look for wolves in Yellowstone’s Lamar Valley",
   "location": {
     "label": "Lamar Valley, Yellowstone, Wyoming",
     "placeGroup": "Wyoming"
   },
-  "description": "Spend a morning with a private wildlife naturalist and powerful spotting scopes. Real suspense, discovery and a wild winter landscape distinguish this from a zoo visit.",
+  "description": "Start early on Yellowstone’s northern range with a naturalist and a spotting scope. From roadside pullouts, scan the broad Lamar Valley for movement among bison and elk; your guide can help read tracks, behavior, and distant shapes without promising a sighting. Even when wolves stay out of view, the winter valley reveals how many lives share this landscape.",
   "source": {
     "pdfId": "011",
-    "pdfPage": 8
+    "pdfPage": 8,
+    "webUrl": "https://www.nps.gov/places/000/lamar-valley-wolf-watching.htm"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Spend a morning with a private wildlife naturalist and powerful spotting scopes.",
+  "editorialStatus": "researched",
+  "teaser": "Scan Yellowstone’s winter valley with a wildlife guide.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "Viewing happens mainly from a vehicle, with optional cold outdoor stops. Wildlife sightings are always unpredictable.",
-  "whyItMightDelightYou": "Spend a morning with a private wildlife naturalist and powerful spotting scopes."
+  "whyItMightDelightYou": "The suspense of watching a truly wild place makes every movement in the distance matter."
 }

@@ -1,21 +1,22 @@
 {
   "id": "089",
-  "title": "Experience a giant audiovisual spectacle",
+  "title": "See a show inside the Las Vegas Sphere",
   "location": {
     "label": "Sphere, Las Vegas, Nevada",
     "placeGroup": "Nevada"
   },
-  "description": "Choose a production created for the extraordinary wraparound screen and sound system.",
+  "description": "From your seat inside Sphere, the screen curves overhead and around the audience while sound fills the room. Choose a film, concert, or other production that genuinely interests you, since each uses the venue differently. Give yourself a moment before the show to take in the scale, then let the images change your sense of where the room ends.",
   "source": {
     "pdfId": "089",
-    "pdfPage": 31
+    "pdfPage": 31,
+    "webUrl": "https://www.thesphere.com/shows"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Choose a production created for the extraordinary wraparound screen and sound system.",
+  "editorialStatus": "researched",
+  "teaser": "Watch images and sound fill a vast curved theater.",
   "moods": [
     "wonder",
     "listen"
   ],
   "goodToKnow": "Shows are seated but can have powerful visual and sound effects. Check the specific production if you are sensitive to motion or sensory intensity.",
-  "whyItMightDelightYou": "Choose a production created for the extraordinary wraparound screen and sound system."
+  "whyItMightDelightYou": "The architecture becomes part of the performance, making even a seated evening feel exploratory."
 }

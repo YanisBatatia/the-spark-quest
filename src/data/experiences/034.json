@@ -1,22 +1,23 @@
 {
   "id": "034",
-  "title": "Watch winter sunrise over the Grand Canyon",
+  "title": "Watch sunrise from the Grand Canyon’s South Rim",
   "location": {
     "label": "South Rim, Arizona",
     "placeGroup": "Arizona"
   },
-  "description": "Choose selected rim viewpoints without a strenuous hike. Arriving by the Grand Canyon Railway from Williams can add atmosphere to the journey.",
+  "description": "Reach a South Rim viewpoint while the canyon is still shadowed and let the first light move across its layered walls. In winter the air can be sharp and a dusting of snow may outline the rock, though neither snow nor a clear sky is guaranteed. A short visit to a rim overlook can offer a vast experience without a descent into the canyon.",
   "source": {
     "pdfId": "034",
-    "pdfPage": 14
+    "pdfPage": 14,
+    "webUrl": "https://www.nps.gov/grca/planyourvisit/sunrise_set_moon.htm"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Choose selected rim viewpoints without a strenuous hike.",
+  "editorialStatus": "researched",
+  "teaser": "Let morning light reveal the canyon layer by layer.",
   "moods": [
     "wonder",
     "nature",
     "rest"
   ],
   "goodToKnow": "South Rim open year-round; snow is not guaranteed. Cold, ice and transport schedules need checking.",
-  "whyItMightDelightYou": "Choose selected rim viewpoints without a strenuous hike."
+  "whyItMightDelightYou": "The view changes minute by minute, giving you a reason to stay after the first photograph."
 }

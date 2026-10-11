@@ -1,20 +1,21 @@
 {
   "id": "076",
-  "title": "Spend an evening in private Japanese-inspired baths",
+  "title": "Soak in a private bath at Ten Thousand Waves",
   "location": {
     "label": "Ten Thousand Waves, Santa Fe, New Mexico",
     "placeGroup": "New Mexico"
   },
-  "description": "Combine warm outdoor soaking, Japanese dining and a tranquil mountain setting.",
+  "description": "Just outside Santa Fe, Ten Thousand Waves sets its private hot tubs among trees and mountain air. Reserve a bath, move between hot water and a cool pause, then consider a meal or treatment if you want to linger. The Japanese-inspired setting makes the transition from the city’s streets to quiet feel almost immediate.",
   "source": {
     "pdfId": "076",
-    "pdfPage": 27
+    "pdfPage": 27,
+    "webUrl": "https://tenthousandwaves.com/plan-your-visit"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Combine warm outdoor soaking, Japanese dining and a tranquil mountain setting.",
+  "editorialStatus": "researched",
+  "teaser": "Warm up in a secluded bath in the Santa Fe hills.",
   "moods": [
     "rest"
   ],
   "goodToKnow": "Reserve private baths and dining; check hot-water suitability and winter access.",
-  "whyItMightDelightYou": "Combine warm outdoor soaking, Japanese dining and a tranquil mountain setting."
+  "whyItMightDelightYou": "It is the kind of pause that leaves room for conversation, silence, or simply watching the steam."
 }

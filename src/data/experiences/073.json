@@ -1,20 +1,21 @@
 {
   "id": "073",
-  "title": "Discover Gullah Geechee food traditions",
+  "title": "Cook Gullah Geechee food in Charleston",
   "location": {
     "label": "Charleston, South Carolina",
     "placeGroup": "South Carolina"
   },
-  "description": "Eat at a culturally rooted establishment such as Hannibal's Kitchen, ideally with a local culinary guide explaining ingredients, dishes and history.",
+  "description": "A class with Carolina Cookery puts Gullah Geechee and Lowcountry food traditions at the center of the table. Cook alongside a local instructor, learn why particular ingredients and methods matter, and taste the result together. The experience is as much about the people and history behind the food as it is about a finished dish.",
   "source": {
     "pdfId": "073",
-    "pdfPage": 26
+    "pdfPage": 26,
+    "webUrl": "https://www.thecarolinacookery.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Discover the flavors and stories of Gullah Geechee cooking.",
+  "editorialStatus": "researched",
+  "teaser": "Meet Lowcountry food traditions through a cooking class.",
   "moods": [
     "taste"
   ],
   "goodToKnow": "Reserve any guided component; confirm current opening and dietary suitability.",
-  "whyItMightDelightYou": "Eat at a culturally rooted establishment such as Hannibal's Kitchen, ideally with a local culinary guide explaining ingredients, dishes and history."
+  "whyItMightDelightYou": "A shared meal makes cultural history tangible without reducing it to a list of ingredients."
 }

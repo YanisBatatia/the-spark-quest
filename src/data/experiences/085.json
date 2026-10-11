@@ -1,22 +1,23 @@
 {
   "id": "085",
-  "title": "Enter the Phantom's masked world",
+  "title": "Step inside Masquerade’s Phantom story",
   "location": {
     "label": "Masquerade, New York City",
     "placeGroup": "New York City"
   },
-  "description": "Wear a mask and move through an elaborate theatrical environment inspired by The Phantom of the Opera, encountering performers at close range.",
+  "description": "Masquerade retells The Phantom of the Opera as an immersive New York production. Instead of watching every scene from a fixed seat, you move through designed rooms as music and performers draw you into the story. The closeness changes how you notice a glance, a costume, or a familiar song; check the current ticket and access details before you go.",
   "source": {
     "pdfId": "085",
-    "pdfPage": 30
+    "pdfPage": 30,
+    "webUrl": "https://masqueradenyc.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Step into a masked world inspired by The Phantom of the Opera.",
+  "editorialStatus": "researched",
+  "teaser": "Follow the Phantom through rooms, music, and masks.",
   "moods": [
     "wonder"
   ],
-  "goodToKnow": "The earlier research listed tickets from $199 and performances through March 28, 2027. The experience involves moving between floors and standing; ask about elevator access and current details.",
-  "whyItMightDelightYou": "Wear a mask and move through an elaborate theatrical environment inspired by The Phantom of the Opera, encountering performers at close range.",
+  "goodToKnow": "The experience involves walking and standing through multiple rooms; ask about accessible routes and current tickets.",
+  "whyItMightDelightYou": "Being close to the performers can make a well-known story feel newly uncertain and alive.",
   "provider": {
     "name": "Masquerade",
     "url": "https://masqueradenyc.com/"

@@ -1,20 +1,21 @@
 {
   "id": "046",
-  "title": "Visit a community-built illuminated ice palace",
+  "title": "Walk through Saranac Lake’s ice palace",
   "location": {
     "label": "Saranac Lake, New York",
     "placeGroup": "New York"
   },
-  "description": "Enjoy a whimsical small-town winter carnival with its ice palace, parades and fireworks.",
+  "description": "In the Adirondacks, volunteers cut blocks from a frozen lake and build the ice palace that anchors Saranac Lake’s Winter Carnival. Visit by day to see how the blocks fit together, then come back after dark when colored lights glow through the walls. The wider carnival adds parades, events, and the cheerful feeling of a town celebrating winter together.",
   "source": {
     "pdfId": "046",
-    "pdfPage": 18
+    "pdfPage": 18,
+    "webUrl": "https://saranaclakewintercarnival.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Enjoy a whimsical small-town winter carnival with its ice palace, parades and fireworks.",
+  "editorialStatus": "researched",
+  "teaser": "See a community-made ice palace glow after sunset.",
   "moods": [
     "wonder"
   ],
-  "goodToKnow": "Earlier research listed February 5 to 14, 2027. Confirm the program and prepare for cold and slippery ground.",
-  "whyItMightDelightYou": "Enjoy a whimsical small-town winter carnival with its ice palace, parades and fireworks."
+  "goodToKnow": "Confirm the carnival program and prepare for cold and slippery ground around the ice palace.",
+  "whyItMightDelightYou": "The palace is beautiful because its neighbors built it, and you can feel that shared effort throughout the carnival."
 }

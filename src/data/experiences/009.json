@@ -1,21 +1,22 @@
 {
   "id": "009",
-  "title": "Experience Anchorage's Fur Rondy",
+  "title": "Join Anchorage’s Fur Rondy celebrations",
   "location": {
     "label": "Anchorage, Alaska",
     "placeGroup": "Alaska"
   },
-  "description": "Discover snow sculptures, sled-dog racing and eccentric local traditions at an established winter festival.",
+  "description": "For Fur Rondy, downtown Anchorage becomes a winter festival: sled-dog teams race through city streets, snow sculptures grow near Ship Creek, and neighbors gather for parades and playful local events. Pick a few moments rather than trying to see everything. The mix of serious mushing, homemade tradition, and cold-weather humor makes the city feel especially itself.",
   "source": {
     "pdfId": "009",
-    "pdfPage": 7
+    "pdfPage": 7,
+    "webUrl": "https://furrondy.net/about"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Discover snow sculptures, sled-dog racing and eccentric local traditions at an established winter festival.",
+  "editorialStatus": "researched",
+  "teaser": "See sled-dog racing and snow art at Fur Rondy.",
   "moods": [
     "wonder",
     "nature"
   ],
-  "goodToKnow": "Earlier research listed February 25 to March 7, 2027. Confirm the program, and choose a seated or shorter event if that suits you.",
-  "whyItMightDelightYou": "Discover snow sculptures, sled-dog racing and eccentric local traditions at an established winter festival."
+  "goodToKnow": "Check the current Fur Rondy program and choose the events and viewing spots that suit your pace.",
+  "whyItMightDelightYou": "It is a festival that lets you meet Anchorage through the traditions its residents still enjoy together."
 }

@@ -1,20 +1,21 @@
 {
   "id": "087",
-  "title": "See 1,500 dinosaur fossils still in rock",
+  "title": "See dinosaur bones still in their rock",
   "location": {
     "label": "Dinosaur National Monument, Utah",
     "placeGroup": "Utah"
   },
-  "description": "The Quarry Exhibit Hall preserves a remarkable concentration of fossils in their original rock face.",
+  "description": "At Dinosaur National Monument’s Quarry Exhibit Hall, a wall of roughly 1,500 bones remains exposed in the ancient rock where they were found. Walk along the viewing levels, pick out ribs and vertebrae, and take in how densely the fossils overlap. A few places even let you touch real fossil bone, bringing a distant era briefly into reach.",
   "source": {
     "pdfId": "087",
-    "pdfPage": 30
+    "pdfPage": 30,
+    "webUrl": "https://www.nps.gov/thingstodo/quarry-exhibit-hall.htm"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "The Quarry Exhibit Hall preserves a remarkable concentration of fossils in their original rock face.",
+  "editorialStatus": "researched",
+  "teaser": "Stand before a wall of dinosaur fossils in place.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Indoor accessible exhibits; verify winter approach, visitor-center access and opening.",
-  "whyItMightDelightYou": "The Quarry Exhibit Hall preserves a remarkable concentration of fossils in their original rock face."
+  "whyItMightDelightYou": "The bones feel more astonishing when you see their original jumble rather than a tidy skeleton."
 }

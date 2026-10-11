@@ -1,20 +1,21 @@
 {
   "id": "059",
-  "title": "Discover ballet at Lincoln Center",
+  "title": "See New York City Ballet at Lincoln Center",
   "location": {
     "label": "New York City Ballet, New York",
     "placeGroup": "New York"
   },
-  "description": "Live orchestra, athletic artistry and storytelling offer a chance to discover an unfamiliar artistic interest.",
+  "description": "Take your seat at the David H. Koch Theater and watch New York City Ballet turn timing and movement into a conversation. A program may pair different works, giving you contrasting music and choreography in one evening. Notice the corps moving together, then the individual character of each dancer when the stage opens up.",
   "source": {
     "pdfId": "059",
-    "pdfPage": 22
+    "pdfPage": 22,
+    "webUrl": "https://www.nycballet.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Live orchestra, athletic artistry and storytelling offer a chance to discover an unfamiliar artistic interest.",
+  "editorialStatus": "researched",
+  "teaser": "Watch choreography and live music meet at Lincoln Center.",
   "moods": [
     "listen"
   ],
-  "goodToKnow": "Earlier research listed a January 19 to February 28, 2027 winter season. Choose a current program and seats that suit you.",
-  "whyItMightDelightYou": "Live orchestra, athletic artistry and storytelling offer a chance to discover an unfamiliar artistic interest."
+  "goodToKnow": "Choose a current ballet program and seats that suit your visit; repertoire changes through the season.",
+  "whyItMightDelightYou": "You need no ballet vocabulary to enjoy the patterns, athleticism, and sudden shifts in mood."
 }

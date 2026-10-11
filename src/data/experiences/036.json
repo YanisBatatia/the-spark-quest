@@ -1,22 +1,23 @@
 {
   "id": "036",
-  "title": "Watch sunset across white gypsum dunes",
+  "title": "Watch evening light at White Sands",
   "location": {
     "label": "White Sands National Park, New Mexico",
     "placeGroup": "New Mexico"
   },
-  "description": "Drive through the dune fields and use the accessible Interdune Boardwalk. Pink, lavender and blue evening light is the main event.",
+  "description": "Drive into White Sands and walk a manageable stretch of the Interdune Boardwalk before sunset. The gypsum dunes begin almost white, then take on cooler blue, pink, and lavender tones as the light falls. Stay close to a known route and notice how the mountains and shadows give shape to a place that can first seem endless.",
   "source": {
     "pdfId": "036",
-    "pdfPage": 15
+    "pdfPage": 15,
+    "webUrl": "https://www.nps.gov/places/interdune-boardwalk.htm"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Drive through the dune fields and use the accessible Interdune Boardwalk.",
+  "editorialStatus": "researched",
+  "teaser": "Watch white gypsum dunes change color at dusk.",
   "moods": [
     "wonder",
     "nature",
     "rest"
   ],
   "goodToKnow": "Before you go, confirm park hours, road access and any temporary closures; keep walking optional.",
-  "whyItMightDelightYou": "Drive through the dune fields and use the accessible Interdune Boardwalk."
+  "whyItMightDelightYou": "The quiet pleasure is seeing a simple landscape transform without anything moving but the light."
 }

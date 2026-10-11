@@ -1,22 +1,23 @@
 {
   "id": "040",
-  "title": "Enjoy dinner as an immersive performance",
+  "title": "Spend an evening at Alinea",
   "location": {
     "label": "Alinea, Chicago, Illinois",
     "placeGroup": "Illinois"
   },
-  "description": "Choose The Gallery for a roughly 3.5-hour tasting experience built around modernist gastronomy, theatrical presentation, unexpected textures and surprise.",
+  "description": "At Alinea in Chicago, dinner unfolds as a sequence of carefully designed courses rather than a conventional menu. The Gallery, Salon, and Kitchen Table offer different ways to experience the restaurant’s experimental cooking and presentation. Arrive ready to notice texture, aroma, and surprise as much as flavor; the meal asks for your attention and gives you plenty to talk about afterward.",
   "source": {
     "pdfId": "040",
-    "pdfPage": 16
+    "pdfPage": 16,
+    "webUrl": "https://www.alinearestaurant.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Turn dinner into an evening of theatrical surprises.",
+  "editorialStatus": "researched",
+  "teaser": "Try a multi-course dinner built around culinary surprise.",
   "moods": [
     "taste"
   ],
   "goodToKnow": "Reservations may open about two months ahead; confirm the current booking window, format and any dietary needs.",
-  "whyItMightDelightYou": "Choose The Gallery for a roughly 3.5-hour tasting experience built around modernist gastronomy, theatrical presentation, unexpected textures and surprise.",
+  "whyItMightDelightYou": "It is an evening for people who enjoy having their expectations of a meal gently overturned.",
   "provider": {
     "name": "Alinea",
     "url": "https://alinearestaurant.com/"

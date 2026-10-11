@@ -1,21 +1,22 @@
 {
   "id": "039",
-  "title": "Stand beside an asteroid impact crater",
+  "title": "Stand at the rim of Meteor Crater",
   "location": {
     "label": "Meteor Crater, Arizona",
     "placeGroup": "Arizona"
   },
-  "description": "Appreciate the scale of a spectacular geological site from the visitor-center observation experience.",
+  "description": "At Meteor Crater in Arizona, walk from the visitor center to a lookout and face an impact site much larger than it appears in pictures. Exhibits help explain how a space rock struck the desert and what the crater taught scientists. The experience is simple: stand at the edge, let your eyes trace the rim, and imagine the force that made it.",
   "source": {
     "pdfId": "039",
-    "pdfPage": 16
+    "pdfPage": 16,
+    "webUrl": "https://meteorcrater.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Appreciate the scale of a spectacular geological site from the visitor-center observation experience.",
+  "editorialStatus": "researched",
+  "teaser": "Look across an asteroid impact crater in Arizona.",
   "moods": [
     "wonder",
     "nature"
   ],
   "goodToKnow": "Choose observation rather than a longer rim tour; check stairs and accessible viewpoints.",
-  "whyItMightDelightYou": "Appreciate the scale of a spectacular geological site from the visitor-center observation experience."
+  "whyItMightDelightYou": "It is a direct encounter with evidence that the story of Earth includes events from far beyond it."
 }

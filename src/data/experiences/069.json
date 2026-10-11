@@ -1,22 +1,23 @@
 {
   "id": "069",
-  "title": "Help care for sea otters behind the scenes",
+  "title": "Meet sea otters behind the scenes",
   "location": {
     "label": "Georgia Aquarium, Atlanta, Georgia",
     "placeGroup": "Georgia"
   },
-  "description": "Join animal-care specialists to prepare food, observe feeding and participate in supervised training or enrichment.",
+  "description": "Georgia Aquarium’s Sea Otter Encounter takes you behind the Cold Water Quest habitat with animal-care staff. Learn how the team prepares food, trains the otters, and supports their wellbeing, then meet one of the animals at close range. The experience makes their playful public behavior more interesting by showing the daily care behind it.",
   "source": {
     "pdfId": "069",
-    "pdfPage": 25
+    "pdfPage": 25,
+    "webUrl": "https://www.georgiaaquarium.org/experience/sea-otter-encounter/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Join animal-care specialists to prepare food, observe feeding and participate in supervised training or enrichment.",
+  "editorialStatus": "researched",
+  "teaser": "See how aquarium staff care for sea otters.",
   "moods": [
     "nature"
   ],
-  "goodToKnow": "The earlier research described a small-group encounter of about 30 minutes. There is no swimming; touching an animal is never guaranteed. Confirm current access and participation rules.",
-  "whyItMightDelightYou": "Join animal-care specialists to prepare food, observe feeding and participate in supervised training or enrichment.",
+  "goodToKnow": "The encounter follows animal-care rules; check age and access requirements. Contact with an otter is never guaranteed.",
+  "whyItMightDelightYou": "The staff’s stories reveal the intelligence and needs behind the otters’ charm.",
   "provider": {
     "name": "Georgia Aquarium",
     "url": "https://www.georgiaaquarium.org/experience/sea-otter-encounter/"

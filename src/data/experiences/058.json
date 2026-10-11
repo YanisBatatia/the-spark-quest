@@ -1,20 +1,21 @@
 {
   "id": "058",
-  "title": "Experience a great opera at the Met",
+  "title": "Spend an evening at the Metropolitan Opera",
   "location": {
     "label": "Metropolitan Opera, New York City",
     "placeGroup": "New York City"
   },
-  "description": "Choose a visually impressive production, reserve excellent seats and make the entire evening special.",
+  "description": "Make an evening of an opera at the Met: arrive early, look into the grand auditorium, and read a short synopsis before the orchestra begins. Singers, musicians, costumes, and scenery work together to tell a story at enormous scale. Choose a production that intrigues you; the performance rewards attention even when the language is new.",
   "source": {
     "pdfId": "058",
-    "pdfPage": 22
+    "pdfPage": 22,
+    "webUrl": "https://www.metopera.org/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Choose a visually impressive production, reserve excellent seats and make the entire evening special.",
+  "editorialStatus": "researched",
+  "teaser": "Let an opera unfold on the Met’s vast stage.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "Seated; choose a suitable running time and current January-February production.",
-  "whyItMightDelightYou": "Choose a visually impressive production, reserve excellent seats and make the entire evening special."
+  "whyItMightDelightYou": "The combined force of live voices and orchestra can make even a familiar story feel immediate."
 }

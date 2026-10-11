@@ -1,20 +1,21 @@
 {
   "id": "082",
-  "title": "Watch a real rocket launch",
+  "title": "Watch a rocket leave the Space Coast",
   "location": {
     "label": "Florida's Space Coast",
     "placeGroup": "Florida's Space Coast"
   },
-  "description": "Experience the sight and thunder of a spacecraft leaving Earth.",
+  "description": "Choose a public launch viewing location, arrive early, and follow the countdown with everyone around you. For a few seconds after liftoff, the rocket climbs almost silently in the distance before the sound reaches you. Kennedy Space Center offers selected viewing opportunities with expert commentary; launch times and access can change, so leave flexibility in your trip.",
   "source": {
     "pdfId": "082",
-    "pdfPage": 29
+    "pdfPage": 29,
+    "webUrl": "https://www.kennedyspacecenter.com/launches-and-events/see-a-launch/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Experience the sight and thunder of a spacecraft leaving Earth.",
+  "editorialStatus": "researched",
+  "teaser": "Feel the delay between a rocket’s light and sound.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Launches can move or be cancelled. Plan this as part of a longer Space Coast visit and choose a seated viewing option.",
-  "whyItMightDelightYou": "Experience the sight and thunder of a spacecraft leaving Earth."
+  "whyItMightDelightYou": "The shared wait makes the brief moment of liftoff feel enormous."
 }

@@ -1,23 +1,24 @@
 {
   "id": "044",
-  "title": "Attend Sundance's first Boulder edition",
+  "title": "Spend a day at the Sundance Film Festival",
   "location": {
     "label": "Boulder, Colorado",
     "placeGroup": "Colorado"
   },
-  "description": "See independent film premieres and join filmmaker discussions, discovering unfamiliar stories and perspectives.",
+  "description": "Choose a screening, queue with other film lovers, then step into a conversation that continues after the lights come up. Sundance’s move to Boulder in 2027 brings its independent films, filmmakers, and festival energy to a walkable Colorado city. Build your day around a film or two and leave space for an unexpected discovery.",
   "source": {
     "pdfId": "044",
-    "pdfPage": 17
+    "pdfPage": 17,
+    "webUrl": "https://www.sundance.org/festivals/sundance-film-festival/about/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "See independent film premieres and join filmmaker discussions, discovering unfamiliar stories and perspectives.",
+  "editorialStatus": "researched",
+  "teaser": "Find a film you might never have chosen anywhere else.",
   "moods": [
     "wonder",
     "listen"
   ],
-  "goodToKnow": "Earlier research listed January 21 to 31, 2027 for the Boulder edition. Confirm the current program, reserve specific screenings and plan for winter weather.",
-  "whyItMightDelightYou": "See independent film premieres and join filmmaker discussions, discovering unfamiliar stories and perspectives.",
+  "goodToKnow": "Sundance lists January 21–31, 2027 for its first Boulder edition. Reserve specific screenings and plan for winter weather.",
+  "whyItMightDelightYou": "A festival screening lets you feel an audience respond together to a new voice on screen.",
   "provider": {
     "name": "Sundance Film Festival",
     "url": "https://www.sundance.org/festivals/sundance-film-festival/about/"

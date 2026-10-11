@@ -1,20 +1,21 @@
 {
   "id": "080",
-  "title": "Attend an intimate chef dinner at SOBEWFF",
+  "title": "Share a chef dinner at South Beach Wine & Food Festival",
   "location": {
     "label": "Miami, Florida",
     "placeGroup": "Florida"
   },
-  "description": "Choose a seated chef collaboration, special dinner or masterclass rather than a crowded tasting tent.",
+  "description": "Amid SOBEWFF’s larger tastings and crowds, a seated chef dinner offers time to focus on one menu and the people around your table. Choose an event that appeals to your palate, then follow the sequence of dishes and conversations through the evening. Miami’s festival brings many culinary voices together, so the particular dinner you choose matters.",
   "source": {
     "pdfId": "080",
-    "pdfPage": 28
+    "pdfPage": 28,
+    "webUrl": "https://corporate.sobewff.org/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Choose a seated chef collaboration, special dinner or masterclass rather than a crowded tasting tent.",
+  "editorialStatus": "researched",
+  "teaser": "Choose a seated chef dinner during Miami’s food festival.",
   "moods": [
     "taste"
   ],
-  "goodToKnow": "Earlier research listed February 25 to 28, 2027 for the festival. Check the final event calendar and reserve a specific dinner.",
-  "whyItMightDelightYou": "Choose a seated chef collaboration, special dinner or masterclass rather than a crowded tasting tent."
+  "goodToKnow": "The 2027 festival is scheduled for February 25–28. Choose and reserve a specific dinner from the current program.",
+  "whyItMightDelightYou": "A smaller table gives you time to notice the ideas and people behind each course."
 }

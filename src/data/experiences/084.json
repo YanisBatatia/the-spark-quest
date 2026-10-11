@@ -1,20 +1,21 @@
 {
   "id": "084",
-  "title": "Stand among enormous radio telescopes",
+  "title": "Walk among the Very Large Array antennas",
   "location": {
     "label": "Very Large Array, New Mexico",
     "placeGroup": "New Mexico"
   },
-  "description": "Visit a working scientific facility where giant antennas study the universe, in a remote landscape with a science-fiction atmosphere.",
+  "description": "Cross the open New Mexico plain to the Very Large Array and follow the visitor center’s self-guided route toward one of its giant radio antennas. Exhibits explain how the dishes work together to study a universe our eyes cannot see. The remote landscape gives the machines room to impress you before you learn what they hear.",
   "source": {
     "pdfId": "084",
-    "pdfPage": 29
+    "pdfPage": 29,
+    "webUrl": "https://public.nrao.edu/product/vla-pint-glass/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Visit a working scientific facility where giant antennas study the universe, in a remote landscape with a science-fiction atmosphere.",
+  "editorialStatus": "researched",
+  "teaser": "Stand beneath a radio telescope in the New Mexico desert.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Before you go, confirm visitor hours, tour availability, altitude and walking requirements.",
-  "whyItMightDelightYou": "Visit a working scientific facility where giant antennas study the universe, in a remote landscape with a science-fiction atmosphere."
+  "whyItMightDelightYou": "The contrast between vast silence and instruments listening to space is hard to forget."
 }

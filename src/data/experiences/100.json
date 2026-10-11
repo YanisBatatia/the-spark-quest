@@ -1,20 +1,21 @@
 {
   "id": "100",
-  "title": "Encounter American history at the EJI Legacy Sites",
+  "title": "Make time for Montgomery’s Legacy Sites",
   "location": {
     "label": "Montgomery, Alabama",
     "placeGroup": "Alabama"
   },
-  "description": "Visit the National Memorial for Peace and Justice and related historical sites for reflection, perspective and a profound encounter with human history.",
+  "description": "Visit the Legacy Museum, the National Memorial for Peace and Justice, and Freedom Monument Sculpture Park with time to pause between them. The Equal Justice Initiative uses testimony, art, documents, and memorial spaces to examine slavery, racial terror, and their continuing consequences. Let the visit be unhurried; these histories ask for attention and reflection beyond a quick stop.",
   "source": {
     "pdfId": "100",
-    "pdfPage": 34
+    "pdfPage": 34,
+    "webUrl": "https://legacysites.eji.org/visit/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Make space for reflection at Montgomery’s Legacy Sites.",
+  "editorialStatus": "researched",
+  "teaser": "Spend a reflective day with history in Montgomery.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "These sites address painful history. Give yourself time and choose a manageable visit with room to reflect afterward.",
-  "whyItMightDelightYou": "Visit the National Memorial for Peace and Justice and related historical sites for reflection, perspective and a profound encounter with human history."
+  "whyItMightDelightYou": "The sites connect individual lives and names to larger systems, making the history difficult to leave abstract."
 }

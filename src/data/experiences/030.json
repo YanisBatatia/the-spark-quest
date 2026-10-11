@@ -1,23 +1,24 @@
 {
   "id": "030",
-  "title": "Stay on an almost untouched island among wild horses",
+  "title": "Stay at Greyfield Inn on Cumberland Island",
   "location": {
     "label": "Greyfield Inn, Cumberland Island, Georgia",
     "placeGroup": "Georgia"
   },
-  "description": "Spend two or three nights in a historic Carnegie mansion reached by private ferry. Explore ancient moss-draped oaks, island landscapes and freely roaming horses with naturalists.",
+  "description": "Arrive by private ferry at Cumberland Island and settle into Greyfield Inn, a Carnegie family house amid maritime forest. Days can unfold among live oaks, long beaches, birdlife, and the island’s free-roaming horses, with meals bringing you back to the inn. An overnight stay gives you time for the quiet after day visitors leave and the shoreline belongs to the evening.",
   "source": {
     "pdfId": "030",
-    "pdfPage": 13
+    "pdfPage": 13,
+    "webUrl": "https://greyfieldinn.com/about/the-inn/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Spend two or three nights in a historic Carnegie mansion reached by private ferry.",
+  "editorialStatus": "researched",
+  "teaser": "Spend a night among Cumberland Island’s oaks and horses.",
   "moods": [
     "nature",
     "rest"
   ],
-  "goodToKnow": "The earlier research listed a premium nightly rate that included meals, ferry and guided outings, plus a January 18 to 22, 2027 photo trip. Confirm current prices and availability; roads can be bumpy and the inn has stairs.",
-  "whyItMightDelightYou": "Spend two or three nights in a historic Carnegie mansion reached by private ferry.",
+  "goodToKnow": "Confirm the current nightly rate and what it includes. Ferry arrivals, bumpy island roads and stairs need planning.",
+  "whyItMightDelightYou": "The ferry ride and the absence of ordinary traffic make the island feel like a world entered on purpose.",
   "provider": {
     "name": "Greyfield Inn",
     "url": "https://greyfieldinn.com/"

@@ -1,21 +1,22 @@
 {
   "id": "033",
-  "title": "See Kauai's Napali Coast from the air",
+  "title": "Fly above Kauaʻi’s Nā Pali Coast",
   "location": {
     "label": "Kauai, Hawaii",
     "placeGroup": "Hawaii"
   },
-  "description": "A scenic flight or helicopter excursion reveals fluted cliffs, deep green valleys and remote coastline inaccessible by road.",
+  "description": "From a small aircraft or helicopter, the Nā Pali Coast appears as a succession of steep green folds dropping toward the Pacific. Watch ridges, waterfalls, and narrow valleys come into view one after another, places that no road crosses. The flight offers a sense of the coastline’s shape that is difficult to gather from any single beach or lookout.",
   "source": {
     "pdfId": "033",
-    "pdfPage": 14
+    "pdfPage": 14,
+    "webUrl": "https://kauaiairtours.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "A scenic flight or helicopter excursion reveals fluted cliffs, deep green valleys and remote coastline inaccessible by road.",
+  "editorialStatus": "researched",
+  "teaser": "See Kauaʻi’s roadless coast from the air.",
   "moods": [
     "wonder",
     "nature"
   ],
   "goodToKnow": "Weather, turbulence, aircraft boarding and weight policies require consideration.",
-  "whyItMightDelightYou": "A scenic flight or helicopter excursion reveals fluted cliffs, deep green valleys and remote coastline inaccessible by road."
+  "whyItMightDelightYou": "From above, you can understand at once why this coastline feels both immense and difficult to reach."
 }

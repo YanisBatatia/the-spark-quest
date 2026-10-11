@@ -1,20 +1,21 @@
 {
   "id": "048",
-  "title": "Experience a legendary Texas rodeo",
+  "title": "Spend a day at the Fort Worth Stock Show & Rodeo",
   "location": {
     "label": "Fort Worth, Texas",
     "placeGroup": "Texas"
   },
-  "description": "Watch professional Western competition from a comfortable arena seat at the Fort Worth Stock Show & Rodeo.",
+  "description": "Go beyond the arena at the Fort Worth Stock Show & Rodeo: livestock barns, exhibits, food stalls, and generations of Texas ranching culture all share the grounds. Then take your seat for a rodeo performance, where the crowd follows each ride and roping run closely. It is a full day of people, animals, skill, and tradition.",
   "source": {
     "pdfId": "048",
-    "pdfPage": 19
+    "pdfPage": 19,
+    "webUrl": "https://www.fwssr.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Watch professional Western competition from a comfortable arena seat at the Fort Worth Stock Show & Rodeo.",
+  "editorialStatus": "researched",
+  "teaser": "Pair the rodeo arena with the bustle of the stock show.",
   "moods": [
     "wonder"
   ],
-  "goodToKnow": "Earlier research listed these dates: January 15-February 6, 2027. Choose a specific performance and accessible seating.",
-  "whyItMightDelightYou": "Watch professional Western competition from a comfortable arena seat at the Fort Worth Stock Show & Rodeo."
+  "goodToKnow": "Choose a current rodeo performance and seating in advance; allow time for the livestock exhibits.",
+  "whyItMightDelightYou": "The day gives you a fuller sense of the community behind the competition."
 }

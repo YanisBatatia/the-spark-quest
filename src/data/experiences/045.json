@@ -1,20 +1,21 @@
 {
   "id": "045",
-  "title": "Discover extraordinary gems and fossils",
+  "title": "Hunt for treasures at Tucson’s gem shows",
   "location": {
     "label": "Tucson, Arizona",
     "placeGroup": "Arizona"
   },
-  "description": "Explore selected shows within the citywide Gem, Mineral & Fossil Showcase, meeting collectors, artisans and scientists among rare objects.",
+  "description": "Every winter, Tucson fills with dealers, collectors, and makers showing minerals, fossils, gems, and jewelry. Move from glittering display cases to rough stones with their origins still visible; ask questions and learn how a specimen reached the table. The showcase spans many venues, so pick a few that match your curiosity and give yourself time to browse.",
   "source": {
     "pdfId": "045",
-    "pdfPage": 18
+    "pdfPage": 18,
+    "webUrl": "https://www.visittucson.org/tucson-gem-mineral-fossil-showcase/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Explore selected shows within the citywide Gem, Mineral & Fossil Showcase, meeting collectors, artisans and scientists among rare objects.",
+  "editorialStatus": "researched",
+  "teaser": "Wander from raw crystals to fossils and handmade jewelry.",
   "moods": [
     "wonder"
   ],
-  "goodToKnow": "Earlier research listed showcase dates from January 27 to February 14, 2027. Check the final program and choose a few venues if you prefer a shorter visit.",
-  "whyItMightDelightYou": "Explore selected shows within the citywide Gem, Mineral & Fossil Showcase, meeting collectors, artisans and scientists among rare objects."
+  "goodToKnow": "Check the latest showcase calendar; shows span many venues, so choose a few that match your interests.",
+  "whyItMightDelightYou": "It rewards curiosity even if you buy nothing: each table opens a small window onto geology and craft."
 }

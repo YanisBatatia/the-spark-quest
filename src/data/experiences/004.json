@@ -1,20 +1,21 @@
 {
   "id": "004",
-  "title": "Ride through snowy forest with huskies",
+  "title": "Ride a dog sled near Fairbanks",
   "location": {
     "label": "Fairbanks, Alaska",
     "placeGroup": "Alaska"
   },
-  "description": "Choose a musher-led passenger sled ride, meet the dogs and learn their personalities. Some operators pair the ride with dinner in a heated yurt.",
+  "description": "Meet a working sled-dog team before climbing into a passenger sled, then listen as excited barking gives way to runners gliding over snow. A musher guides the dogs through forest trails and explains how the team communicates and trains. It is a chance to feel an Alaskan winter tradition from inside the sled, with the dogs very much the stars.",
   "source": {
     "pdfId": "004",
-    "pdfPage": 5
+    "pdfPage": 5,
+    "webUrl": "https://www.alaska.org/destination/fairbanks/dog-mushing"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Choose a musher-led passenger sled ride, meet the dogs and learn their personalities.",
+  "editorialStatus": "researched",
+  "teaser": "Meet the dogs, then glide through snowy forest.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "The sled ride can be bumpy. Ask the operator about boarding, weight limits and how the ride feels before reserving.",
-  "whyItMightDelightYou": "Choose a musher-led passenger sled ride, meet the dogs and learn their personalities."
+  "whyItMightDelightYou": "The instant the dogs begin to run turns a quiet landscape into a shared, energetic ride."
 }

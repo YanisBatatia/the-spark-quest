@@ -1,21 +1,22 @@
 {
   "id": "016",
-  "title": "Experience the Steamboat Winter Carnival",
+  "title": "Watch Steamboat’s Winter Carnival come alive",
   "location": {
     "label": "Steamboat Springs, Colorado",
     "placeGroup": "Colorado"
   },
-  "description": "Watch Western skijoring, unusual ski performances, fireworks and the illuminated night show.",
+  "description": "Steamboat Springs fills its winter carnival with traditions that could only happen in a ski town: horses pull skiers down a snowy street, local families gather, and the nighttime show lights up Howelsen Hill. Choose a street event or the evening extravaganza and let the town’s enthusiasm carry you. It is part sporting event, part community celebration.",
   "source": {
     "pdfId": "016",
-    "pdfPage": 9
+    "pdfPage": 9,
+    "webUrl": "https://www.steamboatchamber.com/events/annual-events/steamboat-winter-carnival/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Watch Western skijoring, unusual ski performances, fireworks and the illuminated night show.",
+  "editorialStatus": "researched",
+  "teaser": "See skijoring and a glowing night show in Steamboat.",
   "moods": [
     "wonder",
     "nature"
   ],
-  "goodToKnow": "Earlier research listed February 2 to 7, 2027. Check the current program and choose a comfortable viewing spot.",
-  "whyItMightDelightYou": "Watch Western skijoring, unusual ski performances, fireworks and the illuminated night show."
+  "goodToKnow": "Check the current carnival program and choose a comfortable viewing spot for outdoor events.",
+  "whyItMightDelightYou": "The best part is how proudly the town turns its winter skills into a celebration everyone can share."
 }

@@ -1,20 +1,21 @@
 {
   "id": "078",
-  "title": "Enjoy Creole lunch aboard a Mississippi steamboat",
+  "title": "Have lunch on the Steamboat NATCHEZ",
   "location": {
     "label": "Steamboat NATCHEZ, New Orleans, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Combine historic paddlewheel cruising, river scenery, food and live jazz on a lunch cruise.",
+  "description": "Board the Steamboat NATCHEZ near the French Quarter and watch New Orleans recede as the Mississippi carries you past its busy port. A daytime cruise offers live narration and jazz, with lunch available aboard. Between bites, step outside for river air and a view that explains why the city grew along this bend.",
   "source": {
     "pdfId": "078",
-    "pdfPage": 28
+    "pdfPage": 28,
+    "webUrl": "https://www.steamboatnatchez.com/daytime-jazz-cruises-lunch-option-cart.html"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Combine historic paddlewheel cruising, river scenery, food and live jazz on a lunch cruise.",
+  "editorialStatus": "researched",
+  "teaser": "See New Orleans from the river over lunch and jazz.",
   "moods": [
     "taste"
   ],
   "goodToKnow": "Before you go, confirm operating vessel, lunch format, accessible boarding and seating.",
-  "whyItMightDelightYou": "Combine historic paddlewheel cruising, river scenery, food and live jazz on a lunch cruise."
+  "whyItMightDelightYou": "The moving view connects the city’s music, food, and river history in one easy afternoon."
 }

@@ -1,22 +1,23 @@
 {
   "id": "007",
-  "title": "Meet musk oxen and discover qiviut",
+  "title": "Meet musk oxen at the Palmer farm",
   "location": {
     "label": "Palmer, Alaska",
     "placeGroup": "Alaska"
   },
-  "description": "Tour the Musk Ox Farm and learn about these prehistoric-looking animals and their extraordinarily soft fiber. Animals, craftsmanship and an unusual Alaskan livelihood come together.",
+  "description": "A guided visit to the Musk Ox Farm brings you close to shaggy Arctic animals and the people who care for them. Learn how the farm gently combs qiviut, the soft underwool used by makers, and look for the difference between a calf and a powerful adult. The visit connects an unusual animal, a local craft, and a long-running conservation-minded farm.",
   "source": {
     "pdfId": "007",
-    "pdfPage": 6
+    "pdfPage": 6,
+    "webUrl": "https://www.muskoxfarm.org/home"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Tour the Musk Ox Farm and learn about these prehistoric-looking animals and their extraordinarily soft fiber.",
+  "editorialStatus": "researched",
+  "teaser": "Meet Palmer’s musk oxen and learn about qiviut.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "Before you go, confirm winter tours and walking requirements.",
-  "whyItMightDelightYou": "Tour the Musk Ox Farm and learn about these prehistoric-looking animals and their extraordinarily soft fiber.",
+  "whyItMightDelightYou": "It is hard to forget an animal that looks ancient, then discover how carefully its remarkable fiber is gathered.",
   "provider": {
     "name": "Musk Ox Farm",
     "url": "https://www.muskoxfarm.org/"

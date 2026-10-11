@@ -1,21 +1,22 @@
 {
   "id": "079",
-  "title": "Make dinner a destination at the Inn at Little Washington",
+  "title": "Make a night of dinner at the Inn at Little Washington",
   "location": {
     "label": "Washington, Virginia",
     "placeGroup": "Virginia"
   },
-  "description": "Enjoy a renowned tasting menu and exceptional dining room as a carefully planned special occasion.",
+  "description": "Travel to the small Virginia town of Washington for a dinner that unfolds over several courses at the Inn at Little Washington. The dining room treats food, service, and setting as parts of one carefully paced evening. Arrive without a rush, notice the details between courses, and let the trip there become part of the occasion.",
   "source": {
     "pdfId": "079",
-    "pdfPage": 28
+    "pdfPage": 28,
+    "webUrl": "https://www.theinnatlittlewashington.com/dine"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Enjoy a renowned tasting menu and exceptional dining room as a carefully planned special occasion.",
+  "editorialStatus": "researched",
+  "teaser": "Plan a special dinner in a tiny Virginia town.",
   "moods": [
     "taste",
     "rest"
   ],
   "goodToKnow": "Premium experience. Reserve ahead and confirm dietary needs and access.",
-  "whyItMightDelightYou": "Enjoy a renowned tasting menu and exceptional dining room as a carefully planned special occasion."
+  "whyItMightDelightYou": "The distance from ordinary routines makes the meal feel like a destination in its own right."
 }

@@ -1,20 +1,21 @@
 {
   "id": "088",
-  "title": "Step into an experimental ecosystem",
+  "title": "Walk through Biosphere 2’s living worlds",
   "location": {
     "label": "Biosphere 2, near Tucson, Arizona",
     "placeGroup": "Arizona"
   },
-  "description": "Explore the University of Arizona research facility created around the ambition of understanding complex enclosed ecosystems.",
+  "description": "Biosphere 2 rises from the Arizona desert as a collection of enclosed environments built for experiments in ecology and sustainability. A self-paced tour leads you through its history and current research, from the rainforest to other engineered habitats. Notice the pipes, glass, and living systems together: the building is as much a machine as a garden.",
   "source": {
     "pdfId": "088",
-    "pdfPage": 31
+    "pdfPage": 31,
+    "webUrl": "https://biosphere2.org/visit/visit-biosphere-2/self-guided-tour"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Explore the University of Arizona research facility created around the ambition of understanding complex enclosed ecosystems.",
+  "editorialStatus": "researched",
+  "teaser": "Explore an experimental ecosystem near Tucson.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Before you go, confirm tour route; walking, stairs and gradients may require adaptations.",
-  "whyItMightDelightYou": "Explore the University of Arizona research facility created around the ambition of understanding complex enclosed ecosystems."
+  "whyItMightDelightYou": "It makes the work of sustaining life visible in the walls and machinery around you."
 }

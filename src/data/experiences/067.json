@@ -1,20 +1,21 @@
 {
   "id": "067",
-  "title": "Try pottery with a Santa Fe artist",
+  "title": "Try the pottery wheel in Santa Fe",
   "location": {
     "label": "Paseo Pottery, Santa Fe, New Mexico",
     "placeGroup": "New Mexico"
   },
-  "description": "Enjoy roughly two hours of beginner wheel throwing or hand-building, focused on experimentation rather than a perfect object.",
+  "description": "At Paseo Pottery, a local ceramic artist shows you how to center clay and begin shaping it on the wheel. The process is messier and more absorbing than a finished bowl suggests: your hands, the turning wheel, and a little pressure all matter. The studio also displays work by Santa Fe makers, so you can see what practiced hands can do.",
   "source": {
     "pdfId": "067",
-    "pdfPage": 24
+    "pdfPage": 24,
+    "webUrl": "https://paseopottery.com/schedule"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Make something new with a local Santa Fe artist.",
+  "editorialStatus": "researched",
+  "teaser": "Spend two hands-on hours with clay and a pottery wheel.",
   "moods": [
     "make"
   ],
-  "whyItMightDelightYou": "Two hours to play with clay and enjoy making something by hand.",
+  "whyItMightDelightYou": "Even a lopsided first attempt can be satisfying when you feel the clay respond under your fingers.",
   "goodToKnow": "Ask about winter workshop dates and a comfortable seated beginner session."
 }

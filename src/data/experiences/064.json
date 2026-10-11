@@ -1,20 +1,21 @@
 {
   "id": "064",
-  "title": "Print an authentic vintage-style poster",
+  "title": "Pull a print at Hatch Show Print",
   "location": {
     "label": "Hatch Show Print, Nashville, Tennessee",
     "placeGroup": "Tennessee"
   },
-  "description": "Learn letterpress techniques and use hand-carved blocks to create a print or fabric design.",
+  "description": "Hatch Show Print is a working Nashville letterpress shop with a long history of bold concert posters. On a visit, see wood type, carved blocks, ink, and presses in use. Choose a workshop when offered and make a print of your own; the slight texture and imperfections are part of what makes letterpress feel alive.",
   "source": {
     "pdfId": "064",
-    "pdfPage": 23
+    "pdfPage": 23,
+    "webUrl": "https://hatchshowprint.com/visit"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Learn letterpress techniques and use hand-carved blocks to create a print or fabric design.",
+  "editorialStatus": "researched",
+  "teaser": "Get close to the ink and type behind Nashville posters.",
   "moods": [
     "make"
   ],
   "goodToKnow": "Two-hour Block Party workshop; no experience needed. Confirm dates and standing requirements.",
-  "whyItMightDelightYou": "Learn letterpress techniques and use hand-carved blocks to create a print or fabric design."
+  "whyItMightDelightYou": "You leave with a fresh appreciation for the labor and personality in printed words."
 }

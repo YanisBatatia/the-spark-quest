@@ -1,20 +1,21 @@
 {
   "id": "024",
-  "title": "Hear humpback whales beneath your boat",
+  "title": "Listen for humpback whales off Maui",
   "location": {
     "label": "Maui, Hawaii",
     "placeGroup": "Hawaii"
   },
-  "description": "Choose a whale-watching cruise with a marine naturalist and hydrophone, adding underwater song to the sight of whales in their winter habitat.",
+  "description": "Join a winter whale-watching boat with a naturalist and keep an eye on the water for blows, flukes, and the occasional breach. If the operator uses a hydrophone, you may also hear whale song from beneath the hull. The sounds add another dimension to Maui’s winter migration, even on a day when the whales stay mostly below the surface.",
   "source": {
     "pdfId": "024",
-    "pdfPage": 11
+    "pdfPage": 11,
+    "webUrl": "https://hawaiihumpbackwhale.noaa.gov/science/research/acoustic.html"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Watch humpback whales and listen for their underwater song.",
+  "editorialStatus": "researched",
+  "teaser": "Watch humpbacks and listen beneath the boat.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "January and February are often good months for whale watching. Confirm boat access and sea conditions; whale behavior varies, and no swimming is needed.",
-  "whyItMightDelightYou": "Choose a whale-watching cruise with a marine naturalist and hydrophone, adding underwater song to the sight of whales in their winter habitat."
+  "whyItMightDelightYou": "Hearing a whale before you can see one makes the open ocean feel suddenly full of life."
 }

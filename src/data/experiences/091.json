@@ -1,21 +1,22 @@
 {
   "id": "091",
-  "title": "Enter an indoor world of orchids",
+  "title": "Wander through the New York Botanical Garden’s Orchid Show",
   "location": {
     "label": "New York Botanical Garden, New York",
     "placeGroup": "New York"
   },
-  "description": "Explore a conservatory filled with orchids, color and imaginative displays during the seasonal flower show.",
+  "description": "Step from a New York winter into the conservatory, where orchids appear among tropical plants in an annual themed exhibition. Take time to look at the small details as well as the large installations: color, shape, and scent vary from flower to flower. The show is seasonal, so check the current design and dates before planning around it.",
   "source": {
     "pdfId": "091",
-    "pdfPage": 32
+    "pdfPage": 32,
+    "webUrl": "https://www.nybg.org/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Step into a warm indoor world of orchids and color.",
+  "editorialStatus": "researched",
+  "teaser": "Find a vivid indoor garden in the middle of winter.",
   "moods": [
     "nature",
     "rest"
   ],
-  "goodToKnow": "Earlier research listed February 6 to April 25, 2027 for the Orchid Show. Confirm the exhibition, tickets and conservatory route.",
-  "whyItMightDelightYou": "A garden in bloom can feel like a different season for an afternoon."
+  "goodToKnow": "Check the current Orchid Show theme, dates, ticketing and conservatory access.",
+  "whyItMightDelightYou": "The variety of orchids rewards slow looking and turns a cold day into a warm one."
 }

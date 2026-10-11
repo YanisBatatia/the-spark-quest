@@ -1,20 +1,21 @@
 {
   "id": "099",
-  "title": "Become an undercover agent for an afternoon",
+  "title": "Take on an undercover mission at the Spy Museum",
   "location": {
     "label": "International Spy Museum, Washington, DC",
     "placeGroup": "DC"
   },
-  "description": "Assume a fictional cover identity and complete an interactive mission through the museum.",
+  "description": "At Washington’s International Spy Museum, take a cover identity and test your observation and decision-making as you move through the exhibits. Real artifacts and stories show how espionage has worked across eras; the interactive mission keeps you alert to small details. Leave time to compare the fictional spy in your head with the messier reality on display.",
   "source": {
     "pdfId": "099",
-    "pdfPage": 34
+    "pdfPage": 34,
+    "webUrl": "https://www.spymuseum.org/exhibition-experiences/undercover-mission/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Assume a fictional cover identity and complete an interactive mission through the museum.",
+  "editorialStatus": "researched",
+  "teaser": "Try a cover identity while exploring real spy history.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Playful indoor experience; allow breaks through the extensive galleries.",
-  "whyItMightDelightYou": "Assume a fictional cover identity and complete an interactive mission through the museum."
+  "whyItMightDelightYou": "The mission makes you an active observer as the exhibits challenge familiar spy myths."
 }

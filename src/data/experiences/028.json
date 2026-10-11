@@ -1,20 +1,21 @@
 {
   "id": "028",
-  "title": "Glide through a blackwater wilderness",
+  "title": "Drift through the Okefenokee Swamp",
   "location": {
     "label": "Okefenokee Swamp, Georgia",
     "placeGroup": "Georgia"
   },
-  "description": "A guided boat carries you among cypress trees, Spanish moss and dark reflective water, through a landscape that feels almost mythical.",
+  "description": "A guided boat moves slowly through dark water beneath cypress trees and hanging moss. Look for reflected sky, floating plants, turtles, and alligators as the guide explains why the Okefenokee is a living wetland rather than just a backdrop. The stillness and unfamiliar sounds make the trip feel far from the roads outside the refuge.",
   "source": {
     "pdfId": "028",
-    "pdfPage": 13
+    "pdfPage": 13,
+    "webUrl": "https://www.fws.gov/refuge/okefenokee/visit-us/tours"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "A guided boat carries you among cypress trees, Spanish moss and dark reflective water, through a landscape that feels almost mythical.",
+  "editorialStatus": "researched",
+  "teaser": "Take a guided boat into a cypress-lined wetland.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "Before you go, check winter departures, boat transfers and cold-weather comfort. No swimming is needed.",
-  "whyItMightDelightYou": "A guided boat carries you among cypress trees, Spanish moss and dark reflective water, through a landscape that feels almost mythical."
+  "whyItMightDelightYou": "The swamp asks you to slow your eyes down until you start noticing what was hidden in plain sight."
 }

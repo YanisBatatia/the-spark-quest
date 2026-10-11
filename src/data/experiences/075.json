@@ -1,20 +1,21 @@
 {
   "id": "075",
-  "title": "Experience a historic American bathing ritual",
+  "title": "Take the waters at Buckstaff Bathhouse",
   "location": {
     "label": "Buckstaff Bathhouse, Hot Springs, Arkansas",
     "placeGroup": "Arkansas"
   },
-  "description": "Try traditional thermal bathing, warm packs, steam and optional massage in a century-old bathhouse tradition.",
+  "description": "Step into Buckstaff Bathhouse on Hot Springs’ historic Bathhouse Row and follow a bathing routine that has welcomed visitors for more than a century. Warm thermal water, a wrap, and time to rest make the visit feel deliberately unhurried. The building and ritual together offer a close encounter with an older American way of taking a break.",
   "source": {
     "pdfId": "075",
-    "pdfPage": 27
+    "pdfPage": 27,
+    "webUrl": "https://buckstaffbaths.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Try traditional thermal bathing, warm packs, steam and optional massage in a century-old bathhouse tradition.",
+  "editorialStatus": "researched",
+  "teaser": "Spend an unhurried afternoon on historic Bathhouse Row.",
   "moods": [
     "rest"
   ],
   "goodToKnow": "Before you go, check treatment suitability, transfers, stairs and comfort with the bathing format.",
-  "whyItMightDelightYou": "Try traditional thermal bathing, warm packs, steam and optional massage in a century-old bathhouse tradition."
+  "whyItMightDelightYou": "The sequence of bathing and resting gives you permission to slow your day down completely."
 }

@@ -1,20 +1,21 @@
 {
   "id": "060",
-  "title": "Have a Saturday-morning Cajun music adventure",
+  "title": "Hear Cajun music on a Saturday morning in Mamou",
   "location": {
     "label": "Fred's Lounge, Mamou, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Join an unconventional local morning music tradition with Cajun musicians and patrons. A gathering in nearby Eunice is an alternative within this entry.",
+  "description": "At Fred’s Lounge in Mamou, Saturday morning can start with a fiddle, accordion, and dancers already finding the beat. This small bar has long been a gathering place for live Cajun music. Arrive early, listen closely, and let the room’s easy social rhythm show you how the tradition lives beyond a festival stage.",
   "source": {
     "pdfId": "060",
-    "pdfPage": 22
+    "pdfPage": 22,
+    "webUrl": "https://www.lafayettetravel.com/plan/trip-ideas-itineraries/two-stepping-good-time/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Join an unconventional local morning music tradition with Cajun musicians and patrons.",
+  "editorialStatus": "researched",
+  "teaser": "Start Saturday with live Cajun music at Fred’s Lounge.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "Before you go, verify the actual live performance, opening and seating before making the drive.",
-  "whyItMightDelightYou": "Join an unconventional local morning music tradition with Cajun musicians and patrons."
+  "whyItMightDelightYou": "The early hour and close quarters make the music feel like part of local life."
 }

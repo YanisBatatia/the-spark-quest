@@ -1,22 +1,23 @@
 {
   "id": "035",
-  "title": "See Bryce Canyon's hoodoos surrounded by snow",
+  "title": "See Bryce Canyon’s hoodoos in winter",
   "location": {
     "label": "Bryce Canyon, Utah",
     "placeGroup": "Utah"
   },
-  "description": "Visit scenic overlooks above red rock spires. Snow can transform an already unusual landscape into something extraordinary.",
+  "description": "Look over Bryce Canyon Amphitheater from a rim viewpoint and take in rows of orange hoodoos against snow, evergreen trees, and blue winter sky. The shapes are striking in any season, but cold light and white ground sharpen their colors. You can choose a short overlook visit rather than a long, icy trail and still feel the scale of the formations.",
   "source": {
     "pdfId": "035",
-    "pdfPage": 15
+    "pdfPage": 15,
+    "webUrl": "https://www.nps.gov/brca/planyourvisit/winter.htm"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Visit scenic overlooks above red rock spires.",
+  "editorialStatus": "researched",
+  "teaser": "See red rock spires framed by winter snow.",
   "moods": [
     "wonder",
     "nature",
     "rest"
   ],
   "goodToKnow": "Before you go, confirm winter road and overlook access. High altitude, cold and icy footing.",
-  "whyItMightDelightYou": "Visit scenic overlooks above red rock spires."
+  "whyItMightDelightYou": "The contrast is so vivid that a familiar desert scene begins to look entirely new."
 }

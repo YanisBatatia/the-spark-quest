@@ -1,20 +1,21 @@
 {
   "id": "021",
-  "title": "Watch wild manatees in clear spring water",
+  "title": "Watch manatees at Three Sisters Springs",
   "location": {
     "label": "Three Sisters Springs, Florida",
     "placeGroup": "Florida"
   },
-  "description": "Observe wintering manatees from elevated boardwalks above protected warm-water refuges. A peaceful wildlife experience without entering the water.",
+  "description": "On a cool morning in Crystal River, follow the boardwalk above Three Sisters Springs and look into clear, blue-green water. Manatees gather in this warm-water refuge when surrounding waters turn cold; some rest almost motionless, while others surface for air. It is a patient, land-based way to watch wild animals without entering their protected space.",
   "source": {
     "pdfId": "021",
-    "pdfPage": 11
+    "pdfPage": 11,
+    "webUrl": "https://www.crystalriverfl.org/sisters"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "See gentle giants from a waterside boardwalk.",
+  "editorialStatus": "researched",
+  "teaser": "Look down into clear spring water for wintering manatees.",
   "moods": [
     "nature"
   ],
-  "whyItMightDelightYou": "A peaceful chance to watch gentle wildlife from the boardwalk.",
+  "whyItMightDelightYou": "The first slow shape beneath the surface can make the whole boardwalk fall quiet.",
   "goodToKnow": "Winter gatherings vary with the weather. Confirm current viewing access and shuttle arrangements. The idea is to watch from land, without swimming."
 }

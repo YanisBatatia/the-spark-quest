@@ -1,20 +1,21 @@
 {
   "id": "057",
-  "title": "Enter the studio behind classic American soul",
+  "title": "Tour Muscle Shoals Sound Studio",
   "location": {
     "label": "Muscle Shoals Sound Studio, Alabama",
     "placeGroup": "Alabama"
   },
-  "description": "Tour the original creative recording space associated with musicians across genres.",
+  "description": "Walk into the low-key building at 3614 Jackson Highway where the Swampers and visiting artists recorded some enduring songs. A guided visit to Muscle Shoals Sound Studio connects the control room, instruments, and recording floor to the music made there. Listen before or after your tour and see how an ordinary room acquired an extraordinary sound.",
   "source": {
     "pdfId": "057",
-    "pdfPage": 21
+    "pdfPage": 21,
+    "webUrl": "https://muscleshoalssoundstudio.org/products/tour"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Tour the original creative recording space associated with musicians across genres.",
+  "editorialStatus": "researched",
+  "teaser": "See the Alabama studio behind a remarkable run of records.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "Before you go, confirm tour hours and standing/access requirements.",
-  "whyItMightDelightYou": "Tour the original creative recording space associated with musicians across genres."
+  "whyItMightDelightYou": "The studio’s plain rooms make the collaborative work behind famous songs feel real."
 }

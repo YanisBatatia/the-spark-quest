@@ -1,20 +1,21 @@
 {
   "id": "013",
-  "title": "Ride among wintering elk",
+  "title": "Ride a sleigh through the National Elk Refuge",
   "location": {
     "label": "National Elk Refuge, Jackson, Wyoming",
     "placeGroup": "Wyoming"
   },
-  "description": "A horse-drawn sleigh enters the refuge for close observation of one of the West's great seasonal wildlife gatherings.",
+  "description": "Climb aboard a horse-drawn sleigh near Jackson and travel onto the National Elk Refuge, where elk gather on their winter range. A guide explains the herd and the wider refuge as the horses carry you across open ground. Look beyond the elk too: the winter landscape can hold bighorn sheep, swans, and eagles.",
   "source": {
     "pdfId": "013",
-    "pdfPage": 8
+    "pdfPage": 8,
+    "webUrl": "https://www.fws.gov/locations/national-elk-refuge-refuge/winter-sleigh-rides"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "A horse-drawn sleigh enters the refuge for close observation of one of the West's great seasonal wildlife gatherings.",
+  "editorialStatus": "researched",
+  "teaser": "Watch wintering elk from a horse-drawn sleigh.",
   "moods": [
     "nature"
   ],
-  "goodToKnow": "Earlier research listed a season from December 19 to April 3, subject to conditions. Ask about boarding, bumps and the cold before reserving.",
-  "whyItMightDelightYou": "A horse-drawn sleigh enters the refuge for close observation of one of the West's great seasonal wildlife gatherings."
+  "goodToKnow": "Sleigh rides depend on conditions. Ask about boarding, bumps and the cold before reserving.",
+  "whyItMightDelightYou": "Being in the open air, at the herd’s pace, makes the encounter feel more immediate than a roadside stop."
 }

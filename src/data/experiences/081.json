@@ -1,22 +1,23 @@
 {
   "id": "081",
-  "title": "Explore NASA with a real astronaut",
+  "title": "Tour Kennedy Space Center with an astronaut",
   "location": {
     "label": "Kennedy Space Center, Florida",
     "placeGroup": "Florida"
   },
-  "description": "Fly With An Astronaut combines a behind-the-scenes bus tour, catered lunch and conversation with an experienced astronaut about life in space.",
+  "description": "Spend part of a day with a veteran NASA astronaut as your guide at Kennedy Space Center. A small group travels by bus behind the gates, hears firsthand stories over lunch, and explores Space Shuttle Atlantis together. Bring the questions you have always wanted to ask; the most memorable part may be a personal detail no exhibit could tell you.",
   "source": {
     "pdfId": "081",
-    "pdfPage": 29
+    "pdfPage": 29,
+    "webUrl": "https://www.kennedyspacecenter.com/explore-attractions/meet-an-astronaut/fly-with-an-astronaut/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Tour Kennedy Space Center with an experienced astronaut.",
+  "editorialStatus": "researched",
+  "teaser": "Ask an astronaut about life and work beyond Earth.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "The astronaut program is offered periodically. Confirm dates and access; simulator elements can be skipped if unsuitable.",
-  "whyItMightDelightYou": "Fly With An Astronaut combines a behind-the-scenes bus tour, catered lunch and conversation with an experienced astronaut about life in space.",
+  "whyItMightDelightYou": "The conversation gives the spacecraft and launch pads a human scale.",
   "provider": {
     "name": "Kennedy Space Center",
     "url": "https://www.kennedyspacecenter.com/explore-attractions/meet-an-astronaut/fly-with-an-astronaut/"

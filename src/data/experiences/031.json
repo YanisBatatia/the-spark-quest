@@ -1,21 +1,22 @@
 {
   "id": "031",
-  "title": "See the water glow blue at night",
+  "title": "See Mosquito Bay glow after dark",
   "location": {
     "label": "Mosquito Bay, Vieques, Puerto Rico",
     "placeGroup": "Puerto Rico"
   },
-  "description": "Choose a guided pontoon-boat excursion, such as the boat-based format advertised by Isla Nena Bio Bay Boat Tours, to see bioluminescent water without paddling.",
+  "description": "Cross to Vieques and join a permitted evening tour of Mosquito Bay. As the boat moves through dark water, tiny organisms can flash blue-green in its wake, making each ripple seem lit from within. A moonless or low-moon night helps the effect stand out; a seated electric-boat tour is an option if paddling is not appealing.",
   "source": {
     "pdfId": "031",
-    "pdfPage": 14
+    "pdfPage": 14,
+    "webUrl": "https://www.discoverpuertorico.com/profile/isla-nena-biobay-tours-vieques/14541"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Watch a bioluminescent bay glow from a guided boat.",
+  "editorialStatus": "researched",
+  "teaser": "Watch bioluminescence shimmer in a Vieques bay.",
   "moods": [
     "wonder",
     "nature"
   ],
   "goodToKnow": "Choose a boat outing if you prefer to stay out of the water. A moonless night can make the glow easier to see; confirm boat operation, boarding and life jackets.",
-  "whyItMightDelightYou": "Choose a guided pontoon-boat excursion, such as the boat-based format advertised by Isla Nena Bio Bay Boat Tours, to see bioluminescent water without paddling."
+  "whyItMightDelightYou": "The glow is brief and responsive to movement, which makes every turn of the boat feel surprising."
 }

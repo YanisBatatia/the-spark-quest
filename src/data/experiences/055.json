@@ -1,20 +1,21 @@
 {
   "id": "055",
-  "title": "Visit the birthplace of legendary recordings",
+  "title": "Stand in the recording room at Sun Studio",
   "location": {
     "label": "Sun Studio, Memphis, Tennessee",
     "placeGroup": "Tennessee"
   },
-  "description": "Hear the stories and recordings of early Elvis Presley, Johnny Cash and others inside the actual historic studio.",
+  "description": "Sun Studio’s modest Memphis room helped launch recordings by Elvis Presley, Johnny Cash, and other early rock and roll artists. On a guided tour, listen to the stories and sounds connected to the equipment and walls around you. It is easy to picture the musicians experimenting together in a space much smaller than its reputation.",
   "source": {
     "pdfId": "055",
-    "pdfPage": 21
+    "pdfPage": 21,
+    "webUrl": "https://www.sunstudio.com/visit"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Hear the stories and recordings of early Elvis Presley, Johnny Cash and others inside the actual historic studio.",
+  "editorialStatus": "researched",
+  "teaser": "Step inside the Memphis studio where early rock took shape.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "Guided tour; check standing and access requirements.",
-  "whyItMightDelightYou": "Hear the stories and recordings of early Elvis Presley, Johnny Cash and others inside the actual historic studio."
+  "whyItMightDelightYou": "The room makes music history feel close enough to touch, even before the next song plays."
 }

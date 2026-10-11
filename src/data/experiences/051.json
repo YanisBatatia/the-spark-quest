@@ -1,21 +1,22 @@
 {
   "id": "051",
-  "title": "Enjoy traditional jazz at Preservation Hall",
+  "title": "Hear jazz at Preservation Hall",
   "location": {
     "label": "New Orleans, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Experience musicians playing with joy and spontaneity in one of America's most atmospheric small venues.",
+  "description": "Preservation Hall keeps the focus on the musicians: a small room in the French Quarter, close seating, and live New Orleans jazz without the distractions of a conventional club. Settle in and follow how the players trade melodies, solos, and smiles. The history matters, but the real reward is hearing this music played in front of you.",
   "source": {
     "pdfId": "051",
-    "pdfPage": 20
+    "pdfPage": 20,
+    "webUrl": "https://www.preservationhall.com/about/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Spend an intimate evening listening to live New Orleans jazz.",
+  "editorialStatus": "researched",
+  "teaser": "Sit close to the musicians in a small French Quarter hall.",
   "moods": [
     "listen",
     "rest"
   ],
-  "whyItMightDelightYou": "An intimate evening with music that feels alive in the room.",
+  "whyItMightDelightYou": "An intimate room lets you notice the conversation between players as much as the tune itself.",
   "goodToKnow": "Choose a performance with reserved seating if that would make the evening more comfortable."
 }

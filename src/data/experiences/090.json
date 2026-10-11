@@ -1,21 +1,22 @@
 {
   "id": "090",
-  "title": "Discover the world's musical instruments",
+  "title": "Listen your way around the Musical Instrument Museum",
   "location": {
     "label": "Musical Instrument Museum, Phoenix, Arizona",
     "placeGroup": "Arizona"
   },
-  "description": "Explore instruments and traditions from across the globe, then try making sounds in the Experience Gallery.",
+  "description": "At Phoenix’s Musical Instrument Museum, exhibits pair instruments with the sounds and performances that give them context. Move between regions and musical traditions at your own pace, pausing when something catches your ear. In the Experience Gallery, try making music yourself; a single rhythm can connect the displayed object to the hands that play it.",
   "source": {
     "pdfId": "090",
-    "pdfPage": 31
+    "pdfPage": 31,
+    "webUrl": "https://mim.org/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Explore instruments and traditions from across the globe, then try making sounds in the Experience Gallery.",
+  "editorialStatus": "researched",
+  "teaser": "Travel through music without leaving Phoenix.",
   "moods": [
     "wonder",
     "listen"
   ],
   "goodToKnow": "This is a large museum. Give yourself time for rests and check current opening hours.",
-  "whyItMightDelightYou": "Explore instruments and traditions from across the globe, then try making sounds in the Experience Gallery."
+  "whyItMightDelightYou": "Hearing an instrument as you see it makes an unfamiliar tradition immediately more approachable."
 }

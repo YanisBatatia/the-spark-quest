@@ -1,20 +1,21 @@
 {
   "id": "086",
-  "title": "Explore a surreal interactive mystery",
+  "title": "Get lost in Meow Wolf’s Santa Fe house",
   "location": {
     "label": "Meow Wolf: House of Eternal Return, Santa Fe",
     "placeGroup": "Santa Fe"
   },
-  "description": "Enter an apparently ordinary home and discover portals into strange fictional environments: art installation, storytelling and playful exploration combined.",
+  "description": "Enter an ordinary-looking house at Meow Wolf’s House of Eternal Return and begin opening doors. Its rooms branch into strange, colorful environments made by artists, with clues to a story you can follow or simply wander past. There is no single prescribed route, so curiosity becomes your guide from one surprise to the next.",
   "source": {
     "pdfId": "086",
-    "pdfPage": 30
+    "pdfPage": 30,
+    "webUrl": "https://meowwolf.com/visit/santa-fe"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Open a door into Meow Wolf’s surreal story worlds.",
+  "editorialStatus": "researched",
+  "teaser": "Open doors into the unexpected at House of Eternal Return.",
   "moods": [
     "wonder"
   ],
   "goodToKnow": "Walking, sensory effects and varied routes; ask about the most manageable accessible visit.",
-  "whyItMightDelightYou": "Enter an apparently ordinary home and discover portals into strange fictional environments: art installation, storytelling and playful exploration combined."
+  "whyItMightDelightYou": "You can choose how deeply to investigate the mystery, making the visit feel like your own discovery."
 }

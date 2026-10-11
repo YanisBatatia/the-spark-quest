@@ -1,20 +1,21 @@
 {
   "id": "029",
-  "title": "Meet rescued sea turtles and their caretakers",
+  "title": "Meet patients at the Turtle Hospital",
   "location": {
     "label": "The Turtle Hospital, Marathon, Florida",
     "placeGroup": "Florida"
   },
-  "description": "Discover the stories of injured turtles undergoing rehabilitation and learn how conservation teams protect them.",
+  "description": "At the Turtle Hospital in Marathon, a guided visit introduces sea turtles recovering from injury or illness and the people working to release them. Learn what treatment and rehabilitation involve, then see the tanks where patients regain strength. The visit is more personal than a standard aquarium: each animal has a story, and the goal is a return to the sea.",
   "source": {
     "pdfId": "029",
-    "pdfPage": 13
+    "pdfPage": 13,
+    "webUrl": "https://visitfloridakeys.com/business-directory/the-turtle-hospital"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Discover the stories of injured turtles undergoing rehabilitation and learn how conservation teams protect them.",
+  "editorialStatus": "researched",
+  "teaser": "See sea turtles being cared for in the Florida Keys.",
   "moods": [
     "nature"
   ],
   "goodToKnow": "Before you go, confirm tour reservations and walking/standing requirements.",
-  "whyItMightDelightYou": "Discover the stories of injured turtles undergoing rehabilitation and learn how conservation teams protect them."
+  "whyItMightDelightYou": "Meeting a patient makes marine conservation feel specific, practical, and hopeful."
 }

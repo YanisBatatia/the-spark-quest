@@ -5,16 +5,17 @@
     "label": "Belasco Theatre, New York City",
     "placeGroup": "New York City"
   },
-  "description": "A visually inventive, Tony-winning musical follows two obsolete robots rediscovering connection, love and the desire to experience life.",
+  "description": "In a future Seoul, two obsolete helper robots meet in a quiet apartment building and begin an unlikely friendship. Maybe Happy Ending uses music, humor, and inventive stagecraft to make their small discoveries feel enormous. Take a seat at the Belasco Theatre and let the story build from everyday curiosity into something tender and surprising.",
   "source": {
     "pdfId": "053",
-    "pdfPage": 20
+    "pdfPage": 20,
+    "webUrl": "https://www.maybehappyending.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "A visually inventive, Tony-winning musical follows two obsolete robots rediscovering connection, love and the desire to experience life.",
+  "editorialStatus": "researched",
+  "teaser": "Meet two retired robots in an intimate Broadway musical.",
   "moods": [
     "listen"
   ],
-  "goodToKnow": "Earlier research listed performances through February 28, 2027. Check the current run and seating before planning a visit.",
-  "whyItMightDelightYou": "A visually inventive, Tony-winning musical follows two obsolete robots rediscovering connection, love and the desire to experience life."
+  "goodToKnow": "Check the show’s current run and ticket availability before planning a trip around it.",
+  "whyItMightDelightYou": "Its small-scale story makes room for affection, loneliness, and the courage to connect."
 }

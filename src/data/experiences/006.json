@@ -1,21 +1,22 @@
 {
   "id": "006",
-  "title": "Watch the World Ice Art Championships",
+  "title": "See Fairbanks turn ice into art",
   "location": {
     "label": "Fairbanks, Alaska",
     "placeGroup": "Alaska"
   },
-  "description": "See enormous ice blocks transformed into intricate sculptures, illuminated after dark.",
+  "description": "At the World Ice Art Championships, sculptors work monumental blocks of clear ice into creatures, figures, and intricate scenes. Walk the grounds while pieces are being carved, then return after dark if you can: lighting reveals cuts and textures that daylight hides. The pleasure is seeing a temporary outdoor gallery made by people who know the material will eventually melt.",
   "source": {
     "pdfId": "006",
-    "pdfPage": 6
+    "pdfPage": 6,
+    "webUrl": "https://icealaska.com/visitors/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "See enormous ice blocks transformed into intricate sculptures, illuminated after dark.",
+  "editorialStatus": "researched",
+  "teaser": "Walk among freshly carved ice sculptures in Fairbanks.",
   "moods": [
     "wonder",
     "nature"
   ],
-  "goodToKnow": "Earlier research listed the 2027 competition beginning February 15, with judging into March. Confirm the current program and prepare for cold outdoor walking.",
-  "whyItMightDelightYou": "See enormous ice blocks transformed into intricate sculptures, illuminated after dark."
+  "goodToKnow": "Confirm the current competition program and prepare for cold outdoor walking among the sculptures.",
+  "whyItMightDelightYou": "The detail feels more astonishing when you remember every delicate edge began as a heavy block of ice."
 }

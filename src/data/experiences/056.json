@@ -1,20 +1,21 @@
 {
   "id": "056",
-  "title": "Spend an evening with Mississippi Delta blues",
+  "title": "Listen to live blues in Clarksdale",
   "location": {
     "label": "Ground Zero Blues Club, Clarksdale, Mississippi",
     "placeGroup": "Mississippi"
   },
-  "description": "Choose a proper live-band night, enjoy Southern food and experience blues close to its geographic roots.",
+  "description": "Spend an evening at Ground Zero Blues Club in Clarksdale, in the Mississippi Delta where blues history runs deep. Order something to eat, find a place near the stage, and settle into a live set. The point is to hear today’s musicians in a town that still treats the music as a living practice.",
   "source": {
     "pdfId": "056",
-    "pdfPage": 21
+    "pdfPage": 21,
+    "webUrl": "https://www.groundzerobluesclub.com/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Choose a proper live-band night, enjoy Southern food and experience blues close to its geographic roots.",
+  "editorialStatus": "researched",
+  "teaser": "Make time for a live blues set in the Mississippi Delta.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "Before you go, confirm the band, seating and sound levels before traveling.",
-  "whyItMightDelightYou": "Choose a proper live-band night, enjoy Southern food and experience blues close to its geographic roots."
+  "whyItMightDelightYou": "Hearing the music where its roots are so present gives the evening a sense of place."
 }

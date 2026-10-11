@@ -1,20 +1,21 @@
 {
   "id": "022",
-  "title": "Witness cranes and geese taking flight at sunrise",
+  "title": "Watch cranes lift off at Bosque del Apache",
   "location": {
     "label": "Bosque del Apache, New Mexico",
     "placeGroup": "New Mexico"
   },
-  "description": "Watch a winter spectacle of wings and sound from the wildlife drive and observation areas.",
+  "description": "Arrive before sunrise at Bosque del Apache, when wetlands are still dim and filled with the calls of wintering birds. As light reaches the refuge, snow geese can rise together in a loud, white wave, while sandhill cranes leave in smaller groups for nearby fields. The wildlife drive and viewing areas let you choose a place to wait and take it in.",
   "source": {
     "pdfId": "022",
-    "pdfPage": 11
+    "pdfPage": 11,
+    "webUrl": "https://www.fws.gov/refuge/bosque-del-apache/visit-us/activities/wildlife-watching"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Watch a winter spectacle of wings and sound from the wildlife drive and observation areas.",
+  "editorialStatus": "researched",
+  "teaser": "Hear and see thousands of wintering birds at dawn.",
   "moods": [
     "nature"
   ],
-  "goodToKnow": "Late January generally preferable to late February in the earlier research. Cold dawn; flock size and flight behavior vary.",
-  "whyItMightDelightYou": "Watch a winter spectacle of wings and sound from the wildlife drive and observation areas."
+  "goodToKnow": "Visit near dawn for active birds; flock size and flight behavior vary with weather and season.",
+  "whyItMightDelightYou": "A mass takeoff is powerful partly because no one gives a cue; the birds decide when the morning begins."
 }

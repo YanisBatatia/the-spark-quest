@@ -35,7 +35,7 @@ const myList = Astro.url.pathname.includes('/my-list/');
         </nav>
       </header>
       <main id="main-content"><slot /></main>
-      <footer class="site-footer page-frame"><span>A collection, not a checklist.</span><a href={`${base}image-credits/`}>Image credits</a></footer>
+      <footer class="site-footer page-frame"><a href={`${base}image-credits/`}>Image credits</a></footer>
     </div>
     <script>import '../scripts/saved-list.ts';</script>
   </body>

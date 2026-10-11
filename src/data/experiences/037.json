@@ -1,21 +1,22 @@
 {
   "id": "037",
-  "title": "Enter a vast underground cathedral",
+  "title": "Enter the Big Room at Carlsbad Caverns",
   "location": {
     "label": "Carlsbad Caverns, New Mexico",
     "placeGroup": "New Mexico"
   },
-  "description": "Descend by elevator to the Big Room and enjoy a manageable portion of its immense illuminated formations.",
+  "description": "An elevator carries you deep into Carlsbad Cavern, where the Big Room opens into a vast chamber of illuminated formations. Follow as much of the route as suits you, pausing at columns, draperies, and shapes made over immense stretches of time. The scale is difficult to grasp until you are standing inside it, looking across the chamber rather than at a photograph.",
   "source": {
     "pdfId": "037",
-    "pdfPage": 15
+    "pdfPage": 15,
+    "webUrl": "https://www.nps.gov/places/carlsbad-cavern.htm"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Descend by elevator to the Big Room and enjoy a manageable portion of its immense illuminated formations.",
+  "editorialStatus": "researched",
+  "teaser": "Take the elevator into a vast underground chamber.",
   "moods": [
     "wonder",
     "nature"
   ],
   "goodToKnow": "Full loop is long. Verify elevator operation and the suitability of the chosen route.",
-  "whyItMightDelightYou": "Descend by elevator to the Big Room and enjoy a manageable portion of its immense illuminated formations."
+  "whyItMightDelightYou": "The cave can make ordinary ideas of size and time feel wonderfully unreliable."
 }

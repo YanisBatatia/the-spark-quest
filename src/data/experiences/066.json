@@ -1,20 +1,21 @@
 {
   "id": "066",
-  "title": "Learn sweetgrass basket weaving",
+  "title": "Weave a sweetgrass basket in Charleston",
   "location": {
     "label": "Charleston, South Carolina",
     "placeGroup": "South Carolina"
   },
-  "description": "Arrange a workshop with a Gullah Geechee basket maker, combining craft, history and a personal encounter with the practitioner.",
+  "description": "Sit with a Charleston basket maker and learn how to coil and sew sweetgrass into a small basket. As your hands work, hear how this craft has been passed through generations of Gullah Geechee families. The pace is patient, and every shape shows the decisions of the person making it.",
   "source": {
     "pdfId": "066",
-    "pdfPage": 24
+    "pdfPage": 24,
+    "webUrl": "https://www.charlestoncvb.com/events/sweetgrass-basket-weaving-workshop~28580/"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Arrange a workshop with a Gullah Geechee basket maker, combining craft, history and a personal encounter with the practitioner.",
+  "editorialStatus": "researched",
+  "teaser": "Learn a coastal craft directly from a basket maker.",
   "moods": [
     "make"
   ],
   "goodToKnow": "Winter sessions need confirming; request a seated beginner format.",
-  "whyItMightDelightYou": "Arrange a workshop with a Gullah Geechee basket maker, combining craft, history and a personal encounter with the practitioner."
+  "whyItMightDelightYou": "A lesson makes the skill and family knowledge behind each finished basket easier to recognize."
 }

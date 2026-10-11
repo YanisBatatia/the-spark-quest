@@ -1,20 +1,21 @@
 {
   "id": "052",
-  "title": "Witness a Sunday second-line parade",
+  "title": "Walk alongside a New Orleans second line",
   "location": {
     "label": "New Orleans, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Brass bands and social-aid clubs bring a living community tradition into the streets.",
+  "description": "A second line is a moving neighborhood celebration led by a brass band and a social aid and pleasure club. Find a current Sunday route, join the people following behind, and let the music carry you through the streets. The parade belongs to its community, so watch, listen, and make room for the people who keep the tradition alive.",
   "source": {
     "pdfId": "052",
-    "pdfPage": 20
+    "pdfPage": 20,
+    "webUrl": "https://www.wwoz.org/programs/inthestreet"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Brass bands and social-aid clubs bring a living community tradition into the streets.",
+  "editorialStatus": "researched",
+  "teaser": "Let a brass band lead you through a New Orleans neighborhood.",
   "moods": [
     "listen"
   ],
   "goodToKnow": "A stationary viewing spot can be easier than following the whole parade. Confirm the Sunday schedule before going.",
-  "whyItMightDelightYou": "Brass bands and social-aid clubs bring a living community tradition into the streets."
+  "whyItMightDelightYou": "The joy is communal and unscripted; the route becomes a shared dance floor for an afternoon."
 }

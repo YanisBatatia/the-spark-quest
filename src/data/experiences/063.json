@@ -1,20 +1,21 @@
 {
   "id": "063",
-  "title": "Design a personal perfume",
+  "title": "Blend your own fragrance in New Orleans",
   "location": {
     "label": "Tijon, New Orleans, Louisiana",
     "placeGroup": "Louisiana"
   },
-  "description": "Spend time experimenting with perfume oils and guided blending to create a personal fragrance.",
+  "description": "At Tijon’s fragrance lab, begin by smelling individual notes and noticing which ones you return to. Mix a formula in a beaker, adjust it, and compare variations until it feels like yours. A guided class turns the usually mysterious process of perfume-making into a series of small, personal decisions you can actually smell.",
   "source": {
     "pdfId": "063",
-    "pdfPage": 23
+    "pdfPage": 23,
+    "webUrl": "https://tijon.com/pages/nola"
   },
-  "editorialStatus": "needs-review",
-  "teaser": "Blend perfume oils into a fragrance of your own.",
+  "editorialStatus": "researched",
+  "teaser": "Build a scent one note and adjustment at a time.",
   "moods": [
     "make"
   ],
   "goodToKnow": "A gentle sensory workshop. Check reservations and any fragrance sensitivities before attending.",
-  "whyItMightDelightYou": "A small sensory adventure that leaves you with something personal."
+  "whyItMightDelightYou": "A familiar smell can hold a place or a moment long after the trip ends."
 }
